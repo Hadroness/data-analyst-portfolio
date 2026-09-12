@@ -1,0 +1,126 @@
+customer_id,customer_name,email,city,signup_date
+1,Leila Rezaei,leila.rezaei229@gmail.com,TEHRAN,2024-09-07
+2,Reza Naderi,reza.naderi31@gmail.com,Isfhan,2024-02-02
+3,Hamed Abbasi,hamed.abbasi734@gmail.com,Tehran ,2024-07-22
+4,Kaveh Salehi,kaveh.salehi285@gmail.com,mashhad,2025-08-26
+5,Sara Sadeghi,sara.sadeghi160@gmail.com,qom,2024-10-11
+6,Sepideh Mousavi,sepideh.mousavi100@gmail.com,Isfahan,2025-01-24
+7,Farhad Vakili,farhad.vakili550@gmail.com,Tabriz,2025-04-15
+8,Milad Norouzi,milad.norouzi634@gmail.com,Esfahan,2025-10-05
+9,Farhad Zare,farhad.zare47@gmail.com,Mashad,2024-03-12
+10,Sepideh Rostami,sepideh.rostami390@gmail.com,isfahan,2024-04-13
+11,Leila Kazemi,leila.kazemi215@gmail.com,SHIRAZ,2024-12-29
+12,Golnaz Karimi,golnaz.karimi474@gmail.com,shiraz,2024-06-16
+13,Milad Naderi,milad.naderi864@gmail.com,Mashad,2024-11-28
+14,Ali Ghasemi,,TEHRAN,2025-02-14
+15,Milad Zare,milad.zare512@gmail.com,Karaj,2025-11-02
+16,Milad Yousefi,milad.yousefi253@gmail.com,SHIRAZ,2024-05-22
+17,Kaveh Jafari,kaveh.jafari371@gmail.com,QOM,2025-02-12
+18,Niloofar Abbasi,niloofar.abbasi882@gmail.com,Rasht,2024-02-18
+19,Leila Sadeghi,leila.sadeghi395@gmail.com,QOM,2024-03-06
+20,Setareh Abbasi,setareh.abbasi697@gmail.com,Tabtiz,2024-01-12
+21,Sina Naderi,sina.naderi115@gmail.com,Tabtiz,2024-12-14
+22,Amir Yousefi,amir.yousefi781@gmail.com,TEHRAN,2025-05-27
+23,Milad Rezaei,milad.rezaei624@gmail.com,Tabtiz,2025-06-03
+24,Farhad Sadeghi,,Tehran ,2024-11-27
+25,Milad Kazemi,milad.kazemi247@gmail.com,Tabriz,2024-02-29
+26,Mona Karimi,mona.karimi785@gmail.com,Rasht,2025-06-29
+27,Sina Fallahi,sina.fallahi894@gmail.com,SHIRAZ,2025-06-24
+28,Yasaman Naderi,yasaman.naderi409@gmail.com,Mashad,2024-11-15
+29,Leila Kazemi,leila.kazemi124@gmail.com,Rasht,2025-04-07
+30,Mona Mousavi,mona.mousavi236@gmail.com,Tehran ,2025-07-21
+31,Sara Karimi,,tehran,2024-03-10
+32,Elham Karimi,elham.karimi498@gmail.com,mashhad,2025-11-16
+33,Niloofar Zare,niloofar.zare827@gmail.com,Rasht,2025-04-29
+34,Reza Rezaei,reza.rezaei421@gmail.com,qom,2025-03-09
+35,Babak Hosseini,babak.hosseini746@gmail.com,Isfahan,2025-02-16
+36,Payam Rezaei,payam.rezaei550@gmail.com,Mashhad,2024-07-13
+37,Omid Sadeghi,omid.sadeghi896@gmail.com,tabriz,2024-09-12
+38,Setareh Naderi,setareh.naderi554@gmail.com,Isfahan,2025-10-29
+39,Mona Ghasemi,mona.ghasemi493@gmail.com,Shiraz ,2025-05-12
+40,Nazanin Hosseini,nazanin.hosseini400@gmail.com,Shiraz ,2024-01-03
+41,Iman Yousefi,iman.yousefi678@gmail.com,tabriz,2025-07-23
+42,Niloofar Ebrahimi,niloofar.ebrahimi594@gmail.com,Tabriz,2024-02-29
+43,Ali Mousavi,ali.mousavi489@gmail.com,Tehran,2025-08-21
+44,Payam Abbasi,payam.abbasi83@gmail.com,Shiraz,2025-06-04
+45,Mona Vakili,mona.vakili123@gmail.com,isfahan,2025-02-17
+46,Mahsa Ghasemi,mahsa.ghasemi430@gmail.com,Tehran ,2024-03-24
+47,Mahsa Abbasi,mahsa.abbasi686@gmail.com,karaj,2024-07-28
+48,Hamed Jafari,hamed.jafari661@gmail.com,Qom,2025-11-18
+49,Elham Karimi,elham.karimi577@gmail.com,Tehrn,2025-09-28
+50,Mona Naderi,mona.naderi136@gmail.com,Mashad,2024-09-28
+51,Azadeh Karimi,azadeh.karimi162@gmail.com,mashhad,2024-10-18
+52,Kaveh Rostami,kaveh.rostami955@gmail.com,Tehran ,2024-11-02
+53,Azadeh Moradi,azadeh.moradi761@gmail.com,Tabriz,2024-04-19
+54,Parisa Rostami,parisa.rostami209@gmail.com,Mashad,2024-12-17
+55,Payam Jafari,payam.jafari95@gmail.com,rasht,2024-02-22
+56,Tara Jafari,tara.jafari790@gmail.com,Tehran,2024-12-07
+57,Parisa Sadeghi,,Rasht,2025-03-13
+58,Mona Moradi,mona.moradi566@gmail.com,TEHRAN,2025-08-19
+59,Niloofar Hosseini,niloofar.hosseini921@gmail.com,tabriz,2024-02-10
+60,Sina Ghasemi,sina.ghasemi906@gmail.com,Esfahan,2025-07-27
+61,Arman Moradi,arman.moradi903@gmail.com,Mashhad,2024-06-30
+62,Amir Mousavi,amir.mousavi274@gmail.com,QOM,2024-09-11
+63,Golnaz Rezaei,golnaz.rezaei228@gmail.com,Qom,2025-04-26
+64,Milad Yousefi,,karaj,2024-08-21
+65,Yasaman Norouzi,yasaman.norouzi991@gmail.com,karaj,2024-03-12
+66,Farhad Abbasi,farhad.abbasi340@gmail.com,QOM,2025-07-03
+67,Reza Jafari,reza.jafari112@gmail.com,SHIRAZ,2024-02-09
+68,Farhad Mousavi,farhad.mousavi119@gmail.com,QOM,2025-06-07
+69,Mahsa Ebrahimi,mahsa.ebrahimi2@gmail.com,Tabriz,2025-03-22
+70,Iman Naderi,iman.naderi72@gmail.com,mashhad,2025-03-17
+71,Milad Mousavi,milad.mousavi738@gmail.com,Karaj ,2024-05-07
+72,Roya Rostami,roya.rostami714@gmail.com,qom,2025-02-16
+73,Niloofar Ebrahimi,niloofar.ebrahimi694@gmail.com,QOM,2025-01-23
+74,Amir Vakili,,tabriz,2025-07-15
+75,Kian Ebrahimi,kian.ebrahimi671@gmail.com,QOM,2025-09-13
+76,Setareh Yousefi,setareh.yousefi813@gmail.com,Mashad,2025-04-29
+77,Iman Sadeghi,iman.sadeghi680@gmail.com,Esfahan,2025-06-11
+78,Elham Karimi,elham.karimi231@gmail.com,Mashad,2024-11-13
+79,Niloofar Ahmadi,niloofar.ahmadi626@gmail.com,tehran,2025-05-01
+80,Mona Yousefi,mona.yousefi200@gmail.com,QOM,2025-08-12
+81,Nazanin Fallahi,nazanin.fallahi672@gmail.com,Qom,2024-05-31
+82,Azadeh Rezaei,azadeh.rezaei824@gmail.com,Qom,2024-06-29
+83,Roya Yousefi,roya.yousefi940@gmail.com,Tehran ,2024-09-12
+84,Setareh Moradi,setareh.moradi573@gmail.com,Rasht,2025-06-27
+85,Sepideh Yousefi,sepideh.yousefi919@gmail.com,QOM,2025-04-01
+86,Payam Fallahi,payam.fallahi861@gmail.com,rasht,2024-09-10
+87,Sepideh Abbasi,sepideh.abbasi282@gmail.com,Rasht,2024-09-01
+88,Golnaz Rostami,golnaz.rostami328@gmail.com,mashhad,2024-12-09
+89,Mona Moradi,mona.moradi711@gmail.com,shiraz,2025-01-27
+90,Yasaman Karimi,yasaman.karimi556@gmail.com,qom,2024-12-04
+91,Ali Ebrahimi,ali.ebrahimi969@gmail.com,qom,2025-08-21
+92,Payam Zare,payam.zare966@gmail.com,qom,2024-01-07
+93,Sepideh Norouzi,sepideh.norouzi820@gmail.com,QOM,2025-07-13
+94,Hamed Fallahi,,mashhad,2025-03-22
+95,Elham Norouzi,elham.norouzi638@gmail.com,Shiraz ,2024-05-10
+96,Milad Norouzi,milad.norouzi439@gmail.com,Tehran,2025-10-20
+97,Setareh Sadeghi,setareh.sadeghi336@gmail.com,TEHRAN,2025-01-23
+98,Elham Mousavi,elham.mousavi259@gmail.com,qom,2025-03-07
+99,Behnam Ahmadi,,TEHRAN,2024-08-17
+100,Leila Hosseini,,tehran,2024-07-23
+101,Niloofar Ghasemi,niloofar.ghasemi118@gmail.com,Shiraz ,2025-11-16
+102,Yasaman Yousefi,yasaman.yousefi621@gmail.com,tabriz,2024-06-20
+103,Babak Rezaei,,SHIRAZ,2024-04-20
+104,Kian Zare,kian.zare78@gmail.com,qom,2024-07-22
+105,Tara Ghasemi,tara.ghasemi615@gmail.com,Esfahan,2025-12-01
+106,Iman Zare,iman.zare439@gmail.com,TEHRAN,2025-06-29
+107,Mona Abbasi,mona.abbasi843@gmail.com,Karaj,2025-03-06
+108,Omid Kazemi,omid.kazemi446@gmail.com,Rasht,2024-06-05
+109,Roya Jafari,roya.jafari846@gmail.com,rasht,2025-03-22
+110,Parisa Mousavi,parisa.mousavi903@gmail.com,Mashhad,2024-10-12
+111,Sepideh Yousefi,sepideh.yousefi507@gmail.com,qom,2024-01-30
+112,Amir Fallahi,amir.fallahi349@gmail.com,mashhad,2024-09-21
+113,Arman Jafari,arman.jafari88@gmail.com,Tehran ,2024-07-14
+114,Omid Fallahi,omid.fallahi662@gmail.com,Mashad,2025-05-02
+115,Setareh Ahmadi,setareh.ahmadi415@gmail.com,Esfahan,2024-08-14
+116,Kian Zare,kian.zare544@gmail.com,karaj,2025-07-20
+117,Babak Naderi,babak.naderi278@gmail.com,karaj,2025-04-09
+118,Hamed Rezaei,hamed.rezaei761@gmail.com,mashhad,2024-05-02
+119,Sepideh Sadeghi,sepideh.sadeghi284@gmail.com,Mashhad,2025-05-10
+120,Sepideh Abbasi,sepideh.abbasi304@gmail.com,Tabriz,2024-07-17
+96,Milad Norouzi,milad.norouzi439@gmail.com,Tehran,2025-10-20
+55,Payam Jafari,payam.jafari95@gmail.com,rasht,2024-02-22
+60,Sina Ghasemi,sina.ghasemi906@gmail.com,Esfahan,2025-07-27
+118,Hamed Rezaei,hamed.rezaei761@gmail.com,mashhad,2024-05-02
+78,Elham Karimi,elham.karimi231@gmail.com,Mashad,2024-11-13

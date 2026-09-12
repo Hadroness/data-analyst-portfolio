@@ -1,0 +1,1416 @@
+order_id,customer_id,order_date,product_name,category,quantity,unit_price,payment_method
+1376,7,2025-02-25, Green Tea,Hot drinks,1.0,30000.0,card
+2235,77,01/02/2025, Iced Latte,cold drinks,2.0,67000.0,Online 
+1233,48,08/26/2025, Croissant,Bakery,1.0,35000.0,Online
+1032,53,12/16/2025,Blueberry Muffin ,Bakery,1.0,45000.0,CASH
+2046,31,09/08/2025,Croissa nt,Bakery,3.0,40000.0,
+1119,19,2025-12-14,BLUEBERRY MUFFIN,bakery,1.0,45000.0,Online
+2071,11,05/03/2025,Cappuccino,hot drinks,2.0,50000.0,CASH
+2034,55,07/06/2025,Cold Brew ,COLD DRINKS,2.0,70000.0,Card
+1057,101,24/09/2025,Green Tea,Hot drinks,3.0,30000.0,card
+1835,13,05-12-2025,Chocolate Cake ,Bakery,1.0,75000.0,CASH
+1680,113,2025-02-11,Chocola te Ca ke,bakery,1.0,70000.0,card
+1156,91,12-06-2025,chocolate cake,Bakery,2.0,75000.0,CASH
+2243,53,04-12-2025,AMERICANO,Hot drinks,2.0,43000.0,Online
+2384,21,06/29/2025,CAPPUCCINO,hot drinks,1.0,,Online
+2133,27,05/07/2025,Espresso,hot drinks,1.0,40000.0,Online
+2018,8,2025-01-04,Iced Latte ,Cold Drinks,1.0,62000.0,card
+1716,59,13-11-2025,La tte,HOT DRINKS,1.0,58000.0,Cash
+2295,115,07/08/2025,Blueberry Muffin,BAKERY,1.0,50000.0,Cash
+1522,21,2025-01-22,Green Tea,hot drinks,1.0,35000.0,Cash
+1372,9,02/06/2025,Espresso ,hot drinks,3.0,50000.0,card
+2167,61,2025-01-28,americano,hot drinks,4.0,48000.0,
+1541,74,12/12/2025,COLD BREW,Cold drinks,1.0,65000.0,CASH
+1474,5,09/19/2025,Blueberry Muffin,Bakery,2.0,50000.0,Online
+1211,19,23-07-2025,HOT CHOCOLATE,Hot drinks,1.0,65000.0,Online 
+2307,117,06/22/2025,blueberry muffin,Bakery,4.0,45000.0,card
+2148,102,24-01-2025,Chocolate Cake,bakery,1.0,75000.0,Online
+2399,48,11/10/2025,ESPRESSO,Hot Drinks,3.0,45000.0,card
+2160,11,31/07/2025,Green Tea ,Hot Drinks,1.0,30000.0,Online 
+1669,85,03/06/2025, Americano,Hot Drinks,1.0,48000.0,Online 
+1984,51,03/03/2025,croissant,BAKERY,1.0,40000.0,Card
+1129,78,25/11/2025,cold brew,COLD DRINKS,2.0,70000.0,CASH
+1885,111,16/06/2025, Hot Chocolate,hot drinks,2.0,60000.0,CASH
+2159,110,15/12/2025,Blueberry Muffin ,bakery,1.0,55000.0,Online
+2289,114,13-03-2025,ESPRESSO,Hot drinks,4.0,40000.0,Card
+1806,106,09/11/2025,GREEN TEA,hot drinks,,35000.0,Online
+1638,115,11/06/2025, Hot Chocolate,Hot drinks,2.0,65000.0,card
+1829,78,2025-07-03,Latte ,HOT DRINKS,,58000.0,card
+1662,23,02/05/2025,CHOCOLATE CAKE,Bakery,2.0,75000.0,Card
+1172,79,23/04/2025,America no,hot drinks,-1.0,48000.0,card
+1874,42,26-10-2025,CHEESECAKE,Bakery,2.0,80000.0,card
+1396,102,13-11-2025,BLUEBERRY MUFFIN,Bakery,2.0,55000.0,Online
+1360,52,01/19/2025,Croissa nt,Bakery,1.0,0.0,Online 
+1671,50,04-10-2025, Cappuccino,Hot Drinks,2.0,60000.0,Card
+2002,40,26/05/2025,CHOCOLATE CAKE,Bakery,-1.0,75000.0,Cash
+1177,8,25-08-2025, Cheesecake,bakery,3.0,80000.0,Card
+1866,96,26-06-2025,COLD BREW,Cold drinks,2.0,70000.0,card
+2201,33,12-04-2025,Latte ,hot drinks,2.0,53000.0,Cash
+2285,16,29-04-2025,chocolate cake,bakery,1.0,75000.0,card
+1914,72,2025-01-02, Chocolate Cake,Bakery,4.0,75000.0,Online
+1454,32,03/07/2025,Espresso,HOT DRINKS,1.0,50000.0,Card
+1847,63,06/09/2025,Croissant ,Bakery,1.0,35000.0,card
+1664,10,2025-05-09,Blueberry Muffin,Bakery,2.0,50000.0,Card
+1769,45,26-10-2025, Hot Chocolate,hot drinks,2.0,55000.0,Online
+1350,119,12/15/2025,Cappuccino ,Hot drinks,1.0,55000.0,Cash
+1260,118,19-04-2025,croissant,BAKERY,1.0,40000.0,CASH
+1042,33,01-06-2025, Chocolate Cake,Bakery,4.0,70000.0,Cash
+1351,60,28-10-2025,chocolate cake,Bakery,1.0,,Online
+2338,73,26/09/2025, Cheesecake,bakery,1.0,85000.0,
+2355,23,2025-06-13,Chocola te Ca ke,BAKERY,1.0,75000.0,card
+1590,116,14-04-2025, Latte,Hot drinks,1.0,0.0,CASH
+1107,74,2025-04-06,Croissant,Bakery,2.0,40000.0,card
+1576,100,10/03/2025,CHOCOLATE CAKE,Bakery,3.0,75000.0,card
+2258,79,05-05-2025,Iced Latte ,cold drinks,1.0,67000.0,Card
+1971,73,2025-07-21,cappuccino,hot drinks,,55000.0,Online 
+1208,82,2025-12-26,Espresso,hot drinks,2.0,45000.0,CASH
+1679,32,2025-01-21, Blueberry Muffin,BAKERY,4.0,55000.0,
+1224,43,11/30/2025,Croissant ,BAKERY,1.0,0.0,card
+1144,52,10/19/2025,espresso,Hot Drinks,1.0,50000.0,card
+1707,96,12/26/2025,blueberry muffin,Bakery,1.0,50000.0,Online
+1536,80,2025-10-30,Hot Chocolate ,Hot Drinks,1.0,60000.0,Card
+2156,13,10-06-2025,chocolate cake,bakery,1.0,70000.0,Online
+1796,39,24-03-2025,Americano,hot drinks,4.0,48000.0,Card
+2312,104,07-01-2025,blueberry muffin,BAKERY,2.0,50000.0,card
+2075,10,10-03-2025, Cold Brew,Cold drinks,1.0,65000.0,Cash
+1262,16,2025-08-14,La tte,HOT DRINKS,2.0,58000.0,Online 
+1436,46,12/10/2025,Latte ,Hot Drinks,1.0,58000.0,Cash
+1792,48,27/02/2025,hot chocolate,HOT DRINKS,2.0,60000.0,Online
+1476,76,2025-09-23,americano,hot drinks,1.0,53000.0,Online
+1594,118,26/01/2025,Ca ppuccino,hot drinks,1.0,55000.0,CASH
+2150,90,19/02/2025,Green Tea,HOT DRINKS,3.0,,Card
+2356,108,11/04/2025,chocolate cake,BAKERY,-1.0,75000.0,card
+1649,24,2025-01-17,CHEESECAKE,Bakery,1.0,90000.0,card
+2344,17,2025-06-01, Chocolate Cake,bakery,2.0,75000.0,Card
+1062,55,07-12-2025,Cold Brew,Cold Drinks,1.0,,Card
+1610,64,10-07-2025,americano,HOT DRINKS,-1.0,53000.0,Card
+1624,78,2025-03-07,blueberry muffin,Bakery,2.0,45000.0,Online
+1548,52,2025-04-22, Blueberry Muffin,BAKERY,3.0,50000.0,card
+1954,99,25/05/2025,Iced La tte,Cold Drinks,2.0,67000.0,card
+1480,97,23/08/2025, Cold Brew,Cold Drinks,2.0,60000.0,Online
+1904,32,06/14/2025,green tea,Hot Drinks,2.0,40000.0,Online 
+1485,26,11/13/2025,Americano,Hot Drinks,4.0,43000.0,Online 
+2125,47,01/23/2025,Cappuccino ,hot drinks,1.0,0.0,CASH
+1980,89,2025-08-16,ICED LATTE,COLD DRINKS,1.0,,Online
+1028,61,23/06/2025,iced latte,Cold drinks,3.0,57000.0,Online
+1720,119,21-03-2025, Cold Brew,cold drinks,3.0,65000.0,CASH
+2096,96,19/04/2025,Cold Brew,Cold drinks,1.0,70000.0,Cash
+2153,67,08-11-2025,hot chocolate,hot drinks,2.0,60000.0,Online
+1191,33,2025-06-19,Americano,HOT DRINKS,2.0,48000.0,Card
+1478,23,2025-09-17,croissant,Bakery,2.0,40000.0,CASH
+1292,94,02/23/2025,Iced Latte,COLD DRINKS,2.0,62000.0,Online 
+1602,6,06/29/2025,Cold Brew,cold drinks,1.0,65000.0,
+1915,16,23/09/2025,Green Tea,HOT DRINKS,1.0,40000.0,Card
+1723,46,06/17/2025,CAPPUCCINO,hot drinks,2.0,,Cash
+1883,112,02-08-2025,espresso,Hot drinks,2.0,0.0,card
+2351,79,2025-12-30,Americano ,Hot drinks,2.0,48000.0,Online 
+1160,7,09/29/2025, Green Tea,hot drinks,1.0,30000.0,Online 
+2056,117,11/07/2025,Cold Brew,Cold Drinks,3.0,60000.0,Cash
+1403,120,10/27/2025,CROISSANT,BAKERY,3.0,45000.0,Card
+2294,90,09/08/2025,Latte,Hot drinks,,58000.0,Card
+1968,78,27/09/2025,Americano ,Hot Drinks,2.0,48000.0,Online 
+2161,102,2025-12-25,americano,Hot drinks,1.0,43000.0,Cash
+1086,77,2025-07-16,Cheeseca ke,BAKERY,,90000.0,Online
+1685,99,04-12-2025,Green Tea,HOT DRINKS,1.0,35000.0,Online 
+1585,53,08/19/2025,Cold Brew,COLD DRINKS,2.0,70000.0,card
+1234,54,03/01/2025,cappuccino,Hot drinks,1.0,55000.0,Cash
+2197,77,03-01-2025,Cheesecake ,Bakery,1.0,85000.0,CASH
+1923,14,2025-01-29, Green Tea,Hot Drinks,1.0,35000.0,CASH
+1126,66,03/04/2025,Americano,hot drinks,1.0,48000.0,CASH
+1308,46,06-10-2025,chocolate cake,Bakery,2.0,80000.0,
+1894,50,13/06/2025, Cappuccino,Hot Drinks,1.0,55000.0,Card
+1822,32,13-12-2025,Chocola te Ca ke,Bakery,1.0,75000.0,card
+2371,99,17/08/2025,America no,hot drinks,2.0,43000.0,Online
+2049,89,02/18/2025,Hot Chocola te,Hot drinks,2.0,,Online
+2352,75,23/11/2025,americano,HOT DRINKS,2.0,48000.0,Online
+2029,99,23-04-2025,Iced La tte,Cold Drinks,3.0,62000.0,Online 
+1063,12,19-02-2025,Croissant ,Bakery,-1.0,40000.0,CASH
+1509,62,27/04/2025, Cheesecake,bakery,1.0,85000.0,Cash
+1534,42,2025-02-19,CAPPUCCINO,Hot Drinks,1.0,55000.0,Cash
+1856,44,24-01-2025,Cold Brew ,Cold Drinks,1.0,70000.0,Online 
+1307,54,11/26/2025,Americano,Hot drinks,3.0,53000.0,Online 
+1657,58,23-04-2025,Cold Brew,Cold Drinks,1.0,65000.0,CASH
+1724,3,2025-10-03,CAPPUCCINO,Hot drinks,2.0,55000.0,Online
+2053,6,10/22/2025,latte,Hot Drinks,1.0,63000.0,Card
+1838,118,2025-04-19,latte,Hot Drinks,3.0,63000.0,card
+1851,114,31/12/2025, Iced Latte,COLD DRINKS,4.0,62000.0,CASH
+1076,72,01/07/2025, Green Tea,Hot Drinks,4.0,30000.0,
+1419,70,26-07-2025,Cheeseca ke,bakery,1.0,,Online
+1430,98,2025-07-15,Chocolate Cake ,BAKERY,2.0,75000.0,Cash
+1390,112,2025-09-23, Cold Brew,cold drinks,2.0,65000.0,Online 
+1693,73,2025-05-24, Espresso,Hot drinks,4.0,45000.0,Cash
+1294,13,10/03/2025,Cheesecake ,Bakery,1.0,90000.0,card
+1784,15,04/09/2025, Latte,Hot drinks,4.0,58000.0,CASH
+1310,46,2025-04-30,blueberry muffin,Bakery,1.0,50000.0,
+1689,75,03-08-2025,cold brew,COLD DRINKS,1.0,60000.0,Card
+1870,76,04/05/2025,Iced La tte,Cold Drinks,2.0,57000.0,Online
+2304,108,19/05/2025,Espresso,hot drinks,1.0,,CASH
+1935,99,12/07/2025,cold brew,Cold Drinks,1.0,60000.0,Card
+1684,16,18-02-2025,Cheesecake ,BAKERY,4.0,90000.0,card
+2028,22,2025-12-25,GREEN TEA,hot drinks,2.0,30000.0,card
+1002,62,2025-06-24,Chocolate Cake,Bakery,1.0,75000.0,card
+1943,32,11/19/2025,Espresso ,Hot drinks,4.0,50000.0,Cash
+2292,45,09/02/2025,Croissant,BAKERY,1.0,35000.0,CASH
+1515,15,22/08/2025, Green Tea,HOT DRINKS,1.0,40000.0,Online
+1116,106,07-10-2025,latte,hot drinks,1.0,53000.0,Online
+1619,7,2025-07-16,CAPPUCCINO,Hot drinks,2.0,55000.0,CASH
+1950,41,07/15/2025,iced latte,Cold Drinks,2.0,62000.0,Online
+1530,94,05/21/2025,CHOCOLATE CAKE,Bakery,-1.0,80000.0,Online
+1834,73,2025-10-10,Espresso ,Hot drinks,2.0,40000.0,card
+1253,79,08/08/2025,GREEN TEA,Hot Drinks,4.0,35000.0,CASH
+2240,100,21-02-2025,Ca ppuccino,hot drinks,2.0,55000.0,CASH
+1800,52,18-11-2025,Americano,HOT DRINKS,2.0,43000.0,
+2300,95,23-04-2025,cold brew,COLD DRINKS,1.0,70000.0,CASH
+1153,94,12/28/2025,Espresso,Hot drinks,2.0,45000.0,CASH
+1363,96,04-08-2025,iced latte,Cold drinks,1.0,67000.0,Card
+1781,94,01/31/2025,GREEN TEA,HOT DRINKS,1.0,35000.0,Cash
+2074,95,2025-09-28,GREEN TEA,HOT DRINKS,2.0,35000.0,Cash
+1128,92,03/09/2025,Hot Chocolate ,Hot Drinks,4.0,60000.0,Cash
+1653,37,15-07-2025,Chocolate Cake,bakery,2.0,70000.0,card
+1201,96,25/01/2025,Green Tea,HOT DRINKS,1.0,,Card
+1400,18,29-07-2025,HOT CHOCOLATE,Hot Drinks,2.0,60000.0,card
+1040,101,18-01-2025,Chocolate Cake,bakery,3.0,75000.0,Online
+1666,56,02/05/2025,Croissa nt,Bakery,1.0,40000.0,Card
+1152,3,06/10/2025, Chocolate Cake,Bakery,,75000.0,Online 
+2129,55,2025-05-23,HOT CHOCOLATE,Hot drinks,1.0,60000.0,Online
+1466,75,14/05/2025,Iced Latte ,cold drinks,2.0,62000.0,Online 
+2014,23,04/06/2025,COLD BREW,Cold Drinks,1.0,65000.0,card
+2268,38,08/12/2025, Iced Latte,Cold drinks,1.0,,Online 
+1123,100,12/27/2025,Iced La tte,Cold drinks,2.0,62000.0,Cash
+2128,19,17/03/2025,Cold Brew,Cold Drinks,3.0,65000.0,CASH
+1676,64,2025-11-12, Blueberry Muffin,bakery,,50000.0,Online 
+1529,91,14/10/2025,CHOCOLATE CAKE,bakery,1.0,80000.0,Online
+2190,80,06/10/2025, Hot Chocolate,hot drinks,1.0,60000.0,Cash
+2315,34,03/07/2025,Chocola te Ca ke,Bakery,1.0,80000.0,Cash
+1831,81,17-02-2025,Croissa nt,BAKERY,2.0,0.0,card
+1420,47,22/04/2025,Iced Latte,cold drinks,2.0,57000.0,card
+1295,85,02-05-2025, Latte,hot drinks,4.0,58000.0,Online
+1222,62,07/04/2025,Cappuccino ,HOT DRINKS,3.0,55000.0,card
+2270,73,06-01-2025, Croissant,Bakery,1.0,45000.0,Online
+1539,10,2025-09-23,Americano ,Hot drinks,3.0,0.0,Cash
+2172,93,10/24/2025,Green Tea,HOT DRINKS,1.0,35000.0,card
+2365,35,05/03/2025,Hot Chocolate,Hot Drinks,,60000.0,Card
+1542,44,22/03/2025,Green Tea ,hot drinks,1.0,35000.0,Online
+1532,80,14-11-2025,Cold Brew,Cold drinks,3.0,60000.0,Cash
+1810,18,12/21/2025,Cold Brew,Cold drinks,-3.0,65000.0,Online 
+1338,11,08/11/2025,green tea,hot drinks,4.0,40000.0,Online 
+1525,101,09/01/2025,HOT CHOCOLATE,HOT DRINKS,1.0,,card
+2333,72,2025-12-31,Americano ,Hot Drinks,,48000.0,Online 
+2000,55,09/11/2025, Cheesecake,Bakery,4.0,85000.0,card
+2262,95,03/11/2025,Chocola te Ca ke,Bakery,1.0,75000.0,card
+1124,16,02/07/2025,Latte,hot drinks,3.0,58000.0,Online 
+1580,41,2025-11-10, Croissant,Bakery,2.0,,Card
+1214,4,20/05/2025,Green Tea ,Hot drinks,1.0,35000.0,card
+1778,106,16/09/2025,iced latte,COLD DRINKS,3.0,67000.0,card
+2036,59,11/04/2025,Latte ,hot drinks,3.0,53000.0,Online
+1319,1,2025-10-21,hot chocolate,HOT DRINKS,1.0,65000.0,Online 
+1600,94,09/12/2025,Green Tea,hot drinks,2.0,35000.0,Cash
+1763,38,12-09-2025,Green Tea ,Hot Drinks,2.0,35000.0,Card
+1456,94,05/26/2025, Green Tea,Hot drinks,2.0,40000.0,Cash
+2006,8,07/17/2025,Green Tea,hot drinks,1.0,35000.0,Online 
+1994,43,2025-05-05,Cold Brew,COLD DRINKS,3.0,65000.0,CASH
+1504,22,2025-02-22,Croissant,Bakery,2.0,45000.0,card
+2250,40,2025-08-09,ESPRESSO,hot drinks,-1.0,45000.0,Online
+1285,95,2025-01-02, Cheesecake,bakery,1.0,80000.0,card
+1596,99,15/06/2025, Iced Latte,Cold Drinks,4.0,57000.0,Online
+1257,19,20/11/2025,Blueberry Muffin,Bakery,2.0,50000.0,card
+1266,44,08/05/2025,CAPPUCCINO,Hot drinks,2.0,50000.0,Card
+2080,46,21/02/2025,Espresso ,HOT DRINKS,1.0,40000.0,card
+1938,109,05/06/2025,cheesecake,Bakery,1.0,,Card
+1342,34,02/12/2025,croissant,Bakery,1.0,40000.0,Cash
+1074,77,04-01-2025,espresso,hot drinks,1.0,45000.0,Online
+1612,44,26-09-2025,Chocolate Cake ,BAKERY,1.0,70000.0,Cash
+1681,89,12/21/2025,Chocolate Cake ,Bakery,1.0,75000.0,card
+1978,10,06-01-2025,green tea,HOT DRINKS,1.0,35000.0,Cash
+1628,77,2025-06-16,CHOCOLATE CAKE,bakery,4.0,75000.0,card
+1520,16,08/05/2025,HOT CHOCOLATE,Hot drinks,1.0,55000.0,Online 
+1643,7,01/10/2025, Cold Brew,cold drinks,2.0,70000.0,card
+1377,16,05/10/2025,cheesecake,Bakery,1.0,80000.0,Online 
+1365,49,2025-06-02,CHEESECAKE,BAKERY,4.0,85000.0,Online
+1006,85,03/22/2025,CAPPUCCINO,Hot Drinks,2.0,50000.0,card
+1916,36,30-09-2025,CROISSANT,bakery,1.0,40000.0,Card
+2308,101,30/01/2025,Hot Chocolate ,Hot drinks,3.0,60000.0,card
+2346,10,22-03-2025,Cold Brew,Cold Drinks,1.0,65000.0,Online 
+1014,24,12/08/2025,blueberry muffin,Bakery,1.0,50000.0,Online
+1386,52,20/05/2025,Chocola te Ca ke,BAKERY,4.0,75000.0,Card
+1385,46,2025-11-15,CHOCOLATE CAKE,Bakery,1.0,75000.0,card
+1080,44,2025-06-20,Americano ,HOT DRINKS,2.0,,Online
+2288,61,2025-12-01,iced latte,COLD DRINKS,1.0,62000.0,Online
+1261,110,2025-06-25,Chocola te Ca ke,Bakery,1.0,70000.0,
+1287,41,09-02-2025,Iced La tte,Cold Drinks,1.0,67000.0,Cash
+1618,10,10/11/2025,Iced Latte,Cold drinks,1.0,62000.0,Online 
+2189,21,2025-04-15,Cold Brew,COLD DRINKS,1.0,65000.0,Card
+2073,2,2025-04-08,Blueberry Muffin,bakery,3.0,50000.0,Cash
+2204,105,2025-08-19,Cappuccino ,Hot drinks,2.0,55000.0,Online
+1942,32,11/12/2025,espresso,HOT DRINKS,4.0,50000.0,Online
+1146,72,15/03/2025,Cold Brew,Cold Drinks,2.0,60000.0,Cash
+2393,89,17/12/2025,ICED LATTE,Cold Drinks,3.0,62000.0,Online
+2146,21,02/24/2025,cheesecake,BAKERY,2.0,80000.0,CASH
+1065,7,04-11-2025,Iced Latte ,COLD DRINKS,1.0,67000.0,Cash
+2223,10,09/11/2025, Cappuccino,Hot drinks,1.0,55000.0,Cash
+1648,23,19/03/2025,blueberry muffin,BAKERY,1.0,50000.0,card
+1565,49,30-12-2025,Cheesecake ,Bakery,2.0,90000.0,Cash
+2141,92,20-10-2025, Iced Latte,COLD DRINKS,3.0,62000.0,Online
+1401,28,08-04-2025,Chocolate Cake,Bakery,1.0,,card
+2170,118,26-03-2025, Iced Latte,COLD DRINKS,2.0,62000.0,Online 
+1058,55,25/02/2025,green tea,HOT DRINKS,1.0,30000.0,Card
+1069,19,2025-11-21,HOT CHOCOLATE,Hot drinks,3.0,65000.0,card
+1939,107,2025-03-12,green tea,Hot drinks,1.0,35000.0,Cash
+1088,83,21/01/2025,Latte ,HOT DRINKS,2.0,63000.0,Online
+1053,43,02-11-2025,LATTE,hot drinks,4.0,58000.0,Cash
+1025,50,30-07-2025,America no,Hot drinks,3.0,48000.0,card
+1254,45,05/24/2025,cheesecake,bakery,1.0,85000.0,CASH
+1378,13,09/24/2025,Green Tea ,Hot Drinks,2.0,30000.0,Online
+1754,37,04-11-2025,CHOCOLATE CAKE,Bakery,3.0,75000.0,Online
+1300,39,31/03/2025,Iced Latte ,COLD DRINKS,-4.0,62000.0,Card
+1017,112,2025-08-25,cheesecake,Bakery,-1.0,90000.0,Online 
+2267,19,12/03/2025,HOT CHOCOLATE,Hot drinks,2.0,65000.0,card
+1819,46,15/10/2025,Hot Chocola te,HOT DRINKS,,55000.0,Card
+2198,3,09/20/2025,Cheesecake,BAKERY,4.0,85000.0,Card
+1570,31,20-03-2025, Blueberry Muffin,BAKERY,2.0,50000.0,Cash
+2126,24,06-08-2025,green tea,Hot Drinks,2.0,35000.0,Online
+1850,45,04/29/2025,Chocolate Cake ,Bakery,,75000.0,Cash
+1096,57,07/30/2025,espresso,Hot drinks,2.0,50000.0,Cash
+1333,58,15/05/2025,espresso,Hot Drinks,1.0,45000.0,Cash
+1356,14,19-09-2025,Espresso ,hot drinks,2.0,50000.0,Online
+1817,72,2025-11-22,Green Tea,HOT DRINKS,,35000.0,Cash
+1996,60,01/27/2025,Americano,HOT DRINKS,1.0,48000.0,CASH
+2309,74,18-10-2025, Hot Chocolate,HOT DRINKS,1.0,60000.0,Cash
+1910,29,2025-09-10,America no,HOT DRINKS,1.0,48000.0,Card
+2009,91,02/11/2025, Blueberry Muffin,bakery,2.0,50000.0,Online 
+1932,61,21-12-2025,Hot Chocolate ,hot drinks,4.0,65000.0,CASH
+1951,116,2025-05-31,CAPPUCCINO,Hot Drinks,4.0,55000.0,Card
+1223,14,05/06/2025, Latte,hot drinks,1.0,63000.0,card
+1154,49,30-03-2025,Cold Brew,cold drinks,2.0,65000.0,CASH
+1593,24,29-01-2025,Latte,hot drinks,1.0,58000.0,Online
+1952,10,01/20/2025,Cold Brew,cold drinks,1.0,65000.0,
+2004,48,2025-09-08,Croissant,Bakery,,35000.0,CASH
+1615,26,27-05-2025,America no,Hot Drinks,4.0,48000.0,Online
+2135,106,01/29/2025, Americano,Hot Drinks,1.0,48000.0,Online 
+2261,43,2025-03-04,Espresso ,HOT DRINKS,3.0,45000.0,CASH
+2088,62,2025-05-25,ICED LATTE,COLD DRINKS,4.0,62000.0,Online 
+1947,51,06/06/2025,americano,hot drinks,2.0,48000.0,CASH
+2229,28,23/07/2025,Latte,Hot drinks,2.0,58000.0,Online
+1167,95,06/01/2025,Cold Brew,Cold drinks,1.0,70000.0,
+1500,37,11/20/2025, Chocolate Cake,Bakery,3.0,75000.0,Card
+1678,9,21/05/2025,Cappuccino ,HOT DRINKS,1.0,55000.0,card
+1389,114,2025-08-14,Croissant,BAKERY,1.0,40000.0,Online 
+1481,9,11/21/2025, Croissant,bakery,4.0,40000.0,CASH
+1686,109,09/12/2025,Chocolate Cake,bakery,3.0,70000.0,Online
+1199,98,25/11/2025,Chocola te Ca ke,bakery,2.0,75000.0,Cash
+1245,50,04/06/2025, Croissant,bakery,2.0,40000.0,Cash
+1780,91,06/04/2025,cheesecake,Bakery,1.0,85000.0,CASH
+1862,97,08/04/2025, Cheesecake,Bakery,4.0,85000.0,card
+1143,69,02/25/2025, Espresso,hot drinks,1.0,45000.0,Card
+2287,120,14/09/2025,Blueberry Muffin ,Bakery,2.0,45000.0,CASH
+1443,100,07/07/2025,La tte,hot drinks,4.0,63000.0,Cash
+1833,39,07-03-2025,Latte ,Hot drinks,4.0,58000.0,Online
+1225,41,23-07-2025,Latte ,HOT DRINKS,3.0,58000.0,Online
+1578,29,12/10/2025, Hot Chocolate,Hot drinks,1.0,60000.0,Online 
+1789,86,26/09/2025,Blueberry Muffin ,Bakery,-1.0,50000.0,Online
+1271,36,13-02-2025,Green Tea,hot drinks,4.0,30000.0,Cash
+2194,64,2025-04-17, Cold Brew,Cold Drinks,2.0,60000.0,
+1329,74,2025-09-09, Cheesecake,Bakery,1.0,80000.0,Online
+1523,47,2025-12-08,espresso,Hot Drinks,1.0,45000.0,Cash
+2102,92,14-10-2025, Iced Latte,Cold Drinks,2.0,57000.0,card
+2108,69,05/30/2025,americano,Hot Drinks,1.0,48000.0,Online 
+1560,44,26/02/2025,hot chocolate,HOT DRINKS,2.0,55000.0,Online 
+1912,25,10/17/2025,GREEN TEA,Hot Drinks,1.0,40000.0,Cash
+1248,22,10/17/2025,cappuccino,HOT DRINKS,1.0,50000.0,CASH
+1719,78,2025-10-01, Latte,HOT DRINKS,1.0,58000.0,card
+1579,42,07/05/2025,Chocolate Cake ,Bakery,4.0,70000.0,Online 
+1305,46,06-04-2025,Americano,HOT DRINKS,2.0,48000.0,Online 
+1969,12,27-11-2025, Iced Latte,COLD DRINKS,3.0,62000.0,card
+1301,60,2025-03-13,CAPPUCCINO,HOT DRINKS,1.0,55000.0,card
+1967,92,08/23/2025, Green Tea,Hot Drinks,1.0,35000.0,card
+1213,13,29-04-2025,Croissant ,Bakery,2.0,45000.0,Online
+2013,100,02/08/2025,Hot Chocola te,Hot drinks,3.0,60000.0,Cash
+1695,53,08/09/2025,cheesecake,Bakery,4.0,85000.0,Online 
+1405,51,05/31/2025,Cold Brew ,cold drinks,1.0,65000.0,Online 
+2064,2,13/07/2025,CAPPUCCINO,hot drinks,1.0,50000.0,CASH
+1101,114,2025-01-14,cold brew,COLD DRINKS,-2.0,70000.0,card
+1637,93,12/03/2025,Chocola te Ca ke,Bakery,1.0,75000.0,card
+1022,66,11-03-2025,hot chocolate,hot drinks,4.0,,Card
+1880,74,01/21/2025,iced latte,cold drinks,,62000.0,Online
+1597,61,04-03-2025, Latte,HOT DRINKS,1.0,63000.0,Online 
+1236,6,28-02-2025,Hot Chocola te,HOT DRINKS,3.0,55000.0,Online 
+1724,3,2025-10-03,CAPPUCCINO,Hot drinks,2.0,55000.0,Online
+1697,115,2025-08-02,Espresso,Hot drinks,2.0,50000.0,CASH
+1171,40,27-07-2025,La tte,hot drinks,3.0,53000.0,Online
+1981,117,2025-04-13,Americano,hot drinks,2.0,43000.0,Cash
+2394,110,10/12/2025,Chocolate Cake ,BAKERY,1.0,80000.0,card
+2051,3,12/10/2025,Croissant ,Bakery,-1.0,45000.0,Cash
+2145,35,23-02-2025,Cappuccino,HOT DRINKS,2.0,55000.0,
+1668,69,11-02-2025,COLD BREW,Cold Drinks,3.0,65000.0,card
+2342,71,2025-03-28,CHEESECAKE,Bakery,,90000.0,card
+2033,48,2025-06-10,Latte ,HOT DRINKS,1.0,53000.0,card
+2246,25,24-10-2025,Espresso,Hot drinks,4.0,50000.0,card
+1696,55,07-05-2025,HOT CHOCOLATE,HOT DRINKS,2.0,65000.0,CASH
+2391,72,13/07/2025,Croissant ,bakery,1.0,0.0,CASH
+1820,45,04/15/2025,Ca ppuccino,hot drinks,4.0,55000.0,CASH
+1586,9999,06/15/2025,Iced Latte,Cold Drinks,3.0,57000.0,Online 
+1569,20,07/21/2025,Cold Brew ,COLD DRINKS,1.0,65000.0,card
+1299,107,03/17/2025,Cold Brew ,Cold Drinks,1.0,65000.0,Online 
+1048,59,10/12/2025, Cold Brew,Cold Drinks,2.0,65000.0,card
+1467,51,31/07/2025,Americano ,Hot drinks,1.0,48000.0,Online
+1259,12,23-08-2025,Hot Chocolate ,Hot drinks,4.0,55000.0,Cash
+1147,92,31/08/2025,Cold Brew ,COLD DRINKS,1.0,70000.0,Online
+1134,6,11-02-2025,Espresso ,Hot drinks,3.0,45000.0,CASH
+1512,71,07/04/2025,COLD BREW,Cold drinks,2.0,65000.0,card
+2254,18,04/13/2025,GREEN TEA,hot drinks,2.0,40000.0,Online
+1865,8,05-12-2025,Green Tea,hot drinks,2.0,35000.0,
+2116,88,04/07/2025,BLUEBERRY MUFFIN,Bakery,1.0,50000.0,Online 
+2114,19,02/17/2025,CHOCOLATE CAKE,BAKERY,2.0,75000.0,CASH
+1193,27,06/05/2025,Cold Brew,Cold drinks,1.0,60000.0,Cash
+1482,69,12/25/2025, Espresso,hot drinks,1.0,40000.0,Card
+1030,96,2025-08-11,Ca ppuccino,hot drinks,2.0,55000.0,Card
+1003,63,2025-10-23,Cappuccino ,hot drinks,1.0,55000.0,Card
+1136,52,2025-08-21, Iced Latte,Cold drinks,1.0,62000.0,card
+1975,51,2025-01-06,espresso,Hot drinks,3.0,45000.0,card
+2353,86,08/09/2025,Chocolate Cake ,Bakery,2.0,75000.0,Online
+1115,64,2025-09-23,Cold Brew,Cold drinks,3.0,65000.0,CASH
+2249,2,21-01-2025,Chocolate Cake,Bakery,,80000.0,card
+1704,120,21-09-2025, Espresso,hot drinks,1.0,40000.0,card
+1077,118,10/06/2025,Ca ppuccino,Hot drinks,2.0,55000.0,Online
+1278,76,2025-11-29,Green Tea,HOT DRINKS,1.0,35000.0,Card
+1849,80,27/06/2025,green tea,HOT DRINKS,1.0,35000.0,card
+1667,73,03-07-2025,Cheeseca ke,Bakery,2.0,80000.0,Online
+2230,48,26/01/2025,CAPPUCCINO,hot drinks,,55000.0,Cash
+2187,96,07/19/2025,Green Tea ,HOT DRINKS,-2.0,35000.0,card
+2060,27,19-11-2025,Ca ppuccino,hot drinks,3.0,55000.0,CASH
+1920,106,2025-09-24,Cold Brew ,Cold drinks,4.0,70000.0,Card
+1776,7,10/21/2025,Iced La tte,Cold Drinks,2.0,57000.0,CASH
+1895,26,11/02/2025,Americano ,Hot drinks,2.0,53000.0,Card
+1654,79,20-05-2025,green tea,Hot drinks,,30000.0,card
+2362,108,07/22/2025,cheesecake,bakery,1.0,85000.0,
+1081,45,11/27/2025,hot chocolate,HOT DRINKS,1.0,60000.0,Cash
+1733,117,2025-11-27, Hot Chocolate,Hot Drinks,1.0,60000.0,CASH
+1016,5,15-02-2025, Chocolate Cake,Bakery,1.0,70000.0,Online 
+1958,74,2025-06-06,latte,HOT DRINKS,2.0,58000.0,card
+1840,89,03/12/2025,Croissant ,bakery,1.0,45000.0,Online 
+1896,35,12/06/2025,Espresso,Hot drinks,1.0,45000.0,Online 
+1140,118,17-06-2025, Latte,Hot drinks,1.0,58000.0,card
+1878,92,2025-03-08, Chocolate Cake,Bakery,3.0,75000.0,Card
+1802,18,30-03-2025,ICED LATTE,Cold Drinks,4.0,62000.0,card
+1447,48,01/22/2025, Americano,Hot drinks,2.0,48000.0,card
+1805,34,02/15/2025,Latte,Hot drinks,2.0,53000.0,card
+1985,52,11/06/2025,GREEN TEA,Hot Drinks,1.0,35000.0,Online 
+2067,76,05/13/2025,LATTE,Hot drinks,-3.0,58000.0,CASH
+1207,110,17/01/2025,Green Tea ,Hot drinks,2.0,35000.0,Card
+2238,22,05-01-2025,Green Tea,Hot drinks,2.0,40000.0,Cash
+2054,16,06/02/2025,CHEESECAKE,bakery,2.0,80000.0,Card
+2178,78,28/02/2025,COLD BREW,COLD DRINKS,2.0,65000.0,CASH
+2200,9999,10-10-2025, Hot Chocolate,Hot drinks,2.0,60000.0,Cash
+1043,97,13/12/2025,americano,Hot Drinks,4.0,53000.0,card
+1018,57,04/15/2025,Espresso,Hot drinks,1.0,45000.0,
+2318,31,25/02/2025,Cold Brew,COLD DRINKS,1.0,70000.0,Cash
+2316,15,20/01/2025,Green Tea,HOT DRINKS,2.0,35000.0,
+1738,24,03-11-2025,Ca ppuccino,hot drinks,4.0,55000.0,Online
+1317,94,24-11-2025,Croissa nt,bakery,1.0,45000.0,Cash
+1636,108,03/20/2025,Croissant,Bakery,1.0,35000.0,Cash
+1463,18,2025-09-02,Iced Latte ,Cold drinks,1.0,67000.0,Online
+1113,97,08-04-2025,Green Tea,hot drinks,-4.0,30000.0,Online
+1730,60,10/18/2025,hot chocolate,Hot drinks,1.0,60000.0,Card
+1603,102,07-06-2025,Cappuccino,hot drinks,4.0,50000.0,Online
+1453,15,12/12/2025,CHOCOLATE CAKE,Bakery,1.0,80000.0,Card
+1581,113,23/09/2025,Americano ,Hot drinks,3.0,43000.0,CASH
+1099,9999,2025-09-04,Green Tea,hot drinks,-3.0,40000.0,Card
+1758,77,04/03/2025,croissant,bakery,3.0,40000.0,Online 
+2303,93,19/01/2025,Latte,Hot Drinks,3.0,58000.0,card
+1502,83,19-05-2025,Croissant ,Bakery,3.0,45000.0,card
+1369,55,2025-07-16,Chocola te Ca ke,bakery,2.0,75000.0,Card
+2115,63,03-04-2025,HOT CHOCOLATE,HOT DRINKS,1.0,60000.0,card
+1442,75,2025-10-30,Croissant ,Bakery,2.0,40000.0,Online 
+1102,11,25-04-2025,COLD BREW,COLD DRINKS,1.0,65000.0,Card
+1275,9,2025-05-15,Espresso ,hot drinks,1.0,45000.0,
+1269,28,19/03/2025,Green Tea,Hot Drinks,4.0,35000.0,Cash
+1616,20,2025-05-21,Latte ,Hot Drinks,2.0,63000.0,Cash
+1353,27,2025-11-30, Iced Latte,COLD DRINKS,4.0,57000.0,Online 
+1832,68,2025-11-28, Green Tea,Hot Drinks,-1.0,35000.0,card
+1325,3,2025-05-14, Cold Brew,COLD DRINKS,1.0,,Online 
+2127,118,05-12-2025,Chocolate Cake,BAKERY,,70000.0,Online 
+1070,59,22-03-2025,Cold Brew ,Cold Drinks,3.0,,Card
+1559,97,2025-02-13,HOT CHOCOLATE,hot drinks,1.0,65000.0,Card
+1046,29,02/02/2025,Green Tea,Hot drinks,3.0,35000.0,Card
+1804,78,04/12/2025,Chocolate Cake ,Bakery,1.0,75000.0,CASH
+1809,31,19-08-2025,Blueberry Muffin,Bakery,2.0,50000.0,card
+1397,47,25-04-2025,Espresso ,Hot drinks,2.0,50000.0,Online 
+1846,2,19/11/2025,Ca ppuccino,hot drinks,2.0,55000.0,Card
+1050,13,08-07-2025,green tea,HOT DRINKS,1.0,35000.0,Card
+1659,110,03/08/2025,blueberry muffin,bakery,1.0,50000.0,card
+1854,7,03-07-2025,ESPRESSO,Hot Drinks,3.0,45000.0,Card
+1131,22,06/15/2025,latte,Hot Drinks,1.0,63000.0,Online
+1562,90,2025-01-10,Green Tea,hot drinks,1.0,35000.0,Cash
+1272,67,18/09/2025,BLUEBERRY MUFFIN,Bakery,1.0,45000.0,card
+2162,73,07/02/2025,Croissa nt,Bakery,4.0,40000.0,Online
+2186,72,09/04/2025,Croissant ,Bakery,4.0,35000.0,Cash
+1645,101,14/05/2025,Blueberry Muffin ,Bakery,2.0,50000.0,Online 
+1953,39,12/16/2025,HOT CHOCOLATE,hot drinks,3.0,65000.0,Card
+1887,81,2025-06-08,Hot Chocolate,HOT DRINKS,3.0,65000.0,CASH
+1872,95,08/21/2025,Espresso ,HOT DRINKS,4.0,50000.0,Online
+1412,101,2025-05-28, Hot Chocolate,hot drinks,2.0,60000.0,CASH
+2284,57,2025-11-17,CROISSANT,bakery,2.0,35000.0,Card
+1158,60,10/02/2025,Hot Chocola te,Hot drinks,3.0,60000.0,Cash
+1304,7,21/10/2025, Latte,Hot drinks,2.0,53000.0,Cash
+1005,39,2025-08-08,BLUEBERRY MUFFIN,BAKERY,2.0,45000.0,Online
+2372,19,02/12/2025,Green Tea ,HOT DRINKS,1.0,35000.0,Card
+1020,29,08/25/2025,Cappuccino ,hot drinks,2.0,55000.0,card
+2181,97,06/10/2025,Blueberry Muffin,bakery,2.0,55000.0,card
+1766,40,2025-07-19,Hot Chocola te,Hot drinks,2.0,60000.0,card
+1771,11,2025-02-03,Hot Chocolate,hot drinks,1.0,60000.0,Card
+1182,60,06/10/2025,GREEN TEA,Hot drinks,4.0,35000.0,Online
+1625,69,25/07/2025,CHOCOLATE CAKE,BAKERY,1.0,80000.0,card
+2095,92,2025-05-07,Croissant,Bakery,1.0,35000.0,Online 
+2039,95,02/04/2025,Espresso,Hot drinks,1.0,45000.0,Online
+1797,106,30/08/2025,Chocola te Ca ke,Bakery,4.0,75000.0,Card
+1962,22,12/12/2025, Cappuccino,Hot Drinks,1.0,60000.0,Cash
+1434,29,2025-05-10,Blueberry Muffin,Bakery,,55000.0,Online 
+2171,56,21/12/2025,Cold Brew ,COLD DRINKS,4.0,60000.0,Card
+1383,60,2025-02-21,espresso,hot drinks,4.0,45000.0,card
+1651,83,03/01/2025, Iced Latte,cold drinks,2.0,62000.0,card
+1787,8,10-06-2025, Cappuccino,hot drinks,4.0,50000.0,Online 
+1015,42,23-02-2025,green tea,Hot drinks,2.0,35000.0,CASH
+1973,10,16/09/2025,cappuccino,HOT DRINKS,2.0,55000.0,CASH
+1889,85,03-04-2025,CHEESECAKE,Bakery,4.0,85000.0,Card
+1547,18,07/07/2025,iced latte,Cold Drinks,1.0,62000.0,CASH
+1574,100,02/24/2025,Americano ,hot drinks,1.0,53000.0,CASH
+2376,60,2025-09-05,Hot Chocola te,Hot Drinks,1.0,60000.0,card
+1519,8,20/07/2025,iced latte,Cold drinks,,62000.0,Card
+2260,8,29-11-2025,iced latte,Cold drinks,2.0,57000.0,Online 
+1640,65,30-07-2025,Iced Latte ,Cold drinks,1.0,57000.0,Online 
+2273,84,16/10/2025,hot chocolate,hot drinks,3.0,60000.0,card
+1881,38,01/15/2025, Chocolate Cake,Bakery,4.0,80000.0,Online
+1023,37,02/06/2025, Hot Chocolate,Hot drinks,4.0,60000.0,Online
+2336,115,31-10-2025, Espresso,hot drinks,3.0,45000.0,card
+1188,78,26/11/2025,cold brew,Cold drinks,4.0,70000.0,
+2177,64,22/08/2025,Green Tea ,Hot drinks,1.0,35000.0,CASH
+1703,55,12/24/2025,Iced Latte ,cold drinks,4.0,57000.0,Online 
+1495,54,10-03-2025,chocolate cake,bakery,4.0,75000.0,CASH
+2325,35,10/22/2025,americano,HOT DRINKS,1.0,48000.0,card
+1472,11,20/01/2025,Blueberry Muffin,bakery,2.0,55000.0,Online 
+1343,80,15/12/2025,blueberry muffin,BAKERY,,50000.0,Card
+2212,74,2025-05-26,ESPRESSO,Hot drinks,2.0,,Card
+1007,58,01-11-2025,hot chocolate,hot drinks,1.0,60000.0,Online 
+2089,66,2025-05-08,La tte,HOT DRINKS,4.0,58000.0,Online 
+1718,72,18-01-2025,hot chocolate,Hot drinks,1.0,60000.0,CASH
+2037,65,05/03/2025, Hot Chocolate,hot drinks,3.0,60000.0,Online 
+2026,19,2025-10-20,Cheesecake,bakery,1.0,85000.0,Online 
+1408,15,15/10/2025,cold brew,Cold drinks,3.0,70000.0,Card
+1215,24,27/10/2025,green tea,HOT DRINKS,1.0,,Online 
+1109,101,2025-06-26,Ca ppuccino,hot drinks,4.0,60000.0,Cash
+1219,12,03/11/2025, Blueberry Muffin,Bakery,1.0,50000.0,Card
+1701,60,12/27/2025,La tte,Hot drinks,4.0,58000.0,Online 
+1558,106,16/11/2025,CHOCOLATE CAKE,bakery,1.0,75000.0,Cash
+1407,45,03/09/2025,Green Tea,hot drinks,2.0,40000.0,Online 
+2143,51,2025-10-14, Latte,hot drinks,4.0,58000.0,Online 
+1993,36,26/11/2025,Cold Brew,COLD DRINKS,3.0,65000.0,Online 
+1367,81,2025-06-10,latte,HOT DRINKS,1.0,58000.0,Cash
+1203,1,2025-10-10,Cheeseca ke,bakery,1.0,90000.0,CASH
+1465,84,19/12/2025,AMERICANO,Hot drinks,1.0,43000.0,Online 
+1742,119,03-09-2025,ESPRESSO,Hot drinks,3.0,45000.0,CASH
+1587,58,05/07/2025,Green Tea ,HOT DRINKS,3.0,40000.0,card
+1027,112,21/02/2025, Chocolate Cake,BAKERY,1.0,75000.0,Card
+1491,111,06-04-2025, Iced Latte,cold drinks,1.0,62000.0,Online
+1230,65,2025-08-03,Hot Chocola te,Hot Drinks,4.0,,Card
+1506,95,08/15/2025,ICED LATTE,Cold Drinks,1.0,67000.0,Card
+1415,118,21/09/2025,latte,hot drinks,1.0,58000.0,Cash
+1052,32,2025-10-17,LATTE,HOT DRINKS,4.0,63000.0,Cash
+2188,30,2025-12-30, Cappuccino,hot drinks,3.0,60000.0,CASH
+1824,81,2025-11-01,Iced La tte,Cold drinks,1.0,57000.0,Online
+1600,94,09/12/2025,Green Tea,hot drinks,2.0,35000.0,Cash
+1196,13,08/29/2025, Hot Chocolate,Hot Drinks,1.0,60000.0,CASH
+1675,7,02/19/2025,Iced Latte,Cold Drinks,4.0,67000.0,Card
+2052,118,03/02/2025, Green Tea,hot drinks,1.0,0.0,Card
+1998,26,08/06/2025,Americano ,Hot drinks,1.0,48000.0,Online 
+1064,60,2025-10-15,Cheeseca ke,Bakery,2.0,85000.0,Online 
+1568,65,01-02-2025,Iced Latte ,cold drinks,2.0,57000.0,Cash
+1069,19,2025-11-21,HOT CHOCOLATE,Hot drinks,3.0,65000.0,card
+2117,78,02/21/2025,Croissant ,Bakery,3.0,35000.0,card
+2045,16,29/11/2025,CHEESECAKE,Bakery,1.0,,Card
+1379,15,09/12/2025,Cappuccino ,HOT DRINKS,4.0,55000.0,Online
+1267,94,22-02-2025, Cappuccino,HOT DRINKS,1.0,,Online 
+1726,50,07-01-2025, Cold Brew,Cold Drinks,1.0,,Cash
+1138,17,2025-09-21, Cold Brew,Cold Drinks,1.0,65000.0,Online
+1218,12,09/08/2025,Latte,hot drinks,1.0,53000.0,
+1801,67,29/11/2025, Hot Chocolate,Hot drinks,4.0,0.0,Online 
+1357,88,04-09-2025,cappuccino,hot drinks,1.0,55000.0,Online 
+1483,71,01-09-2025,latte,HOT DRINKS,1.0,63000.0,Online 
+1926,14,2025-11-01,Espresso ,HOT DRINKS,2.0,45000.0,Online 
+1235,67,2025-06-28,chocolate cake,Bakery,2.0,75000.0,Online
+2350,17,11/22/2025,Americano,Hot drinks,1.0,48000.0,CASH
+1970,32,13/11/2025,La tte,HOT DRINKS,2.0,0.0,Online 
+2291,62,2025-05-19, Latte,HOT DRINKS,1.0,53000.0,Online 
+2041,90,25/12/2025,americano,Hot Drinks,1.0,48000.0,Online 
+1945,67,02-04-2025,Chocola te Ca ke,Bakery,2.0,75000.0,card
+2263,80,2025-04-13,Hot Chocolate ,Hot Drinks,1.0,60000.0,CASH
+1100,98,05/20/2025,Latte,HOT DRINKS,4.0,,card
+1332,34,25/11/2025, Cappuccino,hot drinks,1.0,55000.0,
+2334,6,01/07/2025,Ca ppuccino,Hot drinks,3.0,55000.0,Online
+2217,14,19/12/2025,Cold Brew,COLD DRINKS,1.0,65000.0,Online 
+1986,105,29-11-2025,ICED LATTE,Cold drinks,1.0,57000.0,Online
+1258,66,23-05-2025,hot chocolate,Hot Drinks,2.0,60000.0,Online 
+1774,89,16/04/2025,GREEN TEA,hot drinks,2.0,35000.0,Online
+2097,33,06-07-2025,Chocola te Ca ke,Bakery,1.0,70000.0,Online 
+1770,53,01/29/2025,Cold Brew,cold drinks,1.0,65000.0,CASH
+2296,12,06/01/2025,Blueberry Muffin ,Bakery,3.0,55000.0,Card
+2385,106,27-10-2025, Croissant,bakery,1.0,45000.0,CASH
+1437,41,19-08-2025,CHOCOLATE CAKE,bakery,3.0,0.0,Online
+1552,65,2025-04-24, Hot Chocolate,Hot Drinks,3.0,60000.0,Cash
+2375,35,18/04/2025,hot chocolate,HOT DRINKS,2.0,60000.0,Online
+1072,78,08/01/2025,Chocolate Cake,bakery,4.0,80000.0,card
+1673,112,03/18/2025,Cheeseca ke,BAKERY,1.0,80000.0,card
+1084,61,20-11-2025,chocolate cake,Bakery,2.0,70000.0,Online
+1544,99,11/05/2025,Cheesecake,Bakery,2.0,85000.0,Online
+1711,36,23/12/2025,Cappuccino ,Hot Drinks,1.0,55000.0,Online
+2113,29,18/05/2025,COLD BREW,Cold drinks,1.0,65000.0,Online
+1944,94,2025-08-29, Cappuccino,hot drinks,1.0,60000.0,card
+1913,34,27-04-2025,Blueberry Muffin,bakery,1.0,45000.0,Online 
+1736,41,21-12-2025,chocolate cake,bakery,1.0,70000.0,card
+2257,60,2025-07-30, Croissant,Bakery,2.0,35000.0,Cash
+1623,4,01-09-2025,CAPPUCCINO,hot drinks,2.0,55000.0,Online
+1368,74,09/08/2025,La tte,Hot drinks,2.0,58000.0,card
+1450,33,25/04/2025, Croissant,Bakery,1.0,40000.0,CASH
+1277,11,02/10/2025,Iced Latte ,cold drinks,4.0,62000.0,card
+1627,89,2025-03-30, Americano,Hot Drinks,3.0,53000.0,CASH
+2010,39,30/09/2025,Cheeseca ke,Bakery,2.0,85000.0,Online 
+1606,59,21/06/2025,Cheesecake ,bakery,3.0,80000.0,CASH
+1571,84,10/25/2025,latte,HOT DRINKS,4.0,58000.0,card
+2277,98,05/02/2025, Americano,Hot Drinks,3.0,0.0,Card
+2085,60,17/05/2025, Green Tea,HOT DRINKS,2.0,40000.0,Online
+1132,26,10/10/2025,Green Tea ,Hot Drinks,3.0,35000.0,CASH
+1091,11,06-12-2025,BLUEBERRY MUFFIN,Bakery,1.0,50000.0,Online
+2196,24,2025-01-06,iced latte,Cold drinks,1.0,,CASH
+1428,50,2025-03-02,Green Tea,Hot Drinks,3.0,40000.0,Online 
+2216,109,2025-03-04,Green Tea,Hot Drinks,1.0,35000.0,Cash
+2266,88,2025-12-03,Chocola te Ca ke,Bakery,2.0,75000.0,Cash
+1344,96,2025-05-18,chocolate cake,bakery,-1.0,75000.0,card
+2224,63,24-06-2025,Ca ppuccino,Hot drinks,4.0,55000.0,Online 
+1722,18,10-10-2025,Green Tea ,HOT DRINKS,1.0,35000.0,card
+1598,27,2025-01-30,Blueberry Muffin,bakery,2.0,55000.0,card
+1425,107,2025-08-11,Hot Chocolate,Hot drinks,3.0,60000.0,Online 
+1646,9999,16-11-2025,HOT CHOCOLATE,Hot Drinks,2.0,55000.0,Online
+1859,38,15/08/2025,HOT CHOCOLATE,hot drinks,3.0,55000.0,Online
+2234,106,05/18/2025,hot chocolate,hot drinks,1.0,60000.0,Online 
+1712,54,05/10/2025, Green Tea,Hot Drinks,1.0,35000.0,Online
+1879,96,2025-10-14,Latte,Hot Drinks,2.0,58000.0,Online
+1106,66,05/04/2025,Blueberry Muffin,bakery,1.0,50000.0,Cash
+1518,54,13/09/2025,iced latte,Cold Drinks,3.0,57000.0,Cash
+1617,70,09-10-2025,Cold Brew ,COLD DRINKS,1.0,65000.0,Cash
+1094,18,2025-02-09,La tte,Hot Drinks,2.0,63000.0,Online 
+2388,74,06/11/2025,Blueberry Muffin,BAKERY,1.0,50000.0,Cash
+2203,80,07/11/2025,cappuccino,hot drinks,1.0,60000.0,Online 
+1375,92,20-01-2025,Green Tea ,Hot Drinks,4.0,40000.0,CASH
+1798,106,2025-12-24,Latte ,hot drinks,1.0,,card
+1026,85,2025-03-19,Green Tea ,hot drinks,1.0,40000.0,Card
+2078,119,21/09/2025,Green Tea,hot drinks,2.0,35000.0,Card
+1946,35,2025-07-25,BLUEBERRY MUFFIN,Bakery,1.0,50000.0,Cash
+2012,51,06/07/2025,Hot Chocolate,Hot Drinks,4.0,60000.0,Card
+2343,107,09-07-2025,Espresso,Hot drinks,2.0,45000.0,CASH
+2011,112,25-02-2025,cappuccino,HOT DRINKS,4.0,55000.0,Online 
+1990,76,2025-01-07,hot chocolate,HOT DRINKS,2.0,55000.0,Online 
+1232,118,2025-02-24,Croissant ,BAKERY,1.0,40000.0,card
+2317,55,2025-05-13,Hot Chocolate ,Hot Drinks,3.0,60000.0,CASH
+1759,96,02/07/2025,croissant,BAKERY,2.0,45000.0,card
+1566,26,2025-08-23,Cheesecake ,bakery,1.0,85000.0,Online
+1906,72,27/12/2025,Hot Chocola te,Hot Drinks,2.0,55000.0,CASH
+2398,106,30/08/2025, Espresso,Hot Drinks,2.0,45000.0,Card
+2042,39,12/02/2025,chocolate cake,BAKERY,2.0,75000.0,Cash
+1288,29,2025-01-24,cheesecake,bakery,2.0,85000.0,Card
+1908,23,05/01/2025, Hot Chocolate,Hot Drinks,1.0,60000.0,
+1991,55,2025-11-14, Americano,hot drinks,1.0,48000.0,Cash
+1644,46,2025-05-29,Iced La tte,cold drinks,3.0,67000.0,Online 
+1364,61,2025-11-21,Espresso ,Hot Drinks,2.0,45000.0,Online 
+1283,78,18/11/2025,blueberry muffin,Bakery,2.0,55000.0,card
+1706,91,03/12/2025,America no,Hot drinks,2.0,43000.0,Online 
+1786,102,12/04/2025,Iced La tte,Cold drinks,3.0,57000.0,Card
+1078,15,01/11/2025, Croissant,bakery,4.0,0.0,Card
+1501,11,25-06-2025,La tte,hot drinks,1.0,58000.0,CASH
+2136,118,2025-07-10,Croissant,Bakery,3.0,45000.0,CASH
+1808,94,04/07/2025,Green Tea,hot drinks,2.0,35000.0,Online
+1527,69,03/06/2025,Ca ppuccino,hot drinks,1.0,,card
+1917,113,01/13/2025,Blueberry Muffin,BAKERY,3.0,50000.0,Cash
+2020,48,06/25/2025, Green Tea,Hot Drinks,1.0,35000.0,Online
+1821,115,2025-10-27,GREEN TEA,Hot drinks,2.0,40000.0,Card
+1499,46,11/12/2025,Cold Brew,Cold drinks,4.0,65000.0,
+1956,76,28/08/2025,cheesecake,BAKERY,1.0,,card
+1494,72,07/15/2025, Croissant,Bakery,4.0,40000.0,Cash
+1836,3,12/05/2025, Cappuccino,Hot Drinks,4.0,55000.0,Card
+1037,38,04-12-2025,Espresso,Hot Drinks,1.0,50000.0,CASH
+1875,11,02/01/2025, Cappuccino,Hot Drinks,2.0,55000.0,Online
+1488,29,07/03/2025,Blueberry Muffin,bakery,2.0,55000.0,card
+2361,99,2025-02-02,cheesecake,BAKERY,2.0,85000.0,Cash
+1655,99,05/04/2025,Green Tea,HOT DRINKS,2.0,35000.0,Online
+1105,7,03/08/2025, Americano,Hot Drinks,1.0,43000.0,Online 
+1992,20,2025-04-15, Croissant,bakery,1.0,45000.0,Cash
+1818,5,14/05/2025, Chocolate Cake,Bakery,,,card
+1125,45,03-02-2025,Hot Chocola te,HOT DRINKS,1.0,60000.0,Online
+2298,6,06/29/2025,Cold Brew ,Cold drinks,1.0,65000.0,card
+1907,4,2025-08-16,Green Tea ,hot drinks,1.0,35000.0,card
+1384,95,2025-02-18,Ca ppuccino,HOT DRINKS,4.0,55000.0,Online
+1791,28,14-08-2025,Iced Latte,Cold drinks,4.0,67000.0,CASH
+1161,61,2025-12-15, Cappuccino,Hot drinks,2.0,55000.0,card
+2199,42,04/23/2025, Latte,HOT DRINKS,1.0,58000.0,Card
+1489,111,2025-03-31, Green Tea,hot drinks,3.0,40000.0,Online 
+1827,118,02/15/2025, Croissant,bakery,1.0,40000.0,Online 
+1373,114,10/03/2025,GREEN TEA,Hot drinks,1.0,35000.0,Card
+1441,94,2025-02-09,Green Tea,Hot Drinks,1.0,40000.0,CASH
+1631,69,19/07/2025,Iced La tte,cold drinks,1.0,62000.0,Online
+1714,76,23/12/2025,Green Tea ,HOT DRINKS,2.0,35000.0,Online
+2081,16,04-01-2025, Chocolate Cake,bakery,1.0,75000.0,Online
+1639,46,2025-04-06,America no,HOT DRINKS,2.0,48000.0,Online 
+1898,73,08/17/2025,croissant,BAKERY,4.0,40000.0,Cash
+1948,11,13/02/2025,LATTE,Hot Drinks,2.0,58000.0,card
+1374,30,2025-03-09,AMERICANO,Hot Drinks,2.0,53000.0,Online
+2050,74,2025-02-20,LATTE,Hot drinks,3.0,63000.0,Online 
+1670,57,2025-04-08,Hot Chocola te,HOT DRINKS,1.0,55000.0,card
+1118,56,2025-11-24,iced latte,COLD DRINKS,3.0,62000.0,Card
+2179,56,26/05/2025,Croissa nt,Bakery,3.0,0.0,
+2272,110,18/04/2025,CHEESECAKE,BAKERY,2.0,80000.0,Online
+2360,78,2025-01-11,Cheesecake,bakery,4.0,85000.0,Online
+2149,60,14-09-2025,Croissa nt,bakery,4.0,40000.0,Cash
+2031,44,15/07/2025,CROISSANT,bakery,-4.0,40000.0,Card
+1414,70,11/05/2025,HOT CHOCOLATE,Hot Drinks,1.0,60000.0,Cash
+1757,52,10/30/2025,HOT CHOCOLATE,hot drinks,1.0,60000.0,Cash
+1764,56,16-07-2025, Cappuccino,Hot drinks,4.0,55000.0,Card
+1127,74,08/28/2025,Cold Brew,cold drinks,2.0,60000.0,card
+2166,19,2025-04-20,Green Tea,hot drinks,2.0,35000.0,
+1825,55,10/19/2025,Hot Chocola te,hot drinks,4.0,55000.0,Online
+1572,117,12/02/2025,Latte ,Hot Drinks,-1.0,53000.0,Cash
+2021,112,21/02/2025,Cold Brew,COLD DRINKS,4.0,65000.0,
+2195,60,09/02/2025,Green Tea,Hot drinks,2.0,,Cash
+1672,44,2025-06-22,ESPRESSO,Hot drinks,2.0,40000.0,Online 
+1399,107,30-05-2025,Green Tea,HOT DRINKS,3.0,30000.0,card
+1725,78,19-09-2025,Blueberry Muffin,Bakery,2.0,50000.0,Online
+1551,100,15-07-2025,green tea,HOT DRINKS,2.0,30000.0,Online
+1564,35,2025-12-04,Green Tea,Hot drinks,,35000.0,Cash
+1174,58,2025-12-27,Cheesecake,BAKERY,2.0,80000.0,CASH
+1320,73,12-09-2025,CAPPUCCINO,hot drinks,3.0,50000.0,Online
+1524,102,27/10/2025,Iced Latte,Cold Drinks,4.0,62000.0,CASH
+1469,30,2025-12-25, Chocolate Cake,bakery,1.0,80000.0,CASH
+2366,65,27/12/2025,Hot Chocola te,HOT DRINKS,1.0,55000.0,Card
+2332,22,09/03/2025,CAPPUCCINO,Hot drinks,2.0,55000.0,Online 
+1888,70,01/28/2025,Blueberry Muffin ,Bakery,4.0,50000.0,Card
+1079,56,05/05/2025, Cappuccino,hot drinks,2.0,50000.0,Online 
+1533,68,09/12/2025,green tea,Hot drinks,2.0,35000.0,Online 
+2280,33,13-08-2025,Chocola te Ca ke,BAKERY,1.0,75000.0,card
+1457,29,11/04/2025,croissant,BAKERY,2.0,45000.0,Online 
+1290,48,09/10/2025, Blueberry Muffin,Bakery,1.0,45000.0,Cash
+1370,115,2025-09-29,Cold Brew,COLD DRINKS,,60000.0,Cash
+1265,28,02/09/2025,Chocolate Cake,Bakery,2.0,0.0,Online 
+1588,71,23-01-2025,CROISSANT,BAKERY,2.0,40000.0,Cash
+1477,118,04/26/2025,Iced Latte ,Cold Drinks,2.0,62000.0,Online
+1164,24,2025-05-29,Hot Chocolate ,Hot Drinks,,65000.0,Online
+2202,102,07/09/2025,America no,hot drinks,2.0,53000.0,Online
+1093,47,07/05/2025, Espresso,HOT DRINKS,1.0,45000.0,Cash
+1473,118,30/01/2025,BLUEBERRY MUFFIN,bakery,2.0,45000.0,Cash
+1197,111,16-03-2025,Americano ,Hot drinks,2.0,53000.0,Online
+1185,95,07/25/2025,Espresso,HOT DRINKS,2.0,45000.0,CASH
+2110,11,10/09/2025,hot chocolate,hot drinks,2.0,65000.0,Card
+1421,31,11/11/2025, Green Tea,Hot Drinks,1.0,35000.0,card
+1451,1,03/13/2025,Cheesecake ,bakery,1.0,80000.0,Cash
+1256,111,08-05-2025,La tte,Hot drinks,4.0,58000.0,card
+1135,82,12-09-2025, Espresso,HOT DRINKS,3.0,45000.0,Online 
+1965,17,2025-08-03,CHEESECAKE,BAKERY,2.0,85000.0,Online
+1857,7,2025-08-23,Chocolate Cake ,Bakery,4.0,80000.0,CASH
+1051,55,02/16/2025,Chocolate Cake,Bakery,3.0,80000.0,Online
+1918,22,2025-06-09, Cold Brew,Cold Drinks,1.0,65000.0,CASH
+1583,22,2025-05-31,CROISSANT,Bakery,3.0,45000.0,Online 
+2032,38,27-02-2025,CAPPUCCINO,Hot Drinks,3.0,60000.0,CASH
+2265,119,03/06/2025,Cappuccino ,hot drinks,1.0,55000.0,CASH
+2310,117,24-05-2025,Espresso ,hot drinks,1.0,45000.0,Online
+1049,79,24-05-2025, Croissant,BAKERY,1.0,40000.0,Online
+1341,76,2025-02-21,Blueberry Muffin ,bakery,4.0,50000.0,card
+1812,78,2025-11-03,Green Tea ,Hot drinks,1.0,35000.0,
+1526,12,2025-11-13,Green Tea,HOT DRINKS,1.0,35000.0,Online 
+1837,54,02/06/2025,Hot Chocolate ,hot drinks,4.0,60000.0,Online
+1997,71,2025-05-01,americano,HOT DRINKS,2.0,48000.0,Online 
+1682,31,2025-11-09,La tte,Hot drinks,2.0,58000.0,CASH
+1462,68,28/04/2025,Croissa nt,Bakery,1.0,,card
+1783,35,27-11-2025,ICED LATTE,Cold drinks,3.0,67000.0,Cash
+2084,6,22-07-2025,La tte,HOT DRINKS,1.0,58000.0,card
+2205,78,29/09/2025,GREEN TEA,hot drinks,1.0,30000.0,card
+1468,40,26/06/2025,Blueberry Muffin,Bakery,3.0,50000.0,Online 
+1647,33,12-11-2025,Latte,Hot Drinks,4.0,58000.0,CASH
+2358,34,05/18/2025,espresso,Hot drinks,1.0,40000.0,card
+1033,88,09/12/2025,America no,hot drinks,1.0,48000.0,card
+1416,21,11-05-2025,Blueberry Muffin,BAKERY,2.0,50000.0,Online
+1247,25,15/10/2025, Croissant,Bakery,2.0,40000.0,card
+1813,51,2025-07-09,green tea,HOT DRINKS,2.0,35000.0,CASH
+1799,89,01/27/2025,Espresso,HOT DRINKS,3.0,45000.0,Card
+2193,59,03/04/2025,BLUEBERRY MUFFIN,Bakery,1.0,50000.0,Card
+2253,52,14-05-2025, Cappuccino,hot drinks,1.0,60000.0,CASH
+2070,96,2025-04-28,hot chocolate,Hot Drinks,-1.0,60000.0,Online 
+1216,10,18/05/2025,Ca ppuccino,Hot drinks,3.0,55000.0,Online
+2380,84,03/14/2025,La tte,hot drinks,4.0,63000.0,
+2174,96,2025-11-21,La tte,HOT DRINKS,1.0,58000.0,card
+1543,53,09-08-2025,Green Tea ,HOT DRINKS,,35000.0,card
+2047,111,15/07/2025,Green Tea,Hot Drinks,1.0,30000.0,Card
+2299,85,2025-12-03,CAPPUCCINO,Hot drinks,1.0,60000.0,Online 
+1493,58,10/20/2025,La tte,hot drinks,4.0,53000.0,Cash
+2367,95,20-07-2025, Blueberry Muffin,Bakery,4.0,50000.0,Online
+1464,25,2025-12-30,Espresso,Hot Drinks,2.0,,card
+1391,87,2025-07-17,Green Tea ,Hot drinks,1.0,35000.0,card
+2282,115,2025-07-04,Espresso,Hot drinks,1.0,45000.0,Cash
+1438,60,28-03-2025,Croissa nt,Bakery,1.0,40000.0,Online
+2005,21,12-08-2025,America no,hot drinks,2.0,48000.0,Online 
+1582,98,26-01-2025,green tea,hot drinks,2.0,35000.0,card
+1932,61,21-12-2025,Hot Chocolate ,hot drinks,4.0,65000.0,CASH
+1326,10,17/02/2025, Cheesecake,BAKERY,3.0,80000.0,CASH
+2225,20,02/24/2025, Cheesecake,BAKERY,1.0,85000.0,card
+2176,74,2025-07-09,Espresso ,Hot Drinks,1.0,45000.0,Online 
+1465,84,19/12/2025,AMERICANO,Hot drinks,1.0,43000.0,Online 
+1553,56,07/21/2025, Iced Latte,Cold Drinks,1.0,57000.0,CASH
+1061,58,31/07/2025,America no,Hot Drinks,2.0,48000.0,
+1418,101,06/12/2025,Hot Chocolate,HOT DRINKS,1.0,65000.0,card
+2213,115,28-09-2025,Cheesecake,Bakery,3.0,80000.0,Card
+1708,7,10/07/2025,Cappuccino ,Hot Drinks,2.0,60000.0,card
+2368,36,14-04-2025, Chocolate Cake,Bakery,3.0,80000.0,Online
+1538,102,30-01-2025,Hot Chocola te,Hot Drinks,2.0,55000.0,Online
+1155,62,07-05-2025,americano,HOT DRINKS,1.0,48000.0,Online 
+2137,112,16-01-2025,LATTE,Hot Drinks,-1.0,53000.0,Card
+1853,21,09/09/2025,BLUEBERRY MUFFIN,BAKERY,2.0,50000.0,CASH
+1082,78,12/02/2025, Latte,Hot drinks,4.0,58000.0,Online 
+1816,37,10-11-2025,iced latte,Cold drinks,2.0,62000.0,Cash
+1366,53,23-08-2025,Blueberry Muffin,Bakery,4.0,,Online
+1937,78,12-04-2025,espresso,HOT DRINKS,1.0,45000.0,Online
+1861,37,29-03-2025,cheesecake,BAKERY,1.0,85000.0,Cash
+1611,48,14/04/2025, Espresso,HOT DRINKS,2.0,40000.0,
+1348,100,10/19/2025,Cheesecake,BAKERY,1.0,85000.0,Card
+2269,103,26/08/2025,cappuccino,Hot drinks,1.0,50000.0,Card
+2276,4,2025-03-23, Hot Chocolate,Hot drinks,3.0,55000.0,Online
+1166,104,19/06/2025,Ca ppuccino,HOT DRINKS,,55000.0,Card
+2079,79,18-06-2025,chocolate cake,BAKERY,1.0,70000.0,card
+2331,98,2025-12-31, Cheesecake,Bakery,1.0,80000.0,Online 
+1546,3,05/22/2025, Hot Chocolate,hot drinks,1.0,55000.0,Cash
+1204,37,15/09/2025,Espresso,Hot Drinks,4.0,45000.0,CASH
+2099,84,18/04/2025,ICED LATTE,Cold Drinks,1.0,57000.0,Card
+1709,91,14-12-2025,cheesecake,Bakery,2.0,90000.0,Cash
+1605,119,2025-09-03, Green Tea,HOT DRINKS,3.0,35000.0,Online 
+2275,90,29-10-2025, Cold Brew,Cold Drinks,2.0,70000.0,Card
+1186,38,22-10-2025,AMERICANO,HOT DRINKS,1.0,48000.0,card
+1777,44,04/02/2025,iced latte,Cold Drinks,2.0,62000.0,Online 
+2363,28,2025-05-08,Cheesecake ,Bakery,4.0,80000.0,CASH
+1014,24,12/08/2025,blueberry muffin,Bakery,1.0,50000.0,Online
+1009,15,04/26/2025,Cheesecake,Bakery,1.0,85000.0,Cash
+1010,102,01-11-2025, Iced Latte,cold drinks,2.0,57000.0,Online 
+2392,11,20-04-2025, Blueberry Muffin,Bakery,3.0,50000.0,card
+2066,13,29/03/2025,Espresso,Hot drinks,1.0,45000.0,card
+1721,86,17/10/2025,La tte,Hot drinks,-1.0,53000.0,Card
+1630,28,2025-10-25,La tte,HOT DRINKS,-4.0,58000.0,card
+1855,44,02/28/2025,CROISSANT,Bakery,1.0,45000.0,Online
+1746,5,2025-09-20,green tea,Hot Drinks,2.0,0.0,Card
+1983,54,25-02-2025,Cheesecake ,BAKERY,2.0,85000.0,CASH
+1555,26,07/22/2025,Chocola te Ca ke,BAKERY,2.0,80000.0,Cash
+1289,71,01/05/2025,chocolate cake,BAKERY,1.0,80000.0,card
+2016,57,11/16/2025,Green Tea,Hot drinks,1.0,35000.0,Card
+1427,106,13/05/2025, Americano,hot drinks,2.0,48000.0,Card
+1561,69,15-04-2025,Americano ,HOT DRINKS,2.0,48000.0,Online 
+1793,61,2025-07-08,Hot Chocolate,Hot Drinks,3.0,65000.0,Online 
+1876,87,26/07/2025,Cheesecake ,Bakery,4.0,85000.0,Online 
+2330,64,12/04/2025,Green Tea,Hot drinks,1.0,35000.0,Online
+2090,106,2025-04-12,Croissant ,BAKERY,3.0,,Cash
+1121,98,21-10-2025,Ca ppuccino,hot drinks,2.0,55000.0,Cash
+1656,71,2025-12-11,Espresso,Hot Drinks,1.0,45000.0,Online 
+1930,78,09/23/2025,Espresso ,Hot Drinks,1.0,45000.0,card
+1767,72,17/09/2025,Latte ,Hot drinks,1.0,,CASH
+1151,7,03/09/2025,Blueberry Muffin,Bakery,1.0,50000.0,Cash
+1112,114,11/06/2025, Espresso,hot drinks,4.0,50000.0,Card
+2030,18,21/11/2025,CHEESECAKE,Bakery,1.0,85000.0,Online 
+1423,38,2025-04-09,Green Tea ,Hot Drinks,1.0,35000.0,Online 
+1504,22,2025-02-22,Croissant,Bakery,2.0,45000.0,card
+1130,82,04/04/2025,Blueberry Muffin,BAKERY,2.0,45000.0,Online
+1461,70,14/12/2025,espresso,Hot Drinks,2.0,45000.0,Online 
+2313,60,14/08/2025, Espresso,HOT DRINKS,1.0,45000.0,card
+1133,83,10/31/2025,La tte,hot drinks,1.0,63000.0,CASH
+1000,23,01/08/2025,Iced Latte,cold drinks,1.0,57000.0,Online 
+2017,36,06/25/2025,Ca ppuccino,Hot Drinks,2.0,55000.0,Card
+2123,55,17-03-2025,Croissa nt,Bakery,1.0,40000.0,card
+2339,60,01/22/2025,latte,hot drinks,2.0,63000.0,Card
+1699,94,22-04-2025,Croissa nt,Bakery,1.0,40000.0,Card
+1921,81,2025-10-24, Chocolate Cake,bakery,1.0,70000.0,Online 
+1860,105,04/03/2025,LATTE,Hot drinks,2.0,53000.0,Online
+2165,90,01-09-2025,Hot Chocolate ,HOT DRINKS,2.0,55000.0,card
+2215,100,2025-09-10,Cold Brew,Cold drinks,2.0,65000.0,
+1411,105,02/22/2025, Chocolate Cake,BAKERY,3.0,80000.0,CASH
+1322,89,2025-06-29,Cappuccino,Hot drinks,3.0,50000.0,card
+1001,96,2025-11-23,Latte ,hot drinks,4.0,53000.0,card
+1976,60,02/12/2025,CAPPUCCINO,Hot drinks,,55000.0,Online
+1435,71,2025-05-29,CAPPUCCINO,Hot drinks,1.0,50000.0,Online
+1452,20,2025-03-22, Latte,hot drinks,3.0,58000.0,Online 
+1038,96,27-05-2025,Chocolate Cake ,bakery,1.0,75000.0,Online 
+1183,20,2025-04-07,Iced Latte ,Cold Drinks,,62000.0,Cash
+1217,47,16-02-2025,cappuccino,Hot Drinks,2.0,55000.0,Cash
+1871,34,2025-09-17, Green Tea,hot drinks,1.0,30000.0,CASH
+1306,38,30/07/2025,chocolate cake,Bakery,1.0,70000.0,Cash
+1729,120,2025-07-12, Blueberry Muffin,BAKERY,2.0,50000.0,CASH
+1440,63,2025-02-25,CHEESECAKE,BAKERY,4.0,85000.0,Online
+1549,106,2025-12-26,Hot Chocolate,Hot drinks,2.0,60000.0,Card
+1313,63,02/16/2025,Espresso,Hot drinks,2.0,45000.0,Card
+2072,119,01/06/2025,Chocolate Cake ,Bakery,-2.0,75000.0,card
+1700,62,06/06/2025,Green Tea,Hot Drinks,4.0,40000.0,card
+1331,82,2025-02-11, Iced Latte,Cold drinks,1.0,62000.0,Online 
+1036,50,24/02/2025,Chocolate Cake ,bakery,2.0,75000.0,
+1110,6,10/07/2025,Cold Brew,Cold drinks,4.0,65000.0,Online 
+1960,20,18/10/2025, Cold Brew,Cold Drinks,-2.0,65000.0,CASH
+2120,11,13/03/2025,americano,hot drinks,4.0,48000.0,card
+2131,54,12/09/2025,CHEESECAKE,Bakery,2.0,90000.0,Card
+1745,98,09/02/2025,Cappuccino,HOT DRINKS,,55000.0,Card
+1979,92,12/12/2025,Espresso,Hot Drinks,2.0,,card
+1775,78,2025-04-14,CROISSANT,bakery,4.0,45000.0,Online
+1886,6,15-08-2025,GREEN TEA,Hot Drinks,3.0,30000.0,CASH
+1713,25,12-01-2025,cappuccino,hot drinks,2.0,60000.0,card
+1577,61,03/25/2025,Latte,hot drinks,1.0,58000.0,card
+2226,25,05/23/2025,Cappuccino ,Hot Drinks,,55000.0,Cash
+1433,96,26/06/2025,HOT CHOCOLATE,HOT DRINKS,3.0,65000.0,Cash
+1163,95,20/01/2025,Hot Chocolate,Hot drinks,4.0,60000.0,card
+1263,39,21-05-2025,latte,HOT DRINKS,1.0,0.0,
+1231,99,03-12-2025,Americano,Hot drinks,1.0,53000.0,Online
+1302,48,2025-11-19,green tea,Hot Drinks,2.0,40000.0,Card
+2007,91,01/15/2025, Green Tea,HOT DRINKS,1.0,40000.0,Online
+1175,69,26/03/2025,La tte,Hot drinks,1.0,58000.0,Card
+1982,88,2025-02-02,Green Tea,HOT DRINKS,4.0,35000.0,Card
+1149,107,30-09-2025,cheesecake,bakery,2.0,80000.0,Online 
+2354,13,27/02/2025,AMERICANO,Hot drinks,2.0,48000.0,Card
+1959,55,26-07-2025,Green Tea,Hot Drinks,1.0,40000.0,Cash
+1071,20,2025-11-13,La tte,Hot drinks,1.0,58000.0,card
+1168,66,2025-02-14, Cold Brew,cold drinks,1.0,65000.0,Cash
+1455,22,03/04/2025,Iced La tte,Cold Drinks,2.0,67000.0,Online 
+1089,48,18-07-2025,Iced Latte,cold drinks,3.0,67000.0,Card
+1117,58,07/08/2025,Blueberry Muffin,bakery,1.0,50000.0,CASH
+1487,80,10-09-2025,Cold Brew ,cold drinks,2.0,65000.0,card
+1321,22,15-02-2025,green tea,HOT DRINKS,2.0,30000.0,Cash
+2319,42,10/07/2025,blueberry muffin,BAKERY,1.0,50000.0,Card
+1459,3,25/09/2025,Americano ,Hot Drinks,4.0,48000.0,Cash
+2379,38,11-08-2025,Cappuccino ,hot drinks,,55000.0,CASH
+2027,71,2025-03-28,CHOCOLATE CAKE,BAKERY,2.0,80000.0,Cash
+2087,20,09/14/2025, Cold Brew,Cold Drinks,1.0,65000.0,card
+1241,26,28/02/2025,Chocolate Cake ,Bakery,2.0,75000.0,CASH
+1698,51,23/12/2025,Chocolate Cake,Bakery,2.0,75000.0,Online 
+2326,41,03/01/2025,hot chocolate,Hot Drinks,2.0,60000.0,Online
+2008,32,10/24/2025,Blueberry Muffin,Bakery,1.0,45000.0,card
+1702,82,18/11/2025,Espresso ,Hot Drinks,3.0,45000.0,Online
+1584,58,09/14/2025,Ca ppuccino,HOT DRINKS,4.0,60000.0,card
+1692,93,20-11-2025,AMERICANO,Hot Drinks,1.0,48000.0,Online 
+1270,97,29/10/2025,cappuccino,HOT DRINKS,1.0,55000.0,Cash
+1111,24,02/02/2025,LATTE,Hot Drinks,-1.0,58000.0,Cash
+1595,85,12/25/2025,hot chocolate,Hot Drinks,2.0,65000.0,Card
+1785,56,11/28/2025,CROISSANT,Bakery,1.0,40000.0,Online
+1516,3,2025-01-26,latte,hot drinks,1.0,53000.0,Cash
+1226,49,2025-07-21,Iced Latte ,COLD DRINKS,2.0,62000.0,Online 
+1496,110,2025-01-25,Blueberry Muffin,BAKERY,3.0,50000.0,Online
+1841,87,12-12-2025,HOT CHOCOLATE,Hot Drinks,1.0,60000.0,
+1498,3,03/04/2025,Croissa nt,BAKERY,2.0,45000.0,Online
+1220,93,05/05/2025,CHEESECAKE,BAKERY,3.0,85000.0,Online
+2191,31,04/24/2025,Green Tea,Hot drinks,2.0,35000.0,Online
+1195,60,29-11-2025,Cheesecake ,Bakery,1.0,0.0,card
+1336,39,2025-07-22,Cappuccino ,HOT DRINKS,2.0,60000.0,Card
+1961,50,01-09-2025,America no,hot drinks,2.0,48000.0,
+2322,28,19-09-2025,Cold Brew ,Cold Drinks,,65000.0,Online 
+2077,62,2025-05-16, Iced Latte,COLD DRINKS,3.0,67000.0,Online
+2043,28,2025-04-11,Hot Chocolate,HOT DRINKS,1.0,65000.0,card
+1957,99,02/08/2025,Hot Chocolate,hot drinks,2.0,65000.0,Cash
+1137,27,07-11-2025,Cold Brew,cold drinks,4.0,65000.0,card
+1312,4,12/25/2025, Hot Chocolate,hot drinks,2.0,60000.0,Cash
+1528,94,11/01/2025,americano,Hot Drinks,1.0,48000.0,card
+1507,85,16/06/2025,cold brew,Cold drinks,4.0,70000.0,Cash
+2139,53,2025-06-22,HOT CHOCOLATE,Hot Drinks,1.0,55000.0,Online 
+1393,29,26/11/2025,Cheesecake,Bakery,4.0,85000.0,card
+1382,55,2025-09-19, Cappuccino,hot drinks,1.0,55000.0,Online
+1221,39,2025-09-10,iced latte,Cold drinks,1.0,62000.0,
+1756,63,23/02/2025,Green Tea,HOT DRINKS,2.0,30000.0,card
+1409,67,01/13/2025,CAPPUCCINO,hot drinks,,50000.0,Cash
+1677,87,06/16/2025,Croissant,BAKERY,1.0,40000.0,Online
+2169,68,12/09/2025,Americano,Hot drinks,4.0,43000.0,Online
+1328,71,04-10-2025,Hot Chocolate,Hot Drinks,1.0,60000.0,card
+1012,95,2025-11-06,Cold Brew,Cold Drinks,1.0,65000.0,
+1085,60,20-01-2025,Chocolate Cake,Bakery,4.0,75000.0,CASH
+1083,119,26-11-2025,BLUEBERRY MUFFIN,Bakery,4.0,,Card
+1206,48,08/24/2025,croissant,Bakery,3.0,40000.0,Online 
+1103,37,23/12/2025,Chocolate Cake,Bakery,2.0,80000.0,Card
+1858,6,2025-02-23,cheesecake,BAKERY,4.0,85000.0,Online 
+1309,24,06/13/2025,Espresso,Hot drinks,1.0,45000.0,CASH
+1977,108,2025-03-29,Latte,Hot drinks,-1.0,58000.0,Cash
+1734,96,25/10/2025,Cold Brew,Cold drinks,4.0,65000.0,Online 
+2241,33,07-09-2025,green tea,hot drinks,2.0,30000.0,Online 
+1180,115,18/08/2025,CROISSANT,bakery,1.0,45000.0,Card
+1803,48,07/21/2025,Latte ,HOT DRINKS,1.0,53000.0,Card
+1694,98,04/23/2025,COLD BREW,COLD DRINKS,4.0,70000.0,Card
+2328,73,03/10/2025,La tte,HOT DRINKS,3.0,63000.0,CASH
+2370,3,2025-07-21,Chocolate Cake ,Bakery,2.0,75000.0,card
+1497,61,19-02-2025,green tea,hot drinks,1.0,35000.0,Online
+1316,91,2025-07-22,green tea,HOT DRINKS,1.0,35000.0,Cash
+1141,113,2025-09-12, Iced Latte,COLD DRINKS,2.0,67000.0,Cash
+2142,78,09/25/2025, Cappuccino,Hot Drinks,3.0,55000.0,Cash
+1327,114,2025-03-22,CROISSANT,Bakery,1.0,40000.0,Online 
+2389,12,03/17/2025,blueberry muffin,Bakery,2.0,45000.0,Card
+1660,85,24-11-2025,Ca ppuccino,hot drinks,4.0,55000.0,Online
+1346,35,2025-08-02,HOT CHOCOLATE,Hot drinks,,60000.0,
+1828,97,20-03-2025,Green Tea,hot drinks,-2.0,35000.0,
+1927,66,01/07/2025, Iced Latte,COLD DRINKS,3.0,67000.0,Cash
+1210,119,2025-12-17,Cappuccino,HOT DRINKS,1.0,55000.0,CASH
+1567,63,22-03-2025,croissant,bakery,3.0,40000.0,Cash
+1142,75,25-01-2025,Cold Brew,Cold drinks,2.0,70000.0,Online
+1514,84,30/09/2025,HOT CHOCOLATE,HOT DRINKS,1.0,55000.0,Online
+1362,34,14-10-2025,HOT CHOCOLATE,hot drinks,3.0,55000.0,Cash
+1004,32,10/13/2025, Cappuccino,Hot drinks,4.0,60000.0,card
+1044,2,02/10/2025,Iced Latte ,Cold drinks,1.0,62000.0,Online 
+1864,44,25/07/2025,Cold Brew,COLD DRINKS,1.0,65000.0,CASH
+1281,64,25-09-2025,COLD BREW,cold drinks,1.0,65000.0,Online 
+1891,56,01-08-2025,Latte,Hot Drinks,2.0,58000.0,Card
+1202,28,2025-08-22, Cheesecake,Bakery,2.0,90000.0,Card
+1814,64,2025-08-28, Cold Brew,COLD DRINKS,1.0,70000.0,Online
+2057,5,03/14/2025,Americano ,HOT DRINKS,1.0,53000.0,CASH
+1877,55,19/12/2025,CHOCOLATE CAKE,BAKERY,4.0,75000.0,card
+1358,92,06/02/2025,Green Tea,Hot drinks,2.0,35000.0,Online 
+1563,102,2025-11-13,Hot Chocolate,Hot drinks,2.0,55000.0,Online 
+1995,112,09/24/2025,Croissant,Bakery,,35000.0,Card
+1371,89,2025-06-09,Cold Brew ,cold drinks,2.0,70000.0,Cash
+2098,71,19-06-2025,Latte ,hot drinks,,63000.0,Cash
+2283,107,20-10-2025,Americano ,HOT DRINKS,1.0,,Card
+1890,104,07/11/2025, Cheesecake,Bakery,2.0,80000.0,Online
+2180,104,2025-02-15,Cappuccino,Hot drinks,2.0,55000.0,Online 
+1237,32,03/31/2025, Cheesecake,Bakery,1.0,90000.0,Cash
+1523,47,2025-12-08,espresso,Hot Drinks,1.0,45000.0,Cash
+1683,55,18-11-2025,Cappuccino ,HOT DRINKS,2.0,50000.0,Cash
+1273,15,2025-09-13,americano,hot drinks,2.0,43000.0,Cash
+2168,23,14-03-2025,cappuccino,Hot drinks,2.0,,card
+1632,73,05-06-2025,Green Tea,Hot drinks,1.0,40000.0,Cash
+2035,51,03-10-2025,ESPRESSO,Hot drinks,1.0,45000.0,Online 
+1194,90,27/12/2025,blueberry muffin,bakery,1.0,55000.0,card
+1513,29,02/10/2025,Iced La tte,cold drinks,-2.0,67000.0,Online
+1614,60,22-02-2025,espresso,HOT DRINKS,1.0,50000.0,Online
+1431,96,10/07/2025,Croissant,BAKERY,1.0,40000.0,Card
+1674,84,2025-08-30,Espresso,HOT DRINKS,1.0,45000.0,Online 
+1988,90,12/14/2025,Croissa nt,bakery,1.0,40000.0,Online 
+1209,110,09/28/2025, Cappuccino,hot drinks,,60000.0,Card
+1972,118,12/24/2025,Cappuccino ,Hot Drinks,2.0,55000.0,Online
+1162,84,28-05-2025,Americano,HOT DRINKS,3.0,43000.0,CASH
+1635,49,10/07/2025,CROISSANT,Bakery,2.0,40000.0,Online
+2194,64,2025-04-17, Cold Brew,Cold Drinks,2.0,60000.0,
+2068,95,28-01-2025,Iced La tte,Cold drinks,3.0,62000.0,Online 
+1087,78,2025-09-14,chocolate cake,Bakery,2.0,70000.0,CASH
+1345,110,12/17/2025,Hot Chocola te,Hot drinks,1.0,60000.0,Online
+2103,54,09/15/2025,Cheeseca ke,BAKERY,2.0,85000.0,Online
+2065,106,18-02-2025,chocolate cake,bakery,3.0,80000.0,CASH
+1909,96,24-05-2025,Espresso ,hot drinks,1.0,40000.0,Online 
+1717,31,01/22/2025,cappuccino,HOT DRINKS,2.0,55000.0,Cash
+1190,118,15/10/2025,ESPRESSO,Hot drinks,2.0,50000.0,Cash
+1752,66,28-07-2025,Americano,HOT DRINKS,1.0,48000.0,card
+1178,96,2025-10-24,America no,Hot Drinks,2.0,48000.0,CASH
+1852,27,2025-12-20,ICED LATTE,COLD DRINKS,3.0,62000.0,Cash
+1768,87,2025-05-26,Cold Brew,COLD DRINKS,1.0,70000.0,Online
+1556,10,2025-08-09, Iced Latte,cold drinks,1.0,62000.0,Online
+2061,85,09/19/2025,green tea,Hot drinks,2.0,35000.0,card
+1392,112,08-02-2025,latte,Hot Drinks,1.0,58000.0,
+2208,102,2025-04-30,Cold Brew ,COLD DRINKS,2.0,,CASH
+2226,25,05/23/2025,Cappuccino ,Hot Drinks,,55000.0,Cash
+2357,8,15-06-2025, Cheesecake,Bakery,,85000.0,card
+1903,79,12-06-2025,Cheeseca ke,Bakery,3.0,85000.0,Online
+2396,40,18-02-2025,Cold Brew ,cold drinks,2.0,60000.0,Card
+1744,19,04/27/2025,Hot Chocolate,Hot drinks,1.0,60000.0,Online 
+1249,37,23/08/2025,Latte,Hot Drinks,2.0,63000.0,Online
+2347,89,2025-01-20,cold brew,COLD DRINKS,3.0,70000.0,CASH
+2183,118,31/07/2025,CHOCOLATE CAKE,bakery,1.0,75000.0,Online
+1788,85,07/23/2025,Cappuccino ,Hot Drinks,1.0,50000.0,CASH
+1511,119,2025-09-02,chocolate cake,BAKERY,4.0,75000.0,Card
+1282,114,16/01/2025,Cappuccino,hot drinks,1.0,60000.0,Online 
+1439,108,10-03-2025, Cold Brew,cold drinks,2.0,65000.0,Online
+1728,107,11/03/2025, Blueberry Muffin,bakery,1.0,50000.0,Card
+1471,106,30/08/2025,latte,HOT DRINKS,1.0,53000.0,Online
+1398,85,2025-08-20,Cold Brew,cold drinks,4.0,65000.0,Online
+2211,54,03/05/2025,Cappuccino ,Hot drinks,2.0,55000.0,Cash
+1035,96,28/10/2025, Cold Brew,cold drinks,3.0,65000.0,Cash
+1205,20,09-04-2025,americano,Hot drinks,4.0,48000.0,Card
+1608,9,24-05-2025,LATTE,Hot drinks,2.0,63000.0,Cash
+2214,107,04-06-2025, Croissant,Bakery,,40000.0,CASH
+2155,73,2025-09-12,Green Tea ,Hot Drinks,1.0,35000.0,card
+1429,109,2025-07-03,Cappuccino ,Hot Drinks,1.0,55000.0,Online
+2164,99,13-04-2025,croissant,Bakery,1.0,40000.0,Cash
+1228,9,12/11/2025,CROISSANT,bakery,,40000.0,Online 
+2003,20,03-01-2025, Americano,Hot drinks,2.0,48000.0,Online 
+2374,95,19-03-2025,Cold Brew ,Cold drinks,3.0,70000.0,Card
+2364,51,22-01-2025,CHOCOLATE CAKE,BAKERY,1.0,70000.0,Card
+1727,94,01-08-2025,Chocola te Ca ke,Bakery,1.0,75000.0,Cash
+1318,86,31-03-2025,BLUEBERRY MUFFIN,BAKERY,3.0,50000.0,Online 
+1629,9,25/02/2025,Blueberry Muffin,Bakery,1.0,50000.0,Card
+1925,80,2025-06-23,cappuccino,HOT DRINKS,2.0,,Card
+1893,87,31-01-2025,La tte,Hot Drinks,1.0,53000.0,Online
+2019,78,17/05/2025,Cheesecake ,Bakery,4.0,85000.0,Online
+2302,11,03/12/2025,AMERICANO,Hot Drinks,1.0,53000.0,Online
+1034,33,05-01-2025,GREEN TEA,Hot Drinks,-3.0,40000.0,card
+1075,16,12/09/2025, Espresso,HOT DRINKS,1.0,45000.0,CASH
+1173,90,08/30/2025,Cheeseca ke,Bakery,4.0,85000.0,CASH
+2132,75,08/04/2025,HOT CHOCOLATE,hot drinks,3.0,,Card
+2251,101,12/07/2025,CHEESECAKE,BAKERY,1.0,85000.0,card
+2340,45,26-03-2025, Iced Latte,COLD DRINKS,1.0,62000.0,Cash
+1747,39,2025-01-06,Green Tea ,HOT DRINKS,2.0,35000.0,Cash
+2305,50,10/01/2025,CHOCOLATE CAKE,BAKERY,2.0,70000.0,card
+1508,78,04/10/2025, Hot Chocolate,hot drinks,3.0,65000.0,Online
+1710,115,14/02/2025,Chocolate Cake,Bakery,1.0,75000.0,Cash
+1607,93,2025-06-11,Green Tea,hot drinks,1.0,40000.0,Online
+1387,17,2025-01-31, Hot Chocolate,Hot drinks,2.0,65000.0,Cash
+2378,114,11/09/2025, Croissant,Bakery,1.0,45000.0,Card
+1751,90,2025-04-05, Blueberry Muffin,Bakery,1.0,50000.0,Cash
+1911,26,22-07-2025, Green Tea,HOT DRINKS,2.0,40000.0,CASH
+1148,120,13/06/2025,Blueberry Muffin ,bakery,2.0,50000.0,CASH
+1753,98,2025-12-27, Cold Brew,Cold Drinks,1.0,65000.0,card
+1402,59,10/29/2025,Green Tea ,Hot Drinks,2.0,,CASH
+1340,101,16/11/2025,HOT CHOCOLATE,HOT DRINKS,1.0,60000.0,CASH
+2286,91,04-02-2025,Cold Brew ,COLD DRINKS,1.0,70000.0,CASH
+1987,99,09/13/2025,Blueberry Muffin ,bakery,1.0,45000.0,Online 
+1200,18,10/07/2025,Hot Chocolate ,Hot Drinks,2.0,55000.0,Card
+1732,20,03/06/2025, Iced Latte,COLD DRINKS,1.0,62000.0,card
+1540,25,12/03/2025, Cheesecake,Bakery,2.0,90000.0,Online 
+1691,114,16/03/2025,croissant,BAKERY,1.0,40000.0,card
+1609,77,07-06-2025,cappuccino,Hot drinks,3.0,50000.0,Card
+2390,18,14/08/2025,Cheesecake ,Bakery,1.0,85000.0,Cash
+1955,84,03/18/2025, Cheesecake,BAKERY,1.0,85000.0,CASH
+1280,95,2025-03-31,Green Tea,Hot Drinks,3.0,35000.0,Cash
+1410,37,2025-05-09,GREEN TEA,Hot Drinks,3.0,35000.0,Online
+2111,81,02-07-2025,Espresso,Hot Drinks,1.0,45000.0,Online 
+2207,16,2025-06-13,ESPRESSO,Hot drinks,,45000.0,CASH
+2104,6,02/01/2025, Blueberry Muffin,Bakery,3.0,50000.0,Cash
+1687,27,09/05/2025,Croissa nt,Bakery,1.0,35000.0,CASH
+1335,30,01/02/2025,Cheesecake ,BAKERY,2.0,85000.0,card
+1642,11,11/09/2025,Cheeseca ke,bakery,2.0,80000.0,
+1314,43,14-04-2025,blueberry muffin,Bakery,3.0,50000.0,Card
+1782,96,03/06/2025,Green Tea,HOT DRINKS,1.0,30000.0,card
+2109,32,2025-10-01,America no,hot drinks,3.0,48000.0,Online
+2348,85,2025-01-19,Green Tea ,Hot drinks,1.0,35000.0,Cash
+2345,111,2025-05-23,La tte,HOT DRINKS,1.0,53000.0,Online 
+1092,72,11/26/2025,Croissant,Bakery,3.0,45000.0,CASH
+1834,73,2025-10-10,Espresso ,Hot drinks,2.0,40000.0,card
+1592,53,2025-02-10,chocolate cake,BAKERY,1.0,80000.0,Card
+2377,17,2025-03-24, Espresso,Hot Drinks,1.0,45000.0,Card
+1394,103,18/08/2025,Blueberry Muffin,Bakery,2.0,50000.0,Online 
+2218,116,2025-10-03,Cold Brew,Cold Drinks,1.0,60000.0,Online
+2069,59,13/08/2025,latte,Hot drinks,2.0,58000.0,CASH
+1575,73,04/29/2025,blueberry muffin,Bakery,1.0,45000.0,Online 
+1573,41,16/01/2025, Latte,hot drinks,2.0,58000.0,Cash
+2381,78,08/30/2025,ICED LATTE,Cold drinks,1.0,62000.0,Card
+1735,105,2025-07-11,CAPPUCCINO,Hot Drinks,4.0,55000.0,Cash
+2256,18,15-08-2025, Cheesecake,bakery,-2.0,85000.0,card
+1279,32,11/08/2025,Cappuccino,hot drinks,2.0,60000.0,Online 
+1337,55,03/30/2025,CHOCOLATE CAKE,Bakery,4.0,75000.0,card
+1227,99,14/01/2025, Cheesecake,bakery,3.0,85000.0,Online 
+1008,111,02/06/2025,Chocola te Ca ke,BAKERY,1.0,80000.0,card
+2219,10,18/06/2025,ICED LATTE,Cold drinks,1.0,62000.0,Card
+2105,57,16/07/2025,cheesecake,BAKERY,2.0,90000.0,Cash
+1068,90,2025-06-23,Iced Latte ,Cold drinks,1.0,62000.0,Card
+2290,104,2025-11-09, Blueberry Muffin,Bakery,1.0,45000.0,CASH
+2220,17,17/03/2025,Cold Brew,Cold Drinks,3.0,65000.0,CASH
+2124,22,25-04-2025,Cappuccino ,hot drinks,1.0,50000.0,Card
+1024,43,06/10/2025,Cheeseca ke,BAKERY,1.0,85000.0,CASH
+1633,110,2025-02-01,iced latte,Cold Drinks,1.0,67000.0,Online
+1470,79,2025-12-17,Hot Chocola te,Hot Drinks,1.0,60000.0,Card
+1557,25,2025-06-26,COLD BREW,cold drinks,4.0,65000.0,CASH
+1293,36,23/01/2025, Cappuccino,Hot Drinks,3.0,55000.0,CASH
+1772,59,05/08/2025,Green Tea,Hot drinks,1.0,30000.0,CASH
+2335,97,12/25/2025,Chocolate Cake ,Bakery,3.0,80000.0,Cash
+2022,78,09/29/2025,Cappuccino ,Hot drinks,1.0,55000.0,CASH
+1120,50,01/17/2025,blueberry muffin,bakery,3.0,50000.0,card
+1905,18,02/01/2025,Green Tea,HOT DRINKS,1.0,30000.0,card
+1510,39,01/01/2025, Espresso,Hot Drinks,1.0,45000.0,Online 
+1179,8,30-08-2025,CAPPUCCINO,Hot drinks,2.0,55000.0,Online
+2093,53,06/06/2025, Cheesecake,Bakery,1.0,85000.0,Card
+1815,15,23/01/2025,Cold Brew,cold drinks,4.0,65000.0,card
+1863,55,2025-12-16,Cheesecake,Bakery,2.0,85000.0,Card
+2082,47,04-04-2025,Croissa nt,Bakery,1.0,40000.0,
+2236,31,2025-06-11,latte,Hot drinks,1.0,58000.0,Cash
+1380,91,2025-06-01,CROISSANT,Bakery,2.0,40000.0,Online
+1604,51,2025-10-19,HOT CHOCOLATE,hot drinks,4.0,60000.0,Online
+2158,119,05/03/2025,latte,Hot drinks,1.0,58000.0,card
+2232,32,2025-04-23,cappuccino,HOT DRINKS,1.0,60000.0,Card
+1550,100,21/06/2025,ESPRESSO,Hot Drinks,2.0,40000.0,Online 
+1251,14,01-12-2025, Hot Chocolate,hot drinks,4.0,55000.0,Online
+2311,74,20-01-2025,Croissa nt,bakery,1.0,40000.0,Online 
+1212,115,06/19/2025,Cheesecake ,bakery,4.0,80000.0,Card
+2206,102,2025-07-03,latte,HOT DRINKS,1.0,58000.0,Online
+1330,106,17/11/2025,Green Tea,HOT DRINKS,1.0,30000.0,Cash
+1432,6,21/10/2025,Espresso,hot drinks,2.0,50000.0,Cash
+1276,92,01/08/2025,Cheesecake ,BAKERY,1.0,90000.0,Online
+2255,11,18/10/2025, Iced Latte,Cold drinks,2.0,62000.0,Card
+1291,70,2025-11-22,Cold Brew,Cold drinks,,60000.0,Online 
+1901,108,19-04-2025,Green Tea,Hot Drinks,1.0,35000.0,Online
+1448,113,21-01-2025,Espresso,hot drinks,1.0,50000.0,Online 
+2252,75,2025-05-29,CAPPUCCINO,Hot drinks,2.0,55000.0,card
+2228,85,20-08-2025,Cheesecake,bakery,1.0,90000.0,card
+1303,9,11/27/2025,Americano,Hot Drinks,1.0,48000.0,card
+2210,105,2025-04-12, Cold Brew,Cold Drinks,4.0,65000.0,Online
+2320,42,04/07/2025, Blueberry Muffin,bakery,3.0,50000.0,CASH
+1940,48,05/12/2025,Cold Brew,COLD DRINKS,3.0,60000.0,Cash
+1067,74,2025-08-08,Americano,HOT DRINKS,2.0,48000.0,Online
+1019,4,11/08/2025,Green Tea,Hot drinks,1.0,40000.0,Card
+1324,107,10/23/2025,Chocolate Cake,Bakery,1.0,75000.0,Online
+1054,15,2025-01-14,Green Tea ,hot drinks,1.0,35000.0,Card
+1963,26,07/17/2025,Ca ppuccino,Hot Drinks,1.0,55000.0,card
+1931,45,04/13/2025,americano,HOT DRINKS,4.0,43000.0,Online 
+2323,93,2025-07-15,Latte ,Hot drinks,1.0,58000.0,CASH
+1150,15,2025-10-26,croissant,BAKERY,2.0,40000.0,Online 
+2244,27,15/02/2025,hot chocolate,Hot drinks,3.0,55000.0,CASH
+2121,20,29-01-2025,Americano,Hot Drinks,3.0,53000.0,Card
+2327,72,09/02/2025, Cheesecake,Bakery,2.0,85000.0,Cash
+2130,41,06/08/2025,CHOCOLATE CAKE,BAKERY,2.0,75000.0,card
+1743,67,30-03-2025,COLD BREW,COLD DRINKS,1.0,60000.0,Online 
+1749,21,2025-11-10,Cheesecake,BAKERY,1.0,90000.0,Online 
+1755,110,07/04/2025,CROISSANT,Bakery,3.0,40000.0,Online 
+2048,16,11/25/2025,Chocolate Cake ,Bakery,1.0,80000.0,Online
+1811,77,2025-02-07,ICED LATTE,Cold drinks,1.0,62000.0,Online
+1661,21,22/05/2025,Cappuccino,hot drinks,2.0,55000.0,Online
+2293,78,2025-12-16,Croissant,Bakery,2.0,40000.0,card
+2106,1,2025-10-20, Latte,hot drinks,4.0,63000.0,Online
+1255,116,18/02/2025,Green Tea,HOT DRINKS,1.0,35000.0,Online 
+1934,82,21/12/2025,AMERICANO,Hot drinks,2.0,48000.0,Online 
+1869,12,10-10-2025,Cheesecake,Bakery,4.0,85000.0,CASH
+2306,24,2025-08-09,Green Tea,hot drinks,3.0,35000.0,Card
+1892,70,05/27/2025,LATTE,hot drinks,1.0,53000.0,card
+1873,39,12/08/2025,Iced Latte ,COLD DRINKS,3.0,62000.0,Card
+1613,93,2025-08-24,Espresso,Hot Drinks,1.0,,Online
+2100,76,08/04/2025,Green Tea ,hot drinks,1.0,30000.0,Online
+1388,79,2025-07-03, Croissant,Bakery,4.0,,Card
+1936,46,10/12/2025,ESPRESSO,hot drinks,1.0,45000.0,Card
+1406,71,12/31/2025,Cold Brew ,cold drinks,1.0,65000.0,
+1794,118,03/05/2025,Green Tea,Hot Drinks,,35000.0,CASH
+1715,22,27-04-2025,ICED LATTE,cold drinks,1.0,57000.0,Online
+2134,109,05/31/2025, Latte,HOT DRINKS,4.0,63000.0,Cash
+2023,53,07-04-2025,Green Tea,hot drinks,1.0,,Online 
+2055,55,31/05/2025, Cheesecake,bakery,1.0,90000.0,CASH
+2237,118,08/12/2025,ESPRESSO,hot drinks,1.0,40000.0,Card
+1246,24,2025-08-19,Cold Brew,Cold drinks,4.0,65000.0,Cash
+1145,65,2025-10-09, Chocolate Cake,bakery,1.0,70000.0,Online
+2314,8,10-02-2025,BLUEBERRY MUFFIN,bakery,1.0,50000.0,Online
+2152,114,02/17/2025,Green Tea,HOT DRINKS,-1.0,35000.0,CASH
+2297,112,2025-05-08, Hot Chocolate,HOT DRINKS,1.0,60000.0,Online
+1622,19,13/05/2025,blueberry muffin,Bakery,1.0,50000.0,card
+2383,89,03-10-2025,Cappuccino ,Hot drinks,1.0,50000.0,CASH
+1460,61,2025-11-04,Blueberry Muffin,BAKERY,1.0,50000.0,CASH
+1486,60,2025-09-10,Green Tea,Hot drinks,4.0,40000.0,Online
+2337,23,2025-10-29, Cheesecake,bakery,1.0,85000.0,Card
+1090,43,13/10/2025,Ca ppuccino,HOT DRINKS,1.0,55000.0,Online
+1492,24,06/08/2025,chocolate cake,Bakery,3.0,75000.0,Online
+1170,93,06-01-2025,Blueberry Muffin,Bakery,3.0,50000.0,card
+1056,58,2025-09-20,COLD BREW,Cold Drinks,2.0,70000.0,Online 
+1404,50,04-11-2025, Green Tea,HOT DRINKS,2.0,35000.0,Online
+1599,78,13-05-2025,Cold Brew ,Cold drinks,1.0,70000.0,CASH
+2015,73,2025-04-06,AMERICANO,hot drinks,3.0,48000.0,card
+1097,69,06/08/2025, Americano,Hot drinks,1.0,53000.0,Online
+1826,103,06/02/2025,espresso,HOT DRINKS,1.0,45000.0,Cash
+2140,5,03/30/2025, Blueberry Muffin,Bakery,1.0,50000.0,CASH
+1479,60,03-10-2025, Iced Latte,Cold drinks,3.0,62000.0,Cash
+1323,94,27/03/2025,Croissant ,Bakery,2.0,40000.0,Card
+2259,97,2025-03-06, Croissant,Bakery,2.0,45000.0,Card
+1098,100,15/09/2025,Croissant ,BAKERY,-1.0,40000.0,Online
+2382,41,02/04/2025,croissant,BAKERY,1.0,35000.0,Cash
+1424,9,12/10/2025,Americano,HOT DRINKS,4.0,48000.0,CASH
+1296,58,04/30/2025,Iced Latte,COLD DRINKS,1.0,67000.0,Card
+1737,82,25-01-2025,Cold Brew ,COLD DRINKS,2.0,60000.0,
+2329,34,2025-06-24, Iced Latte,COLD DRINKS,1.0,62000.0,CASH
+1902,12,12/24/2025,croissant,Bakery,-3.0,45000.0,Cash
+1601,1,2025-01-13,Cappuccino ,Hot drinks,3.0,55000.0,card
+1999,26,04-09-2025,ICED LATTE,Cold drinks,2.0,62000.0,card
+2274,9,05/09/2025,Green Tea ,hot drinks,2.0,35000.0,Cash
+1395,84,22/02/2025,Espresso ,Hot Drinks,1.0,50000.0,Card
+1426,43,2025-02-14,Espresso ,Hot Drinks,1.0,45000.0,CASH
+2271,118,28/08/2025,LATTE,hot drinks,1.0,53000.0,CASH
+2038,118,01/31/2025,Croissa nt,BAKERY,4.0,40000.0,Online 
+1252,111,08/13/2025,Ca ppuccino,hot drinks,1.0,60000.0,
+1238,103,11/19/2025, Croissant,Bakery,3.0,40000.0,Online 
+2144,83,2025-07-14,Croissa nt,Bakery,4.0,40000.0,Cash
+1844,55,03/01/2025, Espresso,Hot drinks,3.0,45000.0,Card
+1845,111,10/27/2025, Chocolate Cake,Bakery,1.0,80000.0,Online
+1554,52,13/02/2025,ICED LATTE,Cold drinks,4.0,62000.0,CASH
+1545,77,23-09-2025,ESPRESSO,HOT DRINKS,1.0,45000.0,Online
+1250,100,2025-07-07,Cheesecake ,BAKERY,4.0,85000.0,card
+1739,88,2025-12-19,hot chocolate,HOT DRINKS,2.0,65000.0,Card
+1964,8,09/23/2025, Cold Brew,COLD DRINKS,1.0,65000.0,
+1198,20,18/06/2025, Americano,hot drinks,2.0,48000.0,Online
+1897,30,2025-05-18,Espresso,HOT DRINKS,1.0,50000.0,Online
+2248,118,11/16/2025,iced latte,Cold Drinks,1.0,62000.0,Online
+2233,69,22/05/2025,Cappuccino,HOT DRINKS,2.0,55000.0,Online 
+1989,62,21/06/2025,Ca ppuccino,HOT DRINKS,2.0,60000.0,CASH
+2040,55,31/08/2025,Green Tea ,hot drinks,2.0,30000.0,Online
+2182,28,21/08/2025, Americano,Hot Drinks,1.0,48000.0,Online
+1243,91,2025-11-11,iced latte,Cold Drinks,3.0,62000.0,Cash
+1066,85,25-04-2025,chocolate cake,Bakery,4.0,80000.0,Online
+2349,9999,05/16/2025,America no,Hot drinks,2.0,48000.0,Online
+1933,39,2025-06-18, Croissant,BAKERY,2.0,35000.0,Card
+1359,41,2025-03-13,green tea,hot drinks,3.0,35000.0,card
+1095,44,09/03/2025,BLUEBERRY MUFFIN,BAKERY,1.0,,Online 
+2373,19,11/12/2025,croissant,Bakery,1.0,40000.0,Online
+1071,20,2025-11-13,La tte,Hot drinks,1.0,58000.0,card
+1521,99,09/24/2025,Ca ppuccino,hot drinks,2.0,55000.0,Online
+1974,6,14/01/2025,Chocola te Ca ke,Bakery,2.0,75000.0,
+1665,86,17-05-2025,Croissant,Bakery,2.0,45000.0,card
+1361,46,06/03/2025, Cheesecake,BAKERY,1.0,80000.0,Online 
+1484,88,09/13/2025,americano,HOT DRINKS,1.0,48000.0,Cash
+2175,90,27/03/2025,CHEESECAKE,BAKERY,1.0,85000.0,
+1311,74,07/01/2025,croissant,bakery,1.0,45000.0,CASH
+1842,15,2025-12-23,Espresso,HOT DRINKS,1.0,45000.0,Online 
+1413,7,09/05/2025,Espresso,hot drinks,4.0,,CASH
+2157,12,02/04/2025,cappuccino,Hot drinks,1.0,55000.0,Online 
+1031,6,29-01-2025,COLD BREW,COLD DRINKS,1.0,65000.0,
+1765,5,13-10-2025, Latte,Hot drinks,3.0,,Cash
+1458,88,2025-08-21, Cold Brew,COLD DRINKS,1.0,65000.0,Card
+2185,2,20-03-2025,Espresso ,Hot drinks,1.0,45000.0,Cash
+1339,118,14/02/2025,cappuccino,Hot drinks,2.0,55000.0,Card
+1286,118,02/04/2025,LATTE,Hot drinks,1.0,58000.0,Online 
+2395,48,06/01/2025,LATTE,Hot Drinks,1.0,63000.0,CASH
+1949,66,22/06/2025, Blueberry Muffin,bakery,2.0,50000.0,card
+1139,58,2025-03-14,Americano ,Hot drinks,1.0,48000.0,Cash
+1848,74,11-10-2025, Cold Brew,Cold Drinks,3.0,65000.0,card
+2025,96,2025-12-04,chocolate cake,BAKERY,3.0,75000.0,Online 
+2231,52,01/11/2025,Latte,Hot Drinks,2.0,58000.0,Online 
+2138,73,18/03/2025,Croissa nt,bakery,3.0,40000.0,card
+1900,78,01/01/2025,latte,Hot drinks,1.0,63000.0,Online
+1731,106,27/10/2025,ICED LATTE,Cold Drinks,2.0,,Card
+1264,51,06/06/2025,Green Tea,Hot Drinks,2.0,30000.0,Card
+1274,50,08/04/2025,Blueberry Muffin,Bakery,4.0,50000.0,CASH
+2094,66,26-11-2025,croissant,bakery,1.0,40000.0,Online
+1444,60,19/09/2025,Cheesecake,BAKERY,1.0,90000.0,CASH
+1039,97,12/04/2025,Hot Chocola te,Hot Drinks,3.0,55000.0,Online
+2122,14,01/06/2025,CHEESECAKE,Bakery,1.0,80000.0,Cash
+2264,13,15/04/2025, Americano,Hot drinks,1.0,53000.0,Card
+1021,107,30/08/2025, Chocolate Cake,BAKERY,2.0,75000.0,CASH
+1705,80,07/07/2025,Espresso,Hot Drinks,3.0,50000.0,
+1517,92,2025-01-05, Chocolate Cake,BAKERY,1.0,70000.0,Online
+2173,120,2025-09-13,latte,Hot Drinks,4.0,58000.0,card
+1354,23,05-01-2025,Blueberry Muffin,bakery,2.0,50000.0,card
+1297,22,27/08/2025,chocolate cake,BAKERY,1.0,80000.0,card
+2076,48,06/23/2025,Cappuccino,hot drinks,4.0,60000.0,Online
+1839,69,2025-01-03,Espresso,Hot drinks,1.0,45000.0,card
+2222,12,2025-06-01,ICED LATTE,COLD DRINKS,1.0,67000.0,Online 
+1924,97,2025-04-30, Croissant,Bakery,2.0,40000.0,CASH
+1122,60,01/14/2025, Cappuccino,Hot Drinks,2.0,60000.0,Online
+2227,60,2025-02-26,cappuccino,Hot Drinks,2.0,55000.0,card
+2091,110,11/19/2025,BLUEBERRY MUFFIN,Bakery,1.0,45000.0,Card
+2247,73,2025-05-28, Cold Brew,COLD DRINKS,2.0,65000.0,CASH
+2151,76,2025-09-02,CROISSANT,Bakery,1.0,40000.0,Card
+2163,60,25/11/2025,CHOCOLATE CAKE,Bakery,1.0,70000.0,card
+1417,77,17-11-2025,Espresso ,hot drinks,,50000.0,Card
+1966,56,12/07/2025,hot chocolate,HOT DRINKS,2.0,65000.0,CASH
+2242,43,06/12/2025,Cheeseca ke,Bakery,1.0,85000.0,Cash
+1157,87,14-07-2025,cheesecake,Bakery,4.0,0.0,Online
+2118,50,2025-02-26,Espresso,hot drinks,1.0,45000.0,Cash
+2279,42,24/12/2025,Cappuccino ,HOT DRINKS,1.0,60000.0,Cash
+2063,43,15-02-2025,GREEN TEA,HOT DRINKS,4.0,35000.0,Online
+2154,80,21/01/2025,Croissant ,Bakery,1.0,40000.0,Cash
+1861,37,29-03-2025,cheesecake,BAKERY,1.0,85000.0,Cash
+1189,20,12/07/2025,iced latte,COLD DRINKS,,62000.0,
+1589,99,27-01-2025,hot chocolate,HOT DRINKS,1.0,60000.0,Card
+1760,14,09/05/2025,Cappuccino,Hot Drinks,1.0,55000.0,Online 
+2062,4,07-05-2025,Blueberry Muffin,Bakery,1.0,55000.0,Card
+1242,51,28-02-2025,Blueberry Muffin ,BAKERY,4.0,50000.0,Online 
+1884,107,11/07/2025, Hot Chocolate,Hot drinks,2.0,60000.0,Cash
+1620,46,2025-06-20,Iced Latte ,COLD DRINKS,4.0,62000.0,
+1650,99,02/05/2025,CROISSANT,bakery,3.0,40000.0,Card
+1503,22,01/12/2025,La tte,Hot Drinks,3.0,58000.0,Cash
+1922,9,2025-02-01,La tte,Hot drinks,1.0,63000.0,Card
+1159,26,19-05-2025,Cheesecake ,BAKERY,1.0,80000.0,Cash
+1882,114,21/04/2025,Iced Latte ,cold drinks,1.0,,Card
+1537,120,2025-12-02,americano,Hot drinks,2.0,43000.0,Online
+1240,36,2025-02-02,HOT CHOCOLATE,hot drinks,4.0,65000.0,Online
+1013,106,10/23/2025,Iced La tte,Cold drinks,-2.0,67000.0,Online
+1475,31,2025-01-01,green tea,Hot drinks,1.0,35000.0,card
+2341,37,11/07/2025,ICED LATTE,Cold Drinks,3.0,62000.0,Cash
+1928,18,31-01-2025,Espresso ,hot drinks,2.0,45000.0,Online
+1795,111,2025-08-15,americano,Hot Drinks,2.0,48000.0,Cash
+1355,115,28-06-2025,croissant,Bakery,1.0,40000.0,CASH
+2058,46,07/03/2025,iced latte,cold drinks,1.0,67000.0,card
+1334,97,2025-12-08,Hot Chocolate ,Hot drinks,3.0,,CASH
+1688,23,2025-01-15,La tte,Hot drinks,1.0,58000.0,CASH
+1184,27,2025-02-21,Ca ppuccino,Hot Drinks,2.0,60000.0,Cash
+1823,48,02/24/2025, Blueberry Muffin,Bakery,1.0,45000.0,card
+2324,94,28/09/2025,Cappuccino ,Hot drinks,3.0,60000.0,Online
+2001,55,06/03/2025,cappuccino,Hot drinks,2.0,55000.0,card
+1187,39,02/01/2025,Iced Latte ,Cold drinks,3.0,62000.0,Card
+1941,102,09/04/2025,americano,Hot drinks,3.0,48000.0,Online 
+1284,110,03/27/2025,Blueberry Muffin ,Bakery,1.0,45000.0,Cash
+1899,69,2025-10-12,Croissant ,bakery,1.0,40000.0,Online 
+2382,41,02/04/2025,croissant,BAKERY,1.0,35000.0,Cash
+1165,37,25/11/2025, Chocolate Cake,bakery,1.0,80000.0,Cash
+1347,63,07/11/2025,Cheeseca ke,Bakery,1.0,85000.0,Cash
+1298,40,2025-05-16,Chocola te Ca ke,Bakery,1.0,75000.0,Cash
+1535,14,2025-04-09,Chocola te Ca ke,Bakery,2.0,75000.0,CASH
+1229,20,2025-08-05, Hot Chocolate,Hot drinks,2.0,65000.0,CASH
+1041,96,03/31/2025,croissant,bakery,4.0,45000.0,Cash
+1868,113,13-02-2025,Iced Latte ,cold drinks,2.0,62000.0,Cash
+1748,86,01/15/2025,Cold Brew ,cold drinks,4.0,65000.0,
+2359,29,03/27/2025,Blueberry Muffin ,bakery,4.0,45000.0,Cash
+1446,94,07/03/2025,CHOCOLATE CAKE,Bakery,4.0,75000.0,Online
+1349,59,07/04/2025, Espresso,Hot drinks,1.0,45000.0,Online 
+1045,96,02/25/2025,Cold Brew ,cold drinks,2.0,60000.0,CASH
+2364,51,22-01-2025,CHOCOLATE CAKE,BAKERY,1.0,70000.0,Card
+2386,70,2025-12-04,Green Tea,HOT DRINKS,2.0,35000.0,Online
+1108,112,23/01/2025,Chocola te Ca ke,Bakery,1.0,75000.0,Online
+1029,81,2025-09-07,HOT CHOCOLATE,hot drinks,2.0,55000.0,Cash
+1181,23,07/21/2025,Cheesecake,Bakery,3.0,85000.0,Online
+1621,105,28/08/2025, Hot Chocolate,HOT DRINKS,1.0,60000.0,Cash
+1634,111,01/05/2025,Espresso,Hot drinks,,45000.0,card
+1104,33,18/03/2025,AMERICANO,hot drinks,1.0,48000.0,Card
+1060,65,2025-08-09,Blueberry Muffin,BAKERY,4.0,55000.0,card
+1658,12,11/01/2025,Espresso,Hot Drinks,2.0,40000.0,Card
+2107,110,01-06-2025,AMERICANO,HOT DRINKS,2.0,43000.0,Card
+1490,2,12/12/2025,espresso,hot drinks,2.0,40000.0,CASH
+1315,19,2025-12-27,blueberry muffin,Bakery,4.0,55000.0,Online
+1381,31,2025-01-07,Espresso,Hot drinks,,50000.0,Cash
+1422,33,25-05-2025, Cheesecake,Bakery,2.0,90000.0,Card
+2369,55,24-04-2025,Ca ppuccino,HOT DRINKS,2.0,0.0,card
+1445,88,21/09/2025,Latte ,HOT DRINKS,-1.0,58000.0,Online 
+1663,19,2025-08-09,Cheesecake,Bakery,2.0,85000.0,Card
+2024,57,07/11/2025,Americano,hot drinks,3.0,53000.0,card
+1779,52,16/11/2025,ICED LATTE,Cold Drinks,3.0,67000.0,Online 
+1626,50,24/06/2025,Cappuccino ,hot drinks,,55000.0,CASH
+2112,96,15-07-2025,Hot Chocolate ,HOT DRINKS,4.0,65000.0,card
+2101,93,04/14/2025,CHOCOLATE CAKE,Bakery,1.0,75000.0,CASH
+1268,87,2025-02-05, Latte,hot drinks,2.0,58000.0,Online 
+1929,75,16/03/2025,cheesecake,bakery,1.0,90000.0,Online
+2147,26,17-01-2025,Green Tea ,Hot Drinks,1.0,40000.0,CASH
+2321,4,08-07-2025,Latte,Hot Drinks,-1.0,63000.0,CASH
+2119,96,2025-11-04,Green Tea ,hot drinks,4.0,30000.0,Online 
+1011,52,14/09/2025,Iced Latte ,Cold Drinks,2.0,57000.0,card
+1114,16,12/08/2025,COLD BREW,Cold drinks,2.0,65000.0,Online 
+1843,31,11/17/2025, Croissant,BAKERY,1.0,40000.0,card
+2281,105,2025-04-09,CHEESECAKE,Bakery,3.0,80000.0,Cash
+1352,4,01/26/2025,Croissa nt,BAKERY,4.0,40000.0,Online 
+2397,83,25/11/2025,iced latte,Cold Drinks,-1.0,62000.0,
+1773,3,13/07/2025,Cold Brew,Cold drinks,,70000.0,Card
+1690,31,31/07/2025, Hot Chocolate,Hot drinks,1.0,55000.0,Card
+1790,43,07/19/2025,BLUEBERRY MUFFIN,Bakery,2.0,50000.0,Cash
+1531,105,05/10/2025, Iced Latte,COLD DRINKS,1.0,67000.0,Card
+1867,83,06/10/2025,America no,Hot drinks,3.0,48000.0,Cash
+1169,1,16/07/2025,iced latte,cold drinks,4.0,62000.0,CASH
+1239,9999,19/08/2025,America no,HOT DRINKS,2.0,43000.0,Cash
+2301,115,2025-06-13, Iced Latte,Cold drinks,,62000.0,Online
+2184,113,16/05/2025,Green Tea,Hot drinks,3.0,35000.0,Card
+1073,15,14/12/2025,Iced Latte,COLD DRINKS,2.0,62000.0,card
+2086,97,14/09/2025,Croissant,Bakery,1.0,35000.0,Cash
+1761,7,2025-09-13,Cappuccino ,hot drinks,1.0,,Cash
+1740,18,25/05/2025,CHEESECAKE,Bakery,-2.0,85000.0,Cash
+1750,25,2025-03-29,ICED LATTE,Cold drinks,3.0,57000.0,Online
+1741,20,2025-04-24,Cheesecake,Bakery,2.0,85000.0,Cash
+1830,58,01/09/2025,croissant,BAKERY,1.0,40000.0,card
+1047,18,20/01/2025,ESPRESSO,HOT DRINKS,,40000.0,card
+1762,39,2025-11-16, Blueberry Muffin,Bakery,3.0,55000.0,Cash
+1591,104,11/08/2025,Espresso,Hot drinks,1.0,50000.0,card
+1807,96,15/07/2025,Chocolate Cake ,BAKERY,4.0,75000.0,
+2083,18,11-08-2025,Cold Brew,COLD DRINKS,4.0,65000.0,Online
+1505,68,02/23/2025,cappuccino,HOT DRINKS,1.0,55000.0,Cash
+2044,55,2025-12-14, Croissant,BAKERY,1.0,40000.0,Card
+1652,96,30/04/2025,CHEESECAKE,Bakery,2.0,85000.0,Card
+1192,35,2025-12-11,CROISSANT,BAKERY,4.0,35000.0,card
+2239,61,24-01-2025,Cappuccino ,HOT DRINKS,4.0,55000.0,Cash
+1244,40,04/04/2025, Cappuccino,HOT DRINKS,,55000.0,CASH
+2387,23,10/16/2025,Iced Latte ,Cold drinks,4.0,67000.0,Online
+1059,17,16-11-2025,Iced Latte ,cold drinks,2.0,67000.0,card
+2245,23,14-12-2025, Iced Latte,cold drinks,2.0,67000.0,Online
+1176,116,17/08/2025, Cheesecake,Bakery,1.0,90000.0,CASH
+1449,34,10/06/2025,blueberry muffin,Bakery,2.0,50000.0,CASH
+1055,23,27/01/2025,Iced La tte,Cold Drinks,2.0,57000.0,card
+2278,79,2025-02-28,Iced Latte ,Cold Drinks,2.0,62000.0,Cash
+1919,103,06/21/2025,GREEN TEA,hot drinks,1.0,35000.0,Card
+2221,68,23/10/2025,America no,Hot drinks,1.0,48000.0,Cash
+2092,36,2025-03-16,Americano,Hot Drinks,2.0,48000.0,card
+2192,85,05/21/2025,Espresso,Hot Drinks,-3.0,40000.0,Card
+2209,28,2025-10-15,Ca ppuccino,Hot drinks,2.0,55000.0,Online
+2059,84,2025-07-24,La tte,HOT DRINKS,1.0,58000.0,CASH
+1641,48,2025-10-25,cappuccino,Hot drinks,1.0,60000.0,CASH
