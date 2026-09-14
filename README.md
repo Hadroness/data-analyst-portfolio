@@ -13,7 +13,7 @@ Hi, I'm Hadi Nasiri — an aspiring data analyst with hands-on experience in SQL
 | Project | Description | Tools |
 |---|---|---|
 | [Cafe Noor Sales Analysis](./01-cafe-noor-sales-analysis) | Cleaned messy POS data and analyzed sales trends, top products, and top customers for a small coffee chain | Excel, SQL |
-
+| [TechNest Home Goods Sales Analysis](./02-technest-home-goods) | Cleaned messy order data and analyzed revenue, top products, and top customers for a small online home goods store | Excel, SQL |
 More projects coming soon.
 
 ## Contact

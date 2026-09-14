@@ -1,0 +1,1313 @@
+order_id,customer_id,order_date,product_name,category,quantity,unit_price,payment_method
+5756,54,13/11/2025,Throw Pillow ,HomeDecor,3.0,22.0,Debit Card
+5005,71,2025-05-05,Table Lamp ,Lighting,1.0,45.0,Debit Card
+6009,51,29/04/2025,Memory Foa m Pillow,Bedding,2.0,32.0,credit card
+5028,61,10/07/2025,table lamp,Lighting,1.0,45.0,Credit Card
+5894,3,28/02/2025,STRING LIGHTS,Lighting,2.0,18.0,Debit Card
+5041,9,05/09/2025,COTTON BEDSHEET SET,Bedding,,58.0,
+5757,23,07/28/2025,Cotton Bedsheet Set ,BEDDING,3.0,52.0,credit card
+6143,64,23-06-2025,Wall Mirror ,HOME DECOR,3.0,62.0,Debit Card 
+5360,28,07-02-2025,Table Lamp,lighting,3.0,45.0,Debit Card
+5369,85,2025-06-14,Cera mic Mug Set,KITCHEN,3.0,,PAYPAL
+5160,78,11-06-2025, Ceramic Vase,HOME DECOR,2.0,28.0,PayPal
+6071,56,19/09/2025,wool blanket,Bedding,1.0,67.0,Debit Card 
+5483,2,2025-08-26,Throw Pillow ,Home Decor,1.0,25.0,Debit Card
+5990,35,18-03-2025,STRING LIGHTS,Lighting,3.0,18.0,Debit Card
+5070,52,22-11-2025, Wall Mirror,HOME DECOR,3.0,65.0,Debit Card
+5807,70,2025-07-12, Wool Blanket,Bedding,2.0,67.0,credit card
+5210,31,12-08-2025,String Lights,lighting,2.0,21.0,PAYPAL
+5783,85,05/04/2025,Throw Pillow,HomeDecor,3.0,25.0,Credit Card
+6113,13,2025-03-07,WOOL BLANKET,Bedding,1.0,73.0,PayPal
+5186,10,23-06-2025,Memory Foam Pillow,bedding,,32.0,PayPal
+6179,13,03/06/2025,Wool Bla nket,BEDDING,2.0,70.0,Debit Card 
+5024,92,2025-02-27,STRING LIGHTS,LIGHTING,1.0,18.0,Debit Card 
+5885,31,24-08-2025,Throw Pillow ,HOME DECOR,2.0,19.0,PAYPAL
+5846,20,04-06-2025,Wool Blanket ,bedding,1.0,70.0,Debit Card 
+5787,57,24/08/2025,Floor Lamp ,lighting,1.0,89.0,PayPal
+6116,98,06/10/2025,Throw Pillow,Home Decor,1.0,22.0,PAYPAL
+6209,43,16-11-2025,Cotton Bedsheet Set ,BEDDING,3.0,52.0,PayPal
+5341,100,08/06/2025,ceramic mug set,kitchen,2.0,24.0,PayPal
+5118,56,2025-05-14, String Lights,LIGHTING,2.0,18.0,Debit Card
+5487,22,11/30/2025,Cotton Bedsheet Set,Bedding,3.0,55.0,PAYPAL
+5935,49,03/18/2025, Wool Blanket,Bedding,2.0,73.0,Debit Card
+5751,104,2025-02-21,CUTTING BOARD,KITCHEN,2.0,16.0,PayPal
+5741,65,04/12/2025,Table Lamp,lighting,1.0,48.0,
+5498,98,17/03/2025,floor lamp,LIGHTING,2.0,92.0,Credit Card
+6162,63,24/07/2025,Ta ble La mp,LIGHTING,1.0,45.0,
+5388,64,21/04/2025,Throw Pillow,home decor,1.0,22.0,credit card
+6052,7,2025-07-21,MEMORY FOAM PILLOW,Bedding,1.0,32.0,PAYPAL
+5358,63,27/09/2025,WALL MIRROR,HOME DECOR,1.0,65.0,Debit Card 
+5250,87,12/12/2025, Cotton Bedsheet Set,Bedding,2.0,,Credit Card
+6023,17,03/25/2025,Ceramic Vase ,HOME DECOR,2.0,28.0,PayPal
+5333,77,2025-02-10,Cera mic Va se,HOME DECOR,2.0,28.0,Credit Card
+6198,91,03/06/2025, Cotton Bedsheet Set,Bedding,1.0,58.0,credit card
+5932,56,21-01-2025,CERAMIC VASE,HomeDecor,2.0,31.0,PAYPAL
+5082,22,2025-01-23, Ceramic Vase,HOME DECOR,2.0,25.0,
+5953,74,30/12/2025,Wool Blanket,bedding,2.0,70.0,credit card
+6230,99,12/09/2025,CUTTING BOARD,kitchen,1.0,16.0,PayPal
+5532,84,13/01/2025,Wool Blanket ,BEDDING,3.0,67.0,
+5767,76,30/11/2025,CERAMIC VASE,HomeDecor,1.0,28.0,credit card
+5036,84,04-09-2025,Ceramic Vase,Home Decor,1.0,28.0,Debit Card
+5853,74,23-04-2025,Cutting Board ,Kitchen,1.0,19.0,PAYPAL
+5002,95,14/05/2025,ceramic mug set,Kitchen,3.0,24.0,PAYPAL
+5352,75,18-04-2025,CERAMIC VASE,HomeDecor,1.0,28.0,PayPal
+5192,50,08/01/2025,FLOOR LAMP,Lighting,1.0,89.0,credit card
+5086,96,11/02/2025,Memory Foam Pillow,bedding,1.0,32.0,PayPal
+5666,57,21-09-2025, Cutting Board,Kitchen,3.0,19.0,Credit Card
+5686,62,2025-03-07,Cotton Bedsheet Set ,Bedding,3.0,55.0,Debit Card 
+5038,30,02/08/2025,Wa ll Mirror,Home Decor,2.0,65.0,Debit Card
+5092,56,30-04-2025,Cutting Board ,Kitchen,1.0,19.0,PAYPAL
+5225,44,06/30/2025,Ceramic Mug Set ,kitchen,3.0,24.0,PAYPAL
+5777,24,2025-08-12,Non-Stick Pan Set ,kitchen,1.0,60.0,Debit Card
+5159,8,2025-11-30,ceramic vase,HOME DECOR,,28.0,
+5039,38,18-10-2025,Floor La mp,lighting,1.0,89.0,PayPal
+5908,68,12/16/2025,STRING LIGHTS,LIGHTING,2.0,18.0,Debit Card
+6028,107,12/06/2025, Ceramic Vase,home decor,,28.0,credit card
+6240,108,27/05/2025,Floor La mp,Lighting,2.0,0.0,PayPal
+5269,82,10/17/2025,Wa ll Mirror,home decor,2.0,65.0,credit card
+5681,51,12/04/2025,Throw Pillow,home decor,,25.0,Debit Card
+5510,32,2025-05-12,String Lights,lighting,1.0,18.0,PAYPAL
+5451,42,2025-07-26,memory foam pillow,Bedding,3.0,32.0,Debit Card
+5061,50,08/07/2025,CERAMIC MUG SET,Kitchen,2.0,24.0,Credit Card
+6165,68,2025-12-27,Wool Bla nket,Bedding,2.0,,Credit Card
+5517,12,04-12-2025,WALL MIRROR,Home Decor,3.0,65.0,PayPal
+5131,47,05/06/2025,Wall Mirror ,home decor,,62.0,PayPal
+5252,57,22-07-2025,Floor Lamp ,Lighting,1.0,89.0,Debit Card
+5834,85,07/06/2025,wall mirror,home decor,2.0,65.0,credit card
+5652,8,24-03-2025,Table Lamp ,Lighting,1.0,45.0,PayPal
+5321,9,15-05-2025,Wool Blanket ,BEDDING,2.0,73.0,
+5719,57,03-07-2025,Cotton Bedsheet Set ,bedding,2.0,58.0,Debit Card
+5731,80,2025-08-14,Table Lamp ,LIGHTING,3.0,45.0,PayPal
+5541,34,2025-10-15,TABLE LAMP,LIGHTING,1.0,45.0,PAYPAL
+5801,23,2025-02-08,Memory Foam Pillow,Bedding,2.0,29.0,Debit Card 
+5864,28,01-03-2025,String Lights ,LIGHTING,1.0,15.0,credit card
+6218,77,01/10/2025,String Lights,lighting,1.0,18.0,Credit Card
+5187,43,01/30/2025,Table Lamp ,LIGHTING,3.0,,credit card
+5323,102,05/02/2025,floor lamp,lighting,3.0,86.0,Debit Card 
+6012,61,30-09-2025, Wall Mirror,HomeDecor,1.0,62.0,Credit Card
+6149,107,02/13/2025,CERAMIC VASE,HOME DECOR,3.0,28.0,Debit Card
+6299,109,27/03/2025,Cotton Bedsheet Set,bedding,-1.0,52.0,PAYPAL
+5573,31,03/31/2025,WALL MIRROR,home decor,2.0,62.0,Credit Card
+6192,91,10/13/2025,String Lights,Lighting,2.0,,Credit Card
+5034,103,06/05/2025,cutting board,kitchen,-2.0,19.0,credit card
+5459,37,20-04-2025, Wall Mirror,Home Decor,3.0,0.0,PAYPAL
+6174,1,01/11/2025,ceramic mug set,Kitchen,1.0,21.0,Debit Card 
+5696,67,08/05/2025,memory foam pillow,Bedding,2.0,32.0,Debit Card 
+6043,87,26/08/2025,COTTON BEDSHEET SET,Bedding,2.0,55.0,PAYPAL
+5724,49,14/06/2025, Table Lamp,Lighting,3.0,42.0,PayPal
+5923,23,08/18/2025,WALL MIRROR,HOME DECOR,2.0,65.0,Debit Card
+5656,48,11/10/2025,THROW PILLOW,home decor,2.0,22.0,Credit Card
+6094,15,2025-02-07,ceramic mug set,kitchen,2.0,21.0,Debit Card
+5048,62,2025-07-28,THROW PILLOW,Home Decor,2.0,25.0,Debit Card 
+5608,12,06/24/2025,Ceramic Vase ,home decor,3.0,28.0,PayPal
+5511,84,10/30/2025,Ceramic Mug Set ,Kitchen,3.0,21.0,Debit Card 
+5019,5,23/06/2025,CUTTING BOARD,Kitchen,1.0,19.0,Debit Card
+5100,96,2025-07-31,Ceramic Vase,home decor,2.0,31.0,credit card
+5343,97,01/15/2025,Throw Pillow ,HOME DECOR,1.0,19.0,PAYPAL
+5084,53,23/09/2025,Table Lamp ,lighting,2.0,45.0,Credit Card
+5327,73,2025-03-28,Floor La mp,lighting,,89.0,Debit Card
+5480,68,09/05/2025,non-stick pan set,Kitchen,1.0,,PayPal
+5378,74,01/30/2025,floor lamp,lighting,1.0,92.0,Debit Card
+5558,2,01/10/2025,non-stick pan set,Kitchen,3.0,63.0,Credit Card
+5525,63,03/30/2025,Memory Foam Pillow,Bedding,2.0,32.0,PayPal
+5693,44,11-07-2025,Wall Mirror ,HOME DECOR,2.0,68.0,PAYPAL
+6207,107,25-07-2025,Cera mic Va se,HOME DECOR,1.0,28.0,PAYPAL
+5863,34,13-01-2025,String Lights ,lighting,1.0,15.0,
+5009,83,10-08-2025,Memory Foam Pillow,Bedding,1.0,32.0,Debit Card 
+6131,100,02/07/2025,WOOL BLANKET,BEDDING,2.0,67.0,PayPal
+5481,91,23/09/2025,FLOOR LAMP,Lighting,3.0,89.0,PayPal
+5429,76,2025-12-02,WOOL BLANKET,BEDDING,1.0,70.0,PayPal
+5245,2,24-10-2025,ceramic mug set,kitchen,1.0,24.0,PayPal
+5314,76,03-10-2025,Floor Lamp,lighting,2.0,86.0,PayPal
+6216,64,23-02-2025,THROW PILLOW,Home Decor,2.0,25.0,
+5453,21,01/23/2025, String Lights,Lighting,1.0,21.0,Credit Card
+6243,4,07-05-2025,THROW PILLOW,HOME DECOR,3.0,22.0,credit card
+5911,12,25-02-2025,table lamp,LIGHTING,2.0,45.0,
+5596,52,02/09/2025, Floor Lamp,lighting,1.0,92.0,Debit Card
+5836,82,09/01/2025,wool blanket,Bedding,3.0,67.0,Debit Card
+5603,66,06/04/2025,Cutting Board,KITCHEN,2.0,22.0,PAYPAL
+5860,53,2025-05-27,CUTTING BOARD,Kitchen,1.0,22.0,Debit Card
+5981,57,11/19/2025,Wool Blanket,bedding,2.0,70.0,PAYPAL
+5930,41,30/06/2025,Ceramic Vase ,home decor,3.0,28.0,credit card
+6127,61,09/29/2025,THROW PILLOW,Home Decor,1.0,22.0,Debit Card
+5717,1,30/07/2025,Cotton Bedsheet Set ,bedding,1.0,55.0,Debit Card 
+5172,110,2025-05-07,Wall Mirror,home decor,2.0,65.0,Debit Card 
+6265,57,22/04/2025,wall mirror,HomeDecor,2.0,68.0,credit card
+6145,10,11/05/2025,floor lamp,Lighting,1.0,86.0,PayPal
+5242,4,31/03/2025,table lamp,LIGHTING,2.0,48.0,PAYPAL
+5753,39,25-04-2025,Memory Foam Pillow,BEDDING,1.0,32.0,Credit Card
+5888,39,11/21/2025,Cutting Boa rd,Kitchen,,22.0,credit card
+5272,100,14/02/2025,String Lights,LIGHTING,3.0,18.0,Debit Card
+5078,29,26-10-2025,COTTON BEDSHEET SET,bedding,2.0,55.0,PAYPAL
+5795,60,27/06/2025,Floor Lamp,lighting,1.0,89.0,PAYPAL
+5956,90,2025-06-28,Floor La mp,Lighting,1.0,86.0,credit card
+5188,45,17/05/2025,WALL MIRROR,Home Decor,2.0,65.0,Debit Card
+6286,62,2025-05-26,TABLE LAMP,Lighting,2.0,48.0,PAYPAL
+5788,109,12/09/2025,WOOL BLANKET,BEDDING,1.0,67.0,credit card
+5862,85,01/07/2025,cutting board,KITCHEN,1.0,19.0,credit card
+5697,5,05-09-2025,Floor La mp,Lighting,3.0,89.0,Debit Card
+5410,45,19-03-2025,table lamp,lighting,1.0,45.0,credit card
+6051,90,2025-08-29,cotton bedsheet set,Bedding,2.0,55.0,credit card
+5821,24,28/12/2025,String Lights,Lighting,3.0,0.0,Debit Card
+5136,108,2025-12-10,memory foam pillow,Bedding,2.0,29.0,PayPal
+5986,9999,08/19/2025,cutting board,Kitchen,1.0,16.0,PAYPAL
+5936,1,15-12-2025,Ta ble La mp,Lighting,1.0,48.0,Credit Card
+6120,56,29-08-2025,Cutting Board,KITCHEN,3.0,19.0,Debit Card
+5524,63,26/02/2025,Throw Pillow,HomeDecor,2.0,22.0,Credit Card
+6257,29,25-07-2025,throw pillow,HOME DECOR,2.0,22.0,Debit Card 
+5641,110,2025-09-09,Throw Pillow,HomeDecor,1.0,22.0,Debit Card
+5530,104,20-11-2025,memory foam pillow,bedding,1.0,32.0,Credit Card
+5115,2,08/12/2025, Cotton Bedsheet Set,Bedding,2.0,55.0,PayPal
+5106,51,14/02/2025,cutting board,KITCHEN,-3.0,16.0,Debit Card
+6181,33,2025-10-03,Wall Mirror,HomeDecor,1.0,65.0,Debit Card 
+5482,18,02/26/2025,Ceramic Vase ,HomeDecor,3.0,31.0,Credit Card
+5968,88,09/11/2025, Wall Mirror,home decor,2.0,65.0,PAYPAL
+5903,9999,18/01/2025,String Lights ,LIGHTING,1.0,18.0,PayPal
+5142,5,08/01/2025,Ta ble La mp,lighting,1.0,42.0,Debit Card
+5197,40,2025-01-06, Table Lamp,Lighting,3.0,48.0,PAYPAL
+5421,73,02/13/2025,Throw Pillow ,Home Decor,1.0,22.0,PayPal
+5737,96,05/07/2025, Wool Blanket,Bedding,3.0,70.0,PayPal
+5504,103,07/01/2025,table lamp,LIGHTING,-2.0,42.0,PAYPAL
+5420,97,20-03-2025, Wall Mirror,Home Decor,,65.0,Debit Card
+5943,16,06/26/2025,Wool Bla nket,BEDDING,2.0,70.0,PayPal
+5868,90,05/02/2025,wool blanket,Bedding,2.0,70.0,Debit Card
+6010,101,31-07-2025, Cotton Bedsheet Set,bedding,3.0,55.0,Debit Card 
+5117,86,12/01/2025,Cutting Boa rd,Kitchen,3.0,19.0,credit card
+5313,103,04/05/2025,Floor La mp,Lighting,2.0,89.0,PayPal
+5292,82,2025-02-15,COTTON BEDSHEET SET,BEDDING,2.0,55.0,Debit Card 
+5677,91,08/08/2025, Wool Blanket,Bedding,2.0,67.0,Debit Card 
+5961,57,12/14/2025,Non-Stick Pan Set,kitchen,3.0,57.0,Debit Card
+5560,23,12/31/2025,Floor Lamp,Lighting,1.0,86.0,Credit Card
+5934,80,01/01/2025,Cutting Board,KITCHEN,1.0,19.0,PayPal
+5537,30,02-09-2025,Throw Pillow,HOME DECOR,2.0,22.0,PAYPAL
+5109,85,06/15/2025,Wool Bla nket,bedding,2.0,70.0,PAYPAL
+5294,91,2025-06-23,Cotton Bedsheet Set,BEDDING,2.0,52.0,Debit Card 
+6248,28,2025-06-19, Ceramic Mug Set,kitchen,-1.0,24.0,credit card
+6146,33,11-08-2025,Wool Bla nket,bedding,2.0,70.0,Debit Card 
+5282,90,2025-08-18, Floor Lamp,Lighting,1.0,89.0,PAYPAL
+5872,39,26-10-2025, Table Lamp,lighting,2.0,42.0,credit card
+6254,14,03-06-2025,cutting board,Kitchen,1.0,16.0,Debit Card 
+5016,41,05/05/2025,Ceramic Mug Set ,KITCHEN,2.0,24.0,Credit Card
+6228,15,19-08-2025,Floor Lamp ,Lighting,1.0,89.0,Debit Card
+5720,98,13-11-2025,Throw Pillow,home decor,1.0,22.0,PayPal
+5847,55,2025-03-05,table lamp,Lighting,1.0,45.0,Debit Card 
+5651,34,03/26/2025,STRING LIGHTS,lighting,1.0,18.0,Debit Card
+6026,22,11/26/2025,Table Lamp ,Lighting,2.0,48.0,PayPal
+6252,30,2025-08-26, String Lights,LIGHTING,2.0,,Credit Card
+5580,13,2025-01-27,Cutting Board ,Kitchen,1.0,19.0,Debit Card 
+5404,103,29/04/2025, Ceramic Mug Set,KITCHEN,,24.0,Debit Card 
+5164,88,11/05/2025,Cotton Bedsheet Set,Bedding,2.0,55.0,Debit Card
+5665,74,04/02/2025,Table Lamp,lighting,1.0,45.0,PAYPAL
+5969,13,10/13/2025,NON-STICK PAN SET,KITCHEN,1.0,60.0,PayPal
+5257,28,27/07/2025,CUTTING BOARD,kitchen,3.0,22.0,credit card
+6201,46,2025-03-02,cutting board,Kitchen,,16.0,PAYPAL
+5533,86,13-03-2025,non-stick pan set,Kitchen,1.0,60.0,Debit Card
+6133,9,21-10-2025,string lights,lighting,1.0,18.0,Debit Card 
+5271,57,2025-11-07,Non-Stick Pan Set,kitchen,1.0,57.0,PayPal
+5058,28,07/24/2025,Ceramic Vase,HOME DECOR,,28.0,PayPal
+5330,45,06-09-2025,throw pillow,Home Decor,1.0,22.0,PayPal
+5237,47,2025-07-07,STRING LIGHTS,Lighting,1.0,21.0,Debit Card 
+5527,66,09/05/2025, Table Lamp,Lighting,2.0,48.0,Credit Card
+5179,65,04/04/2025,COTTON BEDSHEET SET,BEDDING,1.0,0.0,PayPal
+5712,31,08/05/2025,CERAMIC MUG SET,Kitchen,1.0,27.0,Debit Card 
+6255,80,07-07-2025,floor lamp,LIGHTING,1.0,89.0,PayPal
+5635,57,04-11-2025,Ceramic Vase ,HOME DECOR,3.0,28.0,Credit Card
+6058,72,2025-08-14,non-stick pan set,KITCHEN,2.0,63.0,Debit Card
+5364,20,17/07/2025,COTTON BEDSHEET SET,bedding,1.0,52.0,Debit Card 
+6056,87,10/07/2025,throw pillow,HomeDecor,1.0,19.0,credit card
+5653,13,29-08-2025,Cotton Bedsheet Set,Bedding,-3.0,52.0,PayPal
+5490,60,07/25/2025,Ceramic Vase ,HomeDecor,1.0,25.0,Debit Card
+5849,24,21-08-2025,Wa ll Mirror,HomeDecor,1.0,68.0,PAYPAL
+6084,27,2025-09-29,Wall Mirror,Home Decor,2.0,65.0,credit card
+5345,4,12/30/2025,STRING LIGHTS,lighting,2.0,18.0,credit card
+5636,101,09/22/2025,Wool Bla nket,Bedding,2.0,70.0,PayPal
+6020,63,02/04/2025,Floor Lamp,LIGHTING,3.0,92.0,credit card
+5014,98,2025-02-20,Throw Pillow ,HOME DECOR,1.0,0.0,credit card
+5497,13,2025-05-03,throw pillow,home decor,1.0,22.0,Debit Card
+5129,33,12/14/2025,Cotton Bedsheet Set,bedding,2.0,52.0,Debit Card
+5093,22,2025-01-17,Wall Mirror ,HOME DECOR,1.0,62.0,Debit Card
+6220,16,05/05/2025,Memory Foam Pillow ,BEDDING,3.0,35.0,Credit Card
+5062,80,08/27/2025, Memory Foam Pillow,BEDDING,2.0,35.0,credit card
+5667,77,2025-08-06,Cutting Board ,KITCHEN,3.0,19.0,credit card
+5171,104,29-05-2025,cutting board,Kitchen,,0.0,PAYPAL
+6282,86,03-02-2025,STRING LIGHTS,Lighting,1.0,15.0,credit card
+5316,21,18/08/2025,Cutting Board ,Kitchen,1.0,22.0,Debit Card
+6266,55,11/17/2025,MEMORY FOAM PILLOW,Bedding,-3.0,32.0,credit card
+5625,37,24/03/2025,MEMORY FOAM PILLOW,BEDDING,1.0,29.0,
+5954,4,2025-05-11,Floor Lamp ,Lighting,1.0,86.0,PayPal
+5492,19,25-03-2025, Wool Blanket,Bedding,1.0,73.0,Credit Card
+5450,100,12/22/2025, String Lights,LIGHTING,1.0,18.0,PAYPAL
+5494,7,07-10-2025,Cera mic Mug Set,Kitchen,2.0,24.0,PAYPAL
+5700,71,24-06-2025, Ceramic Vase,home decor,2.0,25.0,PayPal
+6066,90,07-03-2025,Memory Foam Pillow ,Bedding,1.0,29.0,credit card
+6107,45,20/04/2025,Ceramic Vase,HomeDecor,-1.0,28.0,Credit Card
+5514,23,11-05-2025,Throw Pillow,HOME DECOR,2.0,22.0,
+6279,102,05-06-2025,Throw Pillow,HOME DECOR,1.0,25.0,credit card
+5655,41,03/27/2025, Cotton Bedsheet Set,bedding,2.0,55.0,PAYPAL
+5254,25,26-05-2025,Memory Foam Pillow,bedding,1.0,32.0,Debit Card 
+6075,47,01/27/2025, Floor Lamp,Lighting,1.0,89.0,Debit Card
+5605,8,2025-09-16,Table Lamp ,Lighting,2.0,45.0,PayPal
+5623,62,20-06-2025,Throw Pillow ,home decor,2.0,25.0,Credit Card
+5611,1,2025-02-14,MEMORY FOAM PILLOW,bedding,2.0,32.0,credit card
+5678,83,2025-03-22,Cutting Board,kitchen,1.0,22.0,Credit Card
+5982,1,23/09/2025,Cutting Board ,KITCHEN,3.0,,PAYPAL
+6120,56,29-08-2025,Cutting Board,KITCHEN,3.0,19.0,Debit Card
+5435,43,05/19/2025, Throw Pillow,HOME DECOR,3.0,22.0,Credit Card
+5273,68,28/06/2025,Throw Pillow,HomeDecor,2.0,22.0,PAYPAL
+5590,103,03/29/2025,Ceramic Vase ,home decor,-1.0,28.0,credit card
+5174,78,2025-02-18, Ceramic Vase,HOME DECOR,1.0,31.0,Debit Card
+5346,59,2025-06-15,Table Lamp,Lighting,1.0,42.0,Debit Card 
+5632,42,29-07-2025, Cotton Bedsheet Set,Bedding,2.0,55.0,Debit Card 
+6047,33,04-06-2025,Wall Mirror,Home Decor,1.0,65.0,Credit Card
+5669,48,07/07/2025,cutting board,KITCHEN,1.0,19.0,PayPal
+5437,20,03/27/2025, String Lights,lighting,1.0,21.0,credit card
+5268,26,21/03/2025,Floor Lamp ,lighting,3.0,0.0,Debit Card 
+5102,56,09/26/2025,Ceramic Vase,home decor,1.0,25.0,credit card
+5318,22,28-08-2025, String Lights,lighting,2.0,18.0,Debit Card
+6231,43,02-02-2025, Memory Foam Pillow,BEDDING,3.0,32.0,credit card
+5143,61,10/11/2025,wool blanket,Bedding,1.0,70.0,Debit Card
+5598,58,01/07/2025,cotton bedsheet set,bedding,1.0,55.0,Debit Card 
+6233,98,2025-10-13,Ceramic Mug Set,KITCHEN,2.0,24.0,PayPal
+6263,78,18-01-2025,Non-Stick Pan Set ,KITCHEN,,57.0,Debit Card
+5619,80,2025-03-22,Floor La mp,lighting,3.0,89.0,Debit Card 
+5548,90,05/11/2025,Cutting Board ,kitchen,,19.0,Debit Card 
+5094,19,2025-01-15,Cutting Boa rd,Kitchen,1.0,19.0,Debit Card 
+5126,29,08/25/2025,Cotton Bedsheet Set,BEDDING,1.0,55.0,credit card
+5733,9,2025-01-12,Throw Pillow,home decor,1.0,22.0,Debit Card 
+5149,19,2025-12-11,Cera mic Mug Set,Kitchen,1.0,21.0,
+5965,90,15/06/2025,Wall Mirror ,Home Decor,2.0,65.0,Debit Card 
+5602,49,2025-12-30,ceramic mug set,kitchen,2.0,24.0,Debit Card
+5153,100,22/10/2025,Cotton Bedsheet Set,Bedding,2.0,52.0,PAYPAL
+5289,30,11-03-2025,String Lights,Lighting,1.0,18.0,Credit Card
+5119,109,05/09/2025, Cotton Bedsheet Set,BEDDING,1.0,58.0,Debit Card 
+5779,48,12-06-2025,throw pillow,HOME DECOR,3.0,22.0,credit card
+6018,89,2025-03-15,ceramic vase,HomeDecor,3.0,28.0,Debit Card 
+6061,23,15/03/2025,wool blanket,bedding,2.0,70.0,Debit Card 
+6102,70,2025-07-03,memory foam pillow,Bedding,2.0,32.0,Debit Card 
+5133,38,2025-11-08,FLOOR LAMP,LIGHTING,2.0,89.0,credit card
+5593,59,29/08/2025,String Lights,lighting,3.0,18.0,Debit Card
+5512,51,2025-02-09,Floor Lamp ,Lighting,3.0,86.0,Credit Card
+5884,19,07/26/2025,wool blanket,bedding,2.0,70.0,Credit Card
+5371,29,03-02-2025,Wall Mirror ,HOME DECOR,2.0,65.0,Debit Card
+5302,90,2025-11-29,Floor La mp,lighting,1.0,92.0,Debit Card 
+5046,6,2025-05-11,Table Lamp,lighting,2.0,45.0,credit card
+5553,66,27/07/2025, Wall Mirror,HomeDecor,3.0,62.0,Debit Card
+5428,9999,08/27/2025,Cera mic Va se,home decor,2.0,28.0,Debit Card 
+5066,94,02/26/2025,cutting board,KITCHEN,1.0,19.0,Debit Card 
+5714,2,06/12/2025,Ceramic Vase ,HOME DECOR,2.0,28.0,PAYPAL
+5569,8,2025-04-28,ceramic vase,HOME DECOR,1.0,31.0,Debit Card 
+5975,42,2025-09-14,Cutting Board,Kitchen,1.0,19.0,Credit Card
+6111,44,08/01/2025, Wool Blanket,Bedding,2.0,73.0,Debit Card
+5781,71,2025-03-07,Cera mic Mug Set,KITCHEN,1.0,24.0,Debit Card
+6238,70,2025-10-18,Cutting Board ,kitchen,3.0,19.0,credit card
+6046,17,01/15/2025,WOOL BLANKET,bedding,2.0,70.0,Debit Card
+5980,54,2025-09-03,Throw Pillow,HomeDecor,1.0,22.0,Credit Card
+5960,25,2025-12-16,CERAMIC VASE,HOME DECOR,3.0,31.0,Debit Card
+5974,46,11/14/2025,CERAMIC MUG SET,Kitchen,2.0,24.0,PayPal
+6142,68,24/07/2025,Ceramic Mug Set ,KITCHEN,2.0,27.0,Debit Card
+6210,76,2025-12-07, Memory Foam Pillow,BEDDING,1.0,32.0,credit card
+5091,89,02/10/2025,Cera mic Mug Set,Kitchen,2.0,27.0,Credit Card
+5351,1,05/08/2025,Memory Foam Pillow ,Bedding,1.0,35.0,PayPal
+5545,97,12/03/2025, Wall Mirror,home decor,1.0,68.0,Debit Card 
+6076,78,27-09-2025,STRING LIGHTS,Lighting,2.0,18.0,PAYPAL
+6072,19,01/02/2025,WOOL BLANKET,Bedding,3.0,70.0,Debit Card
+5317,43,21-04-2025,Wool Blanket ,Bedding,1.0,73.0,PayPal
+5561,26,29-08-2025,wall mirror,home decor,1.0,68.0,Debit Card
+5978,92,26-08-2025,Ceramic Mug Set ,Kitchen,2.0,24.0,Credit Card
+5840,29,2025-06-07, Throw Pillow,home decor,2.0,22.0,PAYPAL
+5145,35,06/26/2025,Wool Blanket,bedding,3.0,70.0,PayPal
+5336,8,2025-01-24,cotton bedsheet set,Bedding,3.0,58.0,PAYPAL
+6035,52,2025-06-22,Throw Pillow ,Home Decor,1.0,22.0,Debit Card
+6182,47,2025-08-20,cutting board,KITCHEN,1.0,22.0,Debit Card 
+6011,86,2025-12-23,memory foam pillow,Bedding,2.0,32.0,Debit Card 
+5168,91,2025-05-11,Table Lamp ,Lighting,2.0,45.0,PAYPAL
+5922,38,02/25/2025,Cutting Board ,kitchen,2.0,19.0,Debit Card
+5248,7,05/03/2025,NON-STICK PAN SET,KITCHEN,1.0,57.0,Debit Card
+5748,65,2025-02-20,Memory Foam Pillow,Bedding,1.0,32.0,PAYPAL
+5855,99,11/06/2025,Cera mic Mug Set,KITCHEN,1.0,24.0,credit card
+5320,57,01/24/2025,non-stick pan set,Kitchen,3.0,60.0,Debit Card
+5856,5,22-04-2025,Memory Foa m Pillow,bedding,2.0,29.0,
+5687,102,27-02-2025,THROW PILLOW,home decor,1.0,19.0,Debit Card
+5258,65,27/04/2025,Ta ble La mp,lighting,3.0,45.0,PAYPAL
+5515,94,24-08-2025,Throw Pillow,HomeDecor,-1.0,22.0,PayPal
+6080,102,10/13/2025,ceramic mug set,Kitchen,1.0,21.0,Debit Card 
+6042,61,10/25/2025, Ceramic Vase,Home Decor,1.0,31.0,Debit Card
+6060,101,05/10/2025,Non-Stick Pan Set,kitchen,1.0,0.0,Debit Card 
+5391,34,10/06/2025,Throw Pillow ,HomeDecor,1.0,22.0,PAYPAL
+6245,80,12/02/2025,Ceramic Mug Set ,kitchen,3.0,24.0,credit card
+6109,62,12/02/2025, Non-Stick Pan Set,Kitchen,,60.0,credit card
+5418,52,04/15/2025,Wool Blanket ,BEDDING,1.0,73.0,Credit Card
+5394,84,26/08/2025,STRING LIGHTS,lighting,3.0,21.0,Debit Card
+5067,101,2025-04-24,cutting board,KITCHEN,1.0,22.0,Debit Card
+5398,24,2025-11-24,Cotton Bedsheet Set,Bedding,1.0,55.0,PayPal
+6298,60,07-01-2025,Wool Blanket,Bedding,1.0,67.0,PayPal
+5778,71,2025-11-23, Floor Lamp,lighting,1.0,92.0,PayPal
+5436,28,2025-11-18, Ceramic Mug Set,kitchen,2.0,24.0,Debit Card
+6241,44,2025-09-15, Table Lamp,Lighting,3.0,45.0,Debit Card
+5889,22,06/26/2025,Cera mic Va se,HOME DECOR,1.0,25.0,credit card
+6098,71,05/21/2025, Memory Foam Pillow,bedding,1.0,32.0,PAYPAL
+5584,51,04/14/2025, Cutting Board,Kitchen,3.0,19.0,PAYPAL
+5144,71,29-05-2025, Ceramic Vase,home decor,1.0,28.0,PAYPAL
+5817,7,2025-03-25,Throw Pillow,Home Decor,2.0,25.0,Debit Card
+5947,6,27-08-2025,Throw Pillow,HomeDecor,1.0,25.0,PayPal
+5791,60,14/08/2025,CERAMIC VASE,HomeDecor,1.0,25.0,Debit Card
+5670,21,2025-03-18,WALL MIRROR,home decor,2.0,62.0,PAYPAL
+5649,12,01/18/2025, Throw Pillow,Home Decor,2.0,25.0,Debit Card 
+6169,89,31/08/2025,wall mirror,HomeDecor,2.0,65.0,Debit Card 
+5466,8,2025-10-30, Memory Foam Pillow,Bedding,1.0,35.0,credit card
+5606,72,03/15/2025,Table Lamp,Lighting,3.0,45.0,PayPal
+5357,56,2025-02-23,Cutting Board,Kitchen,1.0,19.0,Credit Card
+5660,90,12/09/2025,Ceramic Mug Set ,KITCHEN,1.0,24.0,Debit Card
+5090,96,09/04/2025,STRING LIGHTS,Lighting,1.0,21.0,Debit Card 
+6187,74,27-07-2025,Wall Mirror ,HOME DECOR,3.0,65.0,PayPal
+5243,26,2025-11-05,Cotton Bedsheet Set ,Bedding,1.0,0.0,Credit Card
+6016,17,07/08/2025, Table Lamp,LIGHTING,2.0,,PAYPAL
+5382,50,03/08/2025,non-stick pan set,Kitchen,3.0,63.0,Debit Card 
+6144,67,16-08-2025,ceramic vase,HomeDecor,,28.0,Credit Card
+5984,42,2025-07-20,String Lights,LIGHTING,1.0,18.0,PAYPAL
+5455,58,22-01-2025,ceramic vase,home decor,1.0,31.0,PayPal
+6063,21,05-09-2025,Floor Lamp,lighting,,,credit card
+5528,56,01/29/2025,Wool Blanket ,bedding,2.0,70.0,PayPal
+5682,43,17-05-2025, Table Lamp,Lighting,1.0,42.0,Debit Card 
+5572,93,29-01-2025,Floor Lamp,lighting,1.0,89.0,PAYPAL
+5755,45,10/06/2025, Ceramic Vase,HOME DECOR,2.0,31.0,Debit Card
+6124,85,2025-01-06,wool blanket,BEDDING,2.0,70.0,PAYPAL
+5645,34,07/09/2025,Floor Lamp ,Lighting,2.0,92.0,PAYPAL
+6054,4,25/12/2025,String Lights,Lighting,2.0,,Credit Card
+5519,9,08-01-2025,floor lamp,LIGHTING,1.0,89.0,PayPal
+5879,91,01/23/2025, Cutting Board,Kitchen,1.0,22.0,PAYPAL
+5098,27,13-06-2025,Floor Lamp,lighting,2.0,89.0,Debit Card
+6291,33,2025-11-03, Floor Lamp,lighting,3.0,89.0,Credit Card
+5406,43,2025-07-25,Ceramic Mug Set,KITCHEN,1.0,24.0,
+5877,105,01/13/2025,Wool Blanket,BEDDING,2.0,70.0,Debit Card
+5219,79,10/19/2025,CUTTING BOARD,kitchen,3.0,19.0,credit card
+5715,108,08/10/2025,memory foam pillow,Bedding,1.0,29.0,Credit Card
+5107,34,10/07/2025, Cotton Bedsheet Set,BEDDING,2.0,55.0,PAYPAL
+6283,92,14-02-2025,Ceramic Vase ,home decor,1.0,28.0,
+5329,23,25-10-2025,Floor La mp,Lighting,2.0,89.0,Debit Card 
+5169,104,02/02/2025,String Lights ,lighting,2.0,21.0,PAYPAL
+5692,101,09/30/2025,NON-STICK PAN SET,Kitchen,1.0,63.0,Debit Card 
+6013,10,13/08/2025,Wall Mirror ,home decor,1.0,65.0,PAYPAL
+5137,106,31/08/2025, Wall Mirror,HomeDecor,2.0,62.0,PayPal
+5906,25,03/09/2025,MEMORY FOAM PILLOW,Bedding,3.0,32.0,Debit Card
+5676,66,05/06/2025, Memory Foam Pillow,bedding,1.0,32.0,Credit Card
+5768,98,22-05-2025,Non-Stick Pan Set ,KITCHEN,1.0,63.0,credit card
+5264,17,24-07-2025, Cutting Board,KITCHEN,1.0,19.0,Debit Card
+5135,71,06/02/2025,Ceramic Mug Set ,Kitchen,2.0,24.0,Debit Card 
+6224,4,09-12-2025,Ceramic Vase ,HomeDecor,1.0,31.0,Debit Card
+6147,2,2025-02-14, Throw Pillow,Home Decor,3.0,22.0,Credit Card
+5270,86,22-10-2025,Cera mic Mug Set,kitchen,1.0,21.0,Credit Card
+6106,79,15/10/2025,Throw Pillow,HomeDecor,2.0,22.0,credit card
+6171,26,06/24/2025, String Lights,LIGHTING,3.0,18.0,Debit Card 
+5339,19,16-02-2025,wool blanket,BEDDING,,70.0,Debit Card 
+6264,93,23/01/2025,Cotton Bedsheet Set,BEDDING,2.0,58.0,PAYPAL
+5979,37,2025-06-28, String Lights,Lighting,1.0,15.0,PAYPAL
+5105,101,2025-10-15,cutting board,Kitchen,3.0,19.0,credit card
+5190,62,2025-03-20,Throw Pillow ,HomeDecor,3.0,22.0,Debit Card
+5379,31,2025-08-13,Floor Lamp,LIGHTING,2.0,,PayPal
+5474,102,11-04-2025,Cutting Boa rd,kitchen,1.0,22.0,Debit Card 
+6212,42,2025-10-07,ceramic vase,Home Decor,2.0,28.0,Debit Card 
+5825,45,04/03/2025,Cotton Bedsheet Set,Bedding,1.0,52.0,
+5414,48,12/06/2025,Cutting Boa rd,Kitchen,1.0,19.0,Debit Card
+5032,93,2025-11-21,Non-Stick Pan Set,Kitchen,1.0,60.0,Debit Card 
+5833,57,25/06/2025,Cotton Bedsheet Set ,Bedding,3.0,52.0,credit card
+5919,74,10/11/2025,throw pillow,HomeDecor,1.0,22.0,PayPal
+6050,28,2025-05-12, Wool Blanket,Bedding,1.0,73.0,PAYPAL
+5332,78,2025-09-14,Floor La mp,Lighting,1.0,89.0,PayPal
+6193,54,2025-01-12,Ceramic Vase,home decor,1.0,28.0,PAYPAL
+5698,91,21-08-2025,Floor La mp,LIGHTING,-1.0,,PayPal
+5901,74,16/02/2025,String Lights,lighting,2.0,18.0,Debit Card 
+5155,61,2025-03-19,Table Lamp,Lighting,2.0,42.0,Credit Card
+6128,94,21-11-2025,CUTTING BOARD,KITCHEN,2.0,16.0,Credit Card
+5056,7,22/11/2025,Non-Stick Pa n Set,KITCHEN,1.0,63.0,Debit Card 
+6236,30,15/03/2025,Ceramic Mug Set,kitchen,1.0,24.0,Debit Card
+5542,18,2025-06-14, Non-Stick Pan Set,KITCHEN,1.0,60.0,Credit Card
+5899,93,07/12/2025,Memory Foam Pillow,Bedding,2.0,32.0,credit card
+6183,54,22/09/2025,CERAMIC MUG SET,Kitchen,2.0,21.0,credit card
+5348,81,16-01-2025,Ta ble La mp,Lighting,1.0,45.0,PayPal
+5659,37,19-11-2025, Memory Foam Pillow,BEDDING,2.0,32.0,PAYPAL
+5426,100,2025-02-05,string lights,Lighting,1.0,15.0,Credit Card
+5917,100,13/02/2025,CERAMIC VASE,HomeDecor,1.0,31.0,Debit Card
+5581,10,25/03/2025,STRING LIGHTS,Lighting,1.0,18.0,credit card
+5551,27,29/07/2025,wool blanket,bedding,1.0,70.0,credit card
+5176,108,06/23/2025,Ceramic Vase,Home Decor,1.0,28.0,Credit Card
+6244,18,17-10-2025,Floor Lamp ,LIGHTING,3.0,89.0,Debit Card
+5827,4,06/24/2025, Cotton Bedsheet Set,bedding,1.0,58.0,credit card
+5113,85,11/04/2025,throw pillow,home decor,1.0,22.0,credit card
+5937,47,06/03/2025,Cotton Bedsheet Set ,bedding,1.0,58.0,Debit Card 
+6039,72,01/04/2025,Non-Stick Pan Set ,Kitchen,2.0,60.0,PAYPAL
+5111,39,11/13/2025,CUTTING BOARD,kitchen,3.0,19.0,PAYPAL
+5299,82,01/15/2025,Cera mic Mug Set,Kitchen,1.0,24.0,PayPal
+5782,34,11/12/2025,CUTTING BOARD,Kitchen,2.0,19.0,Debit Card
+5609,67,04/29/2025,Wa ll Mirror,Home Decor,1.0,68.0,Debit Card 
+5367,74,31/08/2025,Ceramic Vase ,HomeDecor,2.0,28.0,PayPal
+5993,15,12/03/2025, Table Lamp,LIGHTING,1.0,45.0,Credit Card
+5347,90,01/31/2025, String Lights,Lighting,-2.0,18.0,Debit Card 
+5397,27,09/11/2025,NON-STICK PAN SET,KITCHEN,2.0,60.0,Credit Card
+5586,42,30-03-2025,String Lights,Lighting,3.0,18.0,Credit Card
+5607,78,13-05-2025,CUTTING BOARD,Kitchen,1.0,19.0,
+5507,21,2025-09-29,TABLE LAMP,Lighting,3.0,48.0,PAYPAL
+5139,108,28/08/2025, String Lights,lighting,3.0,,
+5803,44,19/11/2025,Floor Lamp,Lighting,2.0,89.0,Debit Card
+5042,60,2025-02-22, Ceramic Vase,home decor,2.0,28.0,Credit Card
+6185,59,09/21/2025,TABLE LAMP,Lighting,1.0,48.0,credit card
+6250,47,07/13/2025,table lamp,Lighting,2.0,45.0,Debit Card 
+5977,95,25/12/2025,Non-Stick Pan Set,KITCHEN,1.0,63.0,Debit Card 
+5793,58,2025-04-20,Floor Lamp,Lighting,1.0,92.0,PAYPAL
+6104,24,2025-07-13,Ceramic Mug Set ,Kitchen,2.0,24.0,PayPal
+5069,34,09/17/2025,Non-Stick Pan Set,KITCHEN,1.0,60.0,PayPal
+5523,13,13-07-2025,Ceramic Mug Set,Kitchen,1.0,24.0,credit card
+5335,42,14/01/2025,Cutting Boa rd,kitchen,2.0,22.0,PayPal
+5340,78,06/19/2025,non-stick pan set,Kitchen,3.0,63.0,Credit Card
+6036,90,05/03/2025, String Lights,Lighting,1.0,21.0,PayPal
+6097,79,14-11-2025, Floor Lamp,LIGHTING,2.0,89.0,
+5022,63,2025-12-07, Cotton Bedsheet Set,Bedding,2.0,55.0,PayPal
+6229,58,08/10/2025,Cutting Board,Kitchen,1.0,19.0,Debit Card
+5065,66,28/01/2025,Throw Pillow,Home Decor,3.0,22.0,
+6278,101,09/03/2025,wall mirror,Home Decor,1.0,65.0,Credit Card
+6038,10,15-05-2025,Wall Mirror,home decor,1.0,0.0,PayPal
+5626,95,17-03-2025,Wall Mirror,HomeDecor,,65.0,Debit Card
+5567,12,30/08/2025,CERAMIC MUG SET,KITCHEN,1.0,21.0,Credit Card
+6085,18,01/24/2025, Cutting Board,Kitchen,1.0,22.0,credit card
+5808,94,2025-09-16, Cotton Bedsheet Set,bedding,1.0,58.0,Credit Card
+5735,94,27-04-2025, Floor Lamp,LIGHTING,1.0,92.0,credit card
+5198,104,21-06-2025,String Lights,Lighting,3.0,,credit card
+5395,26,2025-12-28,Memory Foam Pillow,Bedding,3.0,32.0,credit card
+5055,14,09/09/2025,Cotton Bedsheet Set,Bedding,1.0,55.0,Debit Card
+5562,54,03-09-2025,Cutting Board,kitchen,1.0,,PayPal
+5050,7,18-10-2025,Floor Lamp,lighting,2.0,89.0,Debit Card 
+5200,21,2025-07-10, Cutting Board,Kitchen,1.0,22.0,Credit Card
+5276,34,01/31/2025, Table Lamp,Lighting,1.0,45.0,PayPal
+5845,10,02/03/2025,Cera mic Va se,Home Decor,3.0,28.0,credit card
+5060,59,18-11-2025,wool blanket,BEDDING,3.0,,credit card
+5871,66,2025-03-31,WOOL BLANKET,Bedding,2.0,73.0,PayPal
+5544,53,27/01/2025,throw pillow,Home Decor,-1.0,19.0,Debit Card
+6132,28,03/05/2025,string lights,Lighting,3.0,18.0,Debit Card
+6253,82,03/13/2025,Floor Lamp,lighting,1.0,86.0,Credit Card
+6297,97,02/21/2025,ceramic vase,HomeDecor,1.0,31.0,Debit Card
+6235,63,2025-09-06,Ceramic Vase ,home decor,2.0,31.0,PAYPAL
+6022,105,2025-08-30,table lamp,LIGHTING,2.0,45.0,credit card
+5798,60,18-10-2025,MEMORY FOAM PILLOW,Bedding,1.0,,PayPal
+5998,16,06/13/2025,Cera mic Va se,HOME DECOR,2.0,31.0,Debit Card 
+6087,25,09-03-2025,Cutting Board,kitchen,1.0,19.0,Debit Card 
+5293,48,17/01/2025,Ceramic Vase,Home Decor,1.0,28.0,PAYPAL
+5675,34,2025-06-19, Throw Pillow,home decor,1.0,19.0,Credit Card
+6099,84,2025-01-22,Floor Lamp ,lighting,1.0,89.0,Credit Card
+5226,13,01-09-2025, Cutting Board,Kitchen,3.0,19.0,Credit Card
+5850,9,05-06-2025,Table Lamp ,LIGHTING,3.0,45.0,Debit Card 
+6180,91,03/21/2025,Throw Pillow ,HomeDecor,3.0,19.0,Debit Card 
+5359,95,2025-09-14, Wool Blanket,Bedding,2.0,70.0,Debit Card
+6065,45,25/01/2025,String Lights ,LIGHTING,2.0,18.0,Credit Card
+5223,8,2025-03-23, Ceramic Vase,Home Decor,2.0,28.0,PAYPAL
+5227,53,2025-10-27,Wool Blanket ,BEDDING,2.0,70.0,credit card
+5454,36,05/07/2025,Cotton Bedsheet Set,Bedding,2.0,55.0,Debit Card
+5805,108,05/08/2025,ceramic vase,Home Decor,3.0,28.0,PAYPAL
+5915,51,02-07-2025,Cera mic Mug Set,KITCHEN,3.0,,PAYPAL
+6122,20,09/22/2025,Throw Pillow ,home decor,1.0,22.0,PayPal
+5972,96,19/11/2025,Memory Foam Pillow,Bedding,1.0,32.0,PAYPAL
+5356,102,2025-12-20,Ceramic Mug Set ,KITCHEN,1.0,24.0,PAYPAL
+6078,9999,04/10/2025,Ceramic Vase ,HOME DECOR,1.0,28.0,PayPal
+5938,1,28/12/2025,CUTTING BOARD,Kitchen,2.0,,Debit Card
+6138,35,2025-10-11,Floor La mp,Lighting,3.0,86.0,
+5430,76,10/15/2025,Memory Foa m Pillow,Bedding,2.0,35.0,credit card
+5104,21,04/20/2025,Floor Lamp,Lighting,2.0,89.0,credit card
+5776,55,10/20/2025,Throw Pillow,HomeDecor,2.0,22.0,Debit Card
+6161,104,2025-01-24,Cutting Boa rd,kitchen,2.0,,Debit Card 
+5914,31,06-10-2025,memory foam pillow,bedding,2.0,29.0,Credit Card
+5088,82,14/12/2025,wool blanket,bedding,3.0,,Debit Card 
+5216,45,2025-03-27,Ceramic Mug Set ,kitchen,1.0,27.0,Credit Card
+5671,73,19/02/2025,Non-Stick Pan Set ,Kitchen,2.0,60.0,Debit Card 
+5694,36,09/15/2025, Ceramic Mug Set,Kitchen,2.0,21.0,Debit Card 
+5774,106,14-08-2025,cotton bedsheet set,Bedding,2.0,55.0,PAYPAL
+6188,75,11/02/2025,non-stick pan set,kitchen,1.0,57.0,credit card
+6139,86,18/09/2025, Floor Lamp,LIGHTING,-1.0,89.0,Debit Card
+6269,68,11/27/2025, Throw Pillow,HomeDecor,3.0,22.0,credit card
+6272,45,09/13/2025,Cotton Bedsheet Set ,Bedding,1.0,52.0,Debit Card 
+6155,59,03/10/2025,wall mirror,HOME DECOR,1.0,65.0,Debit Card 
+5338,54,30-12-2025,Non-Stick Pan Set,KITCHEN,1.0,57.0,PayPal
+5683,109,02/05/2025,Cotton Bedsheet Set,BEDDING,1.0,,Debit Card
+6140,34,26/02/2025,cutting board,KITCHEN,1.0,16.0,Credit Card
+6055,50,2025-09-24,Memory Foam Pillow,bedding,2.0,32.0,Credit Card
+6069,104,11/30/2025,throw pillow,HOME DECOR,2.0,22.0,Debit Card
+5310,16,10-07-2025,Table Lamp,lighting,3.0,45.0,Credit Card
+5222,90,15-06-2025,table lamp,LIGHTING,2.0,45.0,Debit Card
+6242,50,2025-10-20,Ceramic Mug Set ,Kitchen,1.0,24.0,Debit Card
+5037,80,2025-04-17,Throw Pillow,HomeDecor,2.0,22.0,
+6135,81,2025-05-17, Wool Blanket,Bedding,1.0,,PAYPAL
+5813,38,01/08/2025,CERAMIC MUG SET,Kitchen,1.0,21.0,Debit Card 
+5030,103,05/12/2025,Ceramic Vase ,home decor,,25.0,Debit Card
+6134,31,27-07-2025,cutting board,Kitchen,1.0,,PayPal
+5633,91,03/26/2025,Wa ll Mirror,Home Decor,-1.0,65.0,credit card
+5150,98,02/21/2025,Wall Mirror,Home Decor,1.0,65.0,Debit Card
+6045,69,13/09/2025,non-stick pan set,Kitchen,3.0,57.0,Debit Card
+5875,93,12-06-2025, Ceramic Mug Set,Kitchen,3.0,21.0,PAYPAL
+5638,49,06/12/2025,Cutting Board ,KITCHEN,1.0,19.0,Debit Card
+5892,81,04/02/2025,Cotton Bedsheet Set ,bedding,1.0,58.0,PAYPAL
+5180,5,2025-06-30,Floor Lamp,lighting,2.0,86.0,PAYPAL
+5393,110,12-05-2025,Wool Blanket,BEDDING,1.0,70.0,PAYPAL
+5151,45,08-06-2025, Wall Mirror,Home Decor,1.0,65.0,Debit Card
+6089,86,30-07-2025, Memory Foam Pillow,bedding,1.0,32.0,Debit Card 
+5739,80,29-12-2025,CUTTING BOARD,kitchen,2.0,19.0,
+5368,106,13-07-2025, Ceramic Mug Set,kitchen,3.0,21.0,PAYPAL
+5765,16,26-08-2025, Wool Blanket,Bedding,2.0,70.0,credit card
+5020,95,02/04/2025,wool blanket,BEDDING,2.0,70.0,PayPal
+5422,10,2025-06-22,Non-Stick Pan Set ,KITCHEN,1.0,60.0,Debit Card
+5287,4,07/22/2025,CERAMIC VASE,HOME DECOR,1.0,28.0,Credit Card
+6293,45,06/14/2025,Non-Stick Pan Set,Kitchen,2.0,63.0,Debit Card 
+5772,103,2025-02-15,Memory Foam Pillow ,BEDDING,1.0,32.0,Debit Card 
+5799,96,12/13/2025,CERAMIC MUG SET,Kitchen,1.0,24.0,Debit Card 
+5887,7,2025-04-03, Cotton Bedsheet Set,BEDDING,1.0,55.0,credit card
+5447,82,10-09-2025,cotton bedsheet set,BEDDING,3.0,55.0,PAYPAL
+6002,53,08/06/2025,throw pillow,HOME DECOR,1.0,22.0,Debit Card 
+5087,83,05-03-2025,Cera mic Va se,Home Decor,3.0,28.0,Debit Card
+5996,3,08/06/2025,Wool Bla nket,BEDDING,3.0,67.0,Credit Card
+5612,22,21-04-2025,CERAMIC MUG SET,KITCHEN,2.0,0.0,PayPal
+5305,71,2025-02-28,Wool Blanket ,BEDDING,2.0,70.0,PayPal
+6215,88,01/03/2025,Memory Foa m Pillow,Bedding,3.0,35.0,PAYPAL
+5013,73,27-11-2025,Ceramic Vase ,HomeDecor,1.0,28.0,Debit Card 
+6249,38,2025-10-23,THROW PILLOW,HomeDecor,1.0,25.0,PayPal
+5574,101,24-09-2025,Wool Blanket ,bedding,3.0,70.0,Credit Card
+5732,26,21-11-2025,STRING LIGHTS,lighting,2.0,15.0,Debit Card
+6194,68,09/26/2025,String Lights,LIGHTING,1.0,21.0,Debit Card 
+5399,2,10/15/2025,Cutting Boa rd,kitchen,,19.0,PayPal
+5857,86,12/03/2025,Cutting Boa rd,KITCHEN,3.0,22.0,
+5203,32,04/25/2025,throw pillow,home decor,1.0,19.0,PAYPAL
+6273,82,2025-04-05,ceramic mug set,KITCHEN,1.0,27.0,Credit Card
+6115,54,06/04/2025,Memory Foa m Pillow,Bedding,1.0,29.0,Debit Card 
+6166,67,23/01/2025, Ceramic Vase,home decor,1.0,28.0,Debit Card
+5818,43,21/03/2025,Throw Pillow ,Home Decor,1.0,22.0,PAYPAL
+5800,43,20/06/2025,Ta ble La mp,LIGHTING,2.0,42.0,Credit Card
+5939,62,23-07-2025,Cutting Boa rd,Kitchen,2.0,16.0,Credit Card
+5178,91,12-05-2025,Throw Pillow,Home Decor,2.0,22.0,Debit Card 
+5595,10,04/02/2025,NON-STICK PAN SET,Kitchen,3.0,57.0,Debit Card 
+5944,29,24-04-2025,table lamp,lighting,1.0,45.0,Credit Card
+5985,106,12-04-2025,MEMORY FOAM PILLOW,bedding,-2.0,29.0,credit card
+5332,78,2025-09-14,Floor La mp,Lighting,1.0,89.0,PayPal
+5209,54,2025-11-05,non-stick pan set,kitchen,2.0,57.0,credit card
+5522,98,07/07/2025,cotton bedsheet set,Bedding,3.0,55.0,Credit Card
+5374,14,02-07-2025,string lights,Lighting,2.0,15.0,Debit Card
+5266,109,2025-06-30,Cotton Bedsheet Set,bedding,1.0,55.0,PAYPAL
+5285,101,2025-06-14,Wool Bla nket,bedding,1.0,67.0,Debit Card 
+5128,84,29-08-2025,Wa ll Mirror,HomeDecor,1.0,65.0,Debit Card 
+5162,35,20-06-2025,Non-Stick Pan Set ,kitchen,1.0,57.0,PAYPAL
+5468,72,2025-05-25,Table Lamp,lighting,1.0,45.0,credit card
+6062,29,16-10-2025,Memory Foa m Pillow,BEDDING,2.0,32.0,PayPal
+5643,36,07/11/2025,Throw Pillow,HomeDecor,2.0,22.0,Debit Card 
+5604,49,03/26/2025,Wool Blanket,bedding,1.0,73.0,Credit Card
+6068,66,01-12-2025,THROW PILLOW,home decor,1.0,22.0,credit card
+5629,45,04/02/2025,Cutting Board,Kitchen,,16.0,PayPal
+5505,82,2025-06-18,String Lights,LIGHTING,1.0,18.0,Credit Card
+6289,63,07/21/2025,Throw Pillow ,HomeDecor,3.0,22.0,PAYPAL
+5424,12,03/17/2025,TABLE LAMP,LIGHTING,-1.0,45.0,
+6213,46,25/09/2025,cotton bedsheet set,BEDDING,1.0,55.0,PayPal
+6202,58,01/18/2025,ceramic vase,HOME DECOR,3.0,28.0,Credit Card
+5668,47,2025-01-12,Ceramic Mug Set ,Kitchen,1.0,24.0,PayPal
+5003,86,03/03/2025,Cotton Bedsheet Set,BEDDING,3.0,55.0,PAYPAL
+5508,89,02/15/2025,Ceramic Mug Set,kitchen,1.0,24.0,credit card
+6205,60,03/05/2025,non-stick pan set,KITCHEN,1.0,63.0,credit card
+5312,89,11/01/2025, Memory Foam Pillow,Bedding,1.0,29.0,Credit Card
+5918,35,11/17/2025,Table Lamp ,lighting,,48.0,PayPal
+6261,21,11-09-2025, Cotton Bedsheet Set,Bedding,2.0,58.0,Debit Card
+5749,56,06/06/2025,Ta ble La mp,lighting,2.0,45.0,Debit Card
+6030,14,22-08-2025,STRING LIGHTS,LIGHTING,2.0,18.0,PayPal
+5463,36,04-02-2025,CUTTING BOARD,kitchen,2.0,19.0,Credit Card
+6156,15,01/15/2025,Wool Blanket,bedding,1.0,70.0,Debit Card
+5134,45,17/04/2025,Wall Mirror ,Home Decor,2.0,65.0,Debit Card 
+5963,27,11/24/2025,THROW PILLOW,Home Decor,1.0,22.0,credit card
+5538,28,08/29/2025,table lamp,LIGHTING,1.0,45.0,Debit Card
+5672,8,08/05/2025,TABLE LAMP,lighting,1.0,42.0,PayPal
+5301,34,04/27/2025,Throw Pillow,Home Decor,1.0,25.0,PayPal
+5460,1,12/08/2025, Non-Stick Pan Set,KITCHEN,2.0,60.0,PAYPAL
+5138,90,07/05/2025,Memory Foam Pillow ,Bedding,1.0,35.0,PayPal
+6275,83,2025-04-11,Cotton Bedsheet Set ,Bedding,2.0,52.0,Debit Card 
+5407,68,07-02-2025,Wool Blanket,Bedding,2.0,70.0,Credit Card
+5265,23,07-07-2025,Cera mic Va se,HomeDecor,2.0,25.0,PayPal
+5385,82,14/08/2025,Throw Pillow ,Home Decor,2.0,,Debit Card 
+5449,40,09/24/2025,Cutting Board,kitchen,3.0,19.0,credit card
+6176,10,2025-10-10,CERAMIC VASE,Home Decor,1.0,28.0,Credit Card
+5493,109,2025-10-12,Ceramic Vase ,Home Decor,2.0,31.0,Debit Card 
+5870,92,2025-01-22,String Lights,Lighting,1.0,18.0,PayPal
+6074,13,2025-05-29,String Lights,Lighting,2.0,21.0,
+5297,78,2025-02-11,Non-Stick Pan Set ,kitchen,3.0,60.0,PAYPAL
+6048,110,03-06-2025,ceramic mug set,kitchen,,24.0,PayPal
+5167,26,30-04-2025,Cutting Boa rd,Kitchen,2.0,,credit card
+5324,47,11/22/2025,Wool Bla nket,Bedding,1.0,73.0,Debit Card
+5270,86,22-10-2025,Cera mic Mug Set,kitchen,1.0,21.0,Credit Card
+5730,79,01/17/2025,NON-STICK PAN SET,Kitchen,-1.0,57.0,Credit Card
+5012,90,2025-08-23,Ceramic Mug Set,KITCHEN,2.0,21.0,PayPal
+5283,47,2025-03-28, Floor Lamp,Lighting,-1.0,86.0,Credit Card
+5472,57,13/11/2025,Cutting Board ,KITCHEN,1.0,19.0,Credit Card
+5552,85,07/06/2025,memory foam pillow,Bedding,1.0,32.0,Credit Card
+5251,102,02/14/2025, Table Lamp,LIGHTING,1.0,45.0,Credit Card
+6090,79,08/08/2025,Ceramic Mug Set,Kitchen,1.0,24.0,PayPal
+6007,44,22/07/2025,String Lights,LIGHTING,2.0,21.0,Debit Card 
+5073,43,08/15/2025,Throw Pillow,Home Decor,1.0,25.0,Debit Card
+5053,71,25/11/2025,Wall Mirror ,home decor,1.0,68.0,Debit Card 
+5610,60,11/01/2025,Cutting Board ,Kitchen,1.0,19.0,credit card
+5952,33,2025-01-14,Wool Bla nket,bedding,2.0,70.0,Credit Card
+5557,84,2025-03-25,Floor La mp,Lighting,,89.0,PayPal
+5217,60,10/01/2025,Non-Stick Pan Set ,KITCHEN,2.0,57.0,Debit Card
+5680,34,2025-08-21,Ceramic Mug Set,KITCHEN,1.0,24.0,Debit Card 
+5221,29,20/09/2025,Table Lamp,lighting,2.0,0.0,PayPal
+5304,66,2025-10-18, Non-Stick Pan Set,KITCHEN,2.0,57.0,PAYPAL
+5891,1,23/10/2025,MEMORY FOAM PILLOW,bedding,2.0,,credit card
+5370,98,15/05/2025,Floor Lamp ,Lighting,-3.0,89.0,PAYPAL
+6259,20,07/06/2025,Cera mic Va se,home decor,1.0,25.0,Credit Card
+6184,27,2025-07-21,String Lights,LIGHTING,1.0,18.0,Debit Card 
+5452,50,2025-05-17, Memory Foam Pillow,Bedding,1.0,35.0,Debit Card 
+5639,49,05/18/2025,Table Lamp,lighting,3.0,48.0,Debit Card
+5286,79,01-12-2025,Cutting Board,KITCHEN,3.0,19.0,Debit Card 
+5591,56,03/10/2025,Floor La mp,Lighting,-2.0,89.0,Debit Card
+5267,94,2025-12-31,Table Lamp ,LIGHTING,-2.0,42.0,credit card
+5763,89,2025-03-01,wall mirror,Home Decor,3.0,62.0,Debit Card 
+6141,103,12/18/2025,wool blanket,BEDDING,2.0,70.0,Debit Card 
+5674,86,08/20/2025,CERAMIC VASE,HOME DECOR,1.0,31.0,Credit Card
+5185,10,07/11/2025, Non-Stick Pan Set,Kitchen,2.0,57.0,Debit Card 
+5880,85,2025-05-21,floor lamp,Lighting,2.0,92.0,Debit Card
+6175,95,2025-11-13,WALL MIRROR,HOME DECOR,1.0,65.0,PayPal
+5112,67,03/24/2025,string lights,Lighting,1.0,18.0,PayPal
+5983,100,2025-11-21,CERAMIC MUG SET,KITCHEN,1.0,24.0,PayPal
+5859,3,01-06-2025,Throw Pillow ,HOME DECOR,3.0,22.0,PayPal
+5948,30,2025-07-09,Floor Lamp ,lighting,1.0,86.0,Debit Card
+5897,45,16/08/2025,MEMORY FOAM PILLOW,bedding,1.0,32.0,Credit Card
+5729,17,10/09/2025,String Lights,Lighting,2.0,18.0,Credit Card
+5842,33,11/06/2025,Cotton Bedsheet Set,Bedding,3.0,55.0,PAYPAL
+5043,57,2025-04-30,Floor Lamp ,LIGHTING,1.0,89.0,Credit Card
+5006,31,05/13/2025, String Lights,Lighting,1.0,18.0,Debit Card 
+5964,75,16/06/2025,THROW PILLOW,HomeDecor,1.0,22.0,credit card
+5224,50,2025-07-01,Memory Foa m Pillow,BEDDING,2.0,32.0,credit card
+5361,9,2025-04-11,ceramic vase,home decor,2.0,31.0,Credit Card
+5325,8,22-06-2025,cutting board,KITCHEN,2.0,22.0,PayPal
+5328,94,10-10-2025,Non-Stick Pan Set ,Kitchen,1.0,60.0,PAYPAL
+6001,26,2025-07-27,FLOOR LAMP,lighting,3.0,89.0,credit card
+6129,5,01/29/2025,Cutting Board,Kitchen,1.0,19.0,PayPal
+5921,84,2025-03-15,STRING LIGHTS,LIGHTING,2.0,15.0,Debit Card
+5309,45,28-03-2025,String Lights,Lighting,3.0,18.0,Debit Card
+6167,46,09-09-2025,Ta ble La mp,lighting,-2.0,,Debit Card
+5444,40,19/03/2025, Wool Blanket,BEDDING,1.0,70.0,Credit Card
+5940,16,2025-02-09,memory foam pillow,BEDDING,2.0,32.0,Debit Card
+5723,9999,30/03/2025,Ta ble La mp,Lighting,1.0,45.0,Credit Card
+5931,36,06-02-2025,Wa ll Mirror,HOME DECOR,3.0,62.0,Debit Card 
+6178,104,2025-02-20,floor lamp,Lighting,2.0,89.0,Credit Card
+5758,74,2025-10-13, Table Lamp,Lighting,1.0,45.0,Credit Card
+5654,84,09/04/2025,Memory Foam Pillow ,Bedding,1.0,,PAYPAL
+6125,68,07/30/2025,Wall Mirror,HomeDecor,1.0,65.0,Credit Card
+6232,36,07/13/2025,ceramic mug set,Kitchen,2.0,,Credit Card
+6077,83,2025-12-02,CUTTING BOARD,kitchen,2.0,16.0,PAYPAL
+6258,69,2025-04-03,cotton bedsheet set,bedding,1.0,58.0,Credit Card
+6281,6,24/10/2025,COTTON BEDSHEET SET,Bedding,3.0,52.0,Debit Card
+5212,24,16/06/2025,Throw Pillow,Home Decor,1.0,25.0,PayPal
+5417,32,2025-10-19,wall mirror,HOME DECOR,2.0,65.0,Debit Card
+5822,104,11/06/2025,floor lamp,LIGHTING,1.0,92.0,PayPal
+6003,85,03/14/2025,CERAMIC MUG SET,KITCHEN,2.0,27.0,PayPal
+5141,79,16-12-2025, Ceramic Vase,HomeDecor,1.0,31.0,PayPal
+5883,14,2025-10-27, Memory Foam Pillow,Bedding,2.0,32.0,PayPal
+5797,43,28-12-2025, Floor Lamp,Lighting,3.0,89.0,
+6208,46,09/28/2025,cotton bedsheet set,BEDDING,2.0,58.0,credit card
+5236,54,25/07/2025,memory foam pillow,Bedding,2.0,35.0,PayPal
+5211,19,06/30/2025,ceramic mug set,Kitchen,2.0,21.0,PAYPAL
+5708,92,2025-04-16,Table Lamp ,LIGHTING,2.0,48.0,Debit Card
+5241,91,2025-10-11,Cutting Board,Kitchen,1.0,19.0,Debit Card 
+5628,108,21/01/2025, Table Lamp,Lighting,3.0,45.0,Debit Card 
+5780,66,11/01/2025,floor lamp,LIGHTING,2.0,89.0,PayPal
+5959,103,06/25/2025,Memory Foam Pillow ,bedding,2.0,32.0,credit card
+5579,9,24/06/2025,CERAMIC MUG SET,Kitchen,2.0,,Debit Card 
+5640,83,15-05-2025,Wool Blanket ,Bedding,1.0,0.0,Debit Card
+5054,65,16-03-2025,Wall Mirror ,HOME DECOR,1.0,65.0,Credit Card
+5235,30,29-07-2025,Throw Pillow,HOME DECOR,-2.0,22.0,PayPal
+5811,40,01/05/2025, Wool Blanket,Bedding,2.0,67.0,
+5701,44,2025-08-30, String Lights,Lighting,3.0,18.0,Debit Card
+5475,101,2025-11-10,CERAMIC VASE,HomeDecor,,28.0,Credit Card
+5902,9,2025-11-07, String Lights,LIGHTING,1.0,18.0,Debit Card 
+5045,82,30-12-2025,non-stick pan set,kitchen,-1.0,57.0,PayPal
+5392,82,2025-12-15,COTTON BEDSHEET SET,Bedding,1.0,55.0,credit card
+5465,108,2025-04-22, String Lights,lighting,2.0,18.0,PAYPAL
+6287,63,04/07/2025, Ceramic Mug Set,KITCHEN,-3.0,0.0,PAYPAL
+5068,79,08/22/2025, Floor Lamp,LIGHTING,1.0,92.0,PAYPAL
+5967,102,2025-03-07, String Lights,Lighting,,18.0,credit card
+5195,108,09/25/2025,WALL MIRROR,Home Decor,,0.0,Credit Card
+5711,57,02-08-2025,Floor Lamp,lighting,1.0,89.0,credit card
+5220,71,10/11/2025,Floor Lamp,LIGHTING,-2.0,,Debit Card
+6082,42,02/09/2025,cutting board,Kitchen,1.0,19.0,PAYPAL
+6081,101,29/05/2025,Table Lamp,Lighting,2.0,42.0,credit card
+5389,90,09/10/2025, Ceramic Vase,Home Decor,2.0,28.0,Debit Card 
+5110,30,21/06/2025,Wall Mirror ,HOME DECOR,3.0,65.0,Debit Card
+5565,55,2025-06-01,Cotton Bedsheet Set,Bedding,1.0,55.0,Credit Card
+5244,13,29/03/2025, Throw Pillow,Home Decor,2.0,25.0,Debit Card 
+5820,30,28-01-2025, Ceramic Vase,home decor,1.0,28.0,PayPal
+5792,31,2025-10-31,Ceramic Vase ,Home Decor,2.0,28.0,PayPal
+5762,9,2025-01-25,wall mirror,home decor,1.0,62.0,PAYPAL
+6105,95,2025-10-17,WALL MIRROR,HOME DECOR,2.0,62.0,Debit Card 
+5621,24,03/01/2025,floor lamp,Lighting,1.0,92.0,credit card
+5386,30,13/04/2025,Cutting Boa rd,kitchen,2.0,16.0,PAYPAL
+5786,60,02/11/2025,Cera mic Va se,HOME DECOR,3.0,25.0,Debit Card
+6117,70,11/04/2025,CUTTING BOARD,Kitchen,1.0,19.0,
+5951,65,02-01-2025,Throw Pillow ,home decor,1.0,22.0,Debit Card
+5052,106,27-07-2025,THROW PILLOW,Home Decor,2.0,22.0,Credit Card
+5076,66,01/25/2025,String Lights ,Lighting,2.0,18.0,Credit Card
+6278,101,09/03/2025,wall mirror,Home Decor,1.0,65.0,Credit Card
+6256,92,31/10/2025,Cotton Bedsheet Set,BEDDING,2.0,55.0,credit card
+5933,69,03/10/2025,Throw Pillow,HomeDecor,-1.0,22.0,Debit Card 
+5648,82,08-05-2025, Cotton Bedsheet Set,Bedding,2.0,52.0,Credit Card
+5841,54,03/29/2025,Ceramic Mug Set ,Kitchen,3.0,,Debit Card
+5380,55,13-11-2025, Floor Lamp,lighting,1.0,89.0,Credit Card
+5350,73,02-09-2025,wall mirror,Home Decor,,,Debit Card
+5832,30,12/25/2025,WOOL BLANKET,Bedding,2.0,70.0,credit card
+5083,21,2025-02-23,Cera mic Va se,HOME DECOR,2.0,31.0,PayPal
+5725,70,02/04/2025,wall mirror,HOME DECOR,3.0,65.0,Debit Card 
+5470,50,29/10/2025,wool blanket,bedding,1.0,67.0,Debit Card 
+5685,104,2025-05-30,MEMORY FOAM PILLOW,BEDDING,2.0,,Credit Card
+5804,5,08/09/2025,Non-Stick Pan Set,Kitchen,1.0,60.0,Credit Card
+5962,3,09-08-2025,Ceramic Vase ,Home Decor,1.0,28.0,credit card
+5946,74,11/20/2025, Cutting Board,kitchen,2.0,19.0,credit card
+5239,27,07/04/2025,Wool Bla nket,Bedding,1.0,67.0,Debit Card
+5080,13,11/23/2025, Throw Pillow,home decor,3.0,22.0,Credit Card
+5103,13,12/22/2025,memory foam pillow,bedding,,35.0,PAYPAL
+5375,58,27/02/2025,Cutting Boa rd,KITCHEN,3.0,19.0,PAYPAL
+6195,25,2025-01-21,Cotton Bedsheet Set,bedding,2.0,55.0,
+5441,66,19/06/2025,non-stick pan set,kitchen,1.0,60.0,Debit Card 
+6059,20,2025-12-30,MEMORY FOAM PILLOW,Bedding,3.0,32.0,Credit Card
+5987,30,18/10/2025,Cotton Bedsheet Set,Bedding,1.0,52.0,Debit Card
+5910,99,2025-05-16,WOOL BLANKET,Bedding,,70.0,Debit Card
+5240,73,2025-11-22,Ceramic Mug Set,Kitchen,3.0,24.0,Debit Card
+5146,41,06/03/2025,Cutting Board,Kitchen,2.0,16.0,Debit Card 
+6119,54,12/09/2025, Floor Lamp,LIGHTING,1.0,89.0,credit card
+5760,92,04/15/2025,Cera mic Mug Set,Kitchen,3.0,24.0,Debit Card 
+5010,98,28/10/2025, Memory Foam Pillow,Bedding,1.0,29.0,credit card
+5704,36,12/12/2025,CERAMIC VASE,Home Decor,1.0,25.0,credit card
+5228,109,2025-11-15,Floor La mp,Lighting,2.0,89.0,Debit Card
+5815,76,02/21/2025, Wall Mirror,home decor,,68.0,PayPal
+6226,91,11/07/2025,Wool Blanket ,bedding,,67.0,PayPal
+5377,48,24/06/2025,Wool Blanket ,BEDDING,1.0,67.0,Credit Card
+6126,37,2025-09-19,Memory Foam Pillow,Bedding,2.0,32.0,Debit Card
+5890,14,06/21/2025,Throw Pillow,home decor,3.0,19.0,PAYPAL
+5957,102,02-04-2025,Ta ble La mp,Lighting,2.0,45.0,Debit Card 
+5275,6,14-10-2025,CUTTING BOARD,KITCHEN,1.0,22.0,PAYPAL
+5534,85,04/04/2025, Ceramic Mug Set,Kitchen,1.0,27.0,credit card
+6211,47,07-11-2025,CERAMIC VASE,HOME DECOR,1.0,31.0,Debit Card 
+5824,13,25/05/2025, Cutting Board,Kitchen,,19.0,Credit Card
+5434,43,2025-04-20, Wool Blanket,Bedding,1.0,70.0,Debit Card
+5125,90,30-06-2025,ceramic mug set,Kitchen,1.0,24.0,PAYPAL
+6177,37,02/04/2025,Wall Mirror,HomeDecor,3.0,65.0,PAYPAL
+5029,81,07/05/2025,Cotton Bedsheet Set,Bedding,1.0,55.0,Credit Card
+5927,13,03/04/2025,Throw Pillow,HOME DECOR,1.0,22.0,
+5814,22,02/05/2025,Floor Lamp ,lighting,1.0,92.0,PAYPAL
+5809,78,07-12-2025, Cotton Bedsheet Set,BEDDING,3.0,52.0,Debit Card
+5148,25,2025-11-08,Memory Foam Pillow ,Bedding,2.0,0.0,PAYPAL
+5502,33,10-03-2025,Cutting Board,kitchen,1.0,19.0,credit card
+5754,15,25/02/2025,String Lights,LIGHTING,3.0,18.0,PayPal
+5121,92,23-09-2025, Table Lamp,LIGHTING,1.0,48.0,Debit Card 
+5631,14,12-04-2025,wall mirror,Home Decor,-3.0,65.0,credit card
+5183,33,05-03-2025,COTTON BEDSHEET SET,Bedding,2.0,55.0,PayPal
+5637,89,2025-01-03,Cera mic Mug Set,KITCHEN,1.0,24.0,PAYPAL
+6271,53,2025-12-08,Table Lamp ,lighting,1.0,42.0,PayPal
+5630,16,12-01-2025,Ceramic Vase,HomeDecor,3.0,28.0,PayPal
+6017,57,2025-10-22,Non-Stick Pan Set ,KITCHEN,3.0,63.0,Debit Card
+6029,20,02/28/2025,FLOOR LAMP,Lighting,1.0,92.0,PayPal
+5578,5,2025-03-08,Wool Blanket,bedding,2.0,73.0,Debit Card 
+6285,44,07/25/2025,Cotton Bedsheet Set,BEDDING,-1.0,55.0,Debit Card 
+5023,4,14/03/2025,NON-STICK PAN SET,Kitchen,-1.0,57.0,credit card
+5063,52,02/04/2025,throw pillow,Home Decor,1.0,22.0,
+5865,33,24/10/2025,throw pillow,Home Decor,-2.0,22.0,
+6186,58,27/12/2025,wall mirror,Home Decor,3.0,62.0,Credit Card
+5949,50,27-02-2025,non-stick pan set,KITCHEN,1.0,60.0,
+6295,104,08/18/2025,Table Lamp ,Lighting,1.0,42.0,Debit Card 
+6095,66,01/11/2025,Floor La mp,LIGHTING,1.0,86.0,Debit Card
+6237,54,2025-07-20,Cutting Boa rd,Kitchen,2.0,19.0,Debit Card
+6270,58,06-05-2025,cutting board,kitchen,2.0,19.0,PayPal
+5790,39,05/17/2025, Throw Pillow,HOME DECOR,2.0,19.0,credit card
+5526,9,04/07/2025,floor lamp,Lighting,2.0,,Credit Card
+5303,63,11/10/2025,Table Lamp ,Lighting,1.0,48.0,Debit Card 
+5588,42,12-06-2025,table lamp,lighting,,45.0,credit card
+6079,98,11-03-2025,String Lights ,Lighting,3.0,18.0,Debit Card 
+5256,70,12/10/2025,WALL MIRROR,home decor,2.0,65.0,Debit Card
+5575,14,05/02/2025,Ceramic Mug Set,kitchen,2.0,24.0,Debit Card 
+5261,85,10/18/2025, Cutting Board,Kitchen,1.0,16.0,Debit Card 
+5246,5,2025-11-18,floor lamp,LIGHTING,2.0,86.0,credit card
+5372,31,03/30/2025,CERAMIC MUG SET,Kitchen,3.0,24.0,Debit Card
+5658,74,02-04-2025,WOOL BLANKET,Bedding,1.0,70.0,Credit Card
+5642,76,2025-08-07,WOOL BLANKET,Bedding,1.0,73.0,credit card
+5047,87,05-04-2025,String Lights,Lighting,1.0,18.0,PAYPAL
+5691,20,2025-07-01,ceramic vase,HomeDecor,1.0,31.0,Debit Card 
+5858,69,11/03/2025,memory foam pillow,Bedding,3.0,32.0,Debit Card
+5234,60,21-01-2025,String Lights,Lighting,2.0,15.0,PAYPAL
+5618,20,2025-10-21,memory foam pillow,Bedding,1.0,32.0,credit card
+5992,74,23-11-2025,Cera mic Mug Set,KITCHEN,3.0,21.0,Credit Card
+5396,73,19-01-2025,string lights,LIGHTING,1.0,18.0,Debit Card 
+6190,41,07-02-2025,Wool Blanket,Bedding,2.0,67.0,Debit Card 
+5941,84,2025-11-28,Memory Foam Pillow ,Bedding,2.0,35.0,PAYPAL
+5308,16,11/03/2025,CUTTING BOARD,Kitchen,1.0,22.0,Debit Card 
+5995,32,11/03/2025,string lights,lighting,1.0,18.0,PayPal
+5500,53,10/22/2025,Non-Stick Pan Set,Kitchen,3.0,57.0,Debit Card 
+5175,100,2025-08-07,Floor Lamp ,LIGHTING,2.0,92.0,Debit Card
+5085,39,25/01/2025,Ceramic Mug Set,Kitchen,3.0,27.0,credit card
+5989,5,03/06/2025, Cutting Board,Kitchen,2.0,22.0,PayPal
+6092,107,08/26/2025,wall mirror,Home Decor,3.0,68.0,Credit Card
+5909,90,09/20/2025,Memory Foa m Pillow,bedding,1.0,32.0,Debit Card 
+5794,3,31/12/2025, Ceramic Mug Set,KITCHEN,2.0,24.0,PAYPAL
+5278,91,04/01/2025,Ta ble La mp,lighting,1.0,45.0,PayPal
+5403,45,06/13/2025,non-stick pan set,KITCHEN,1.0,60.0,PayPal
+6044,108,26/10/2025,String Lights,lighting,1.0,18.0,Debit Card
+5479,100,2025-09-06, Memory Foam Pillow,BEDDING,1.0,32.0,Credit Card
+5564,65,03/14/2025,Memory Foam Pillow,BEDDING,2.0,35.0,Debit Card 
+5026,22,2025-01-02,throw pillow,HomeDecor,1.0,19.0,Credit Card
+5291,94,2025-06-03,WALL MIRROR,HOME DECOR,1.0,65.0,credit card
+5563,34,2025-02-02,THROW PILLOW,home decor,3.0,22.0,Debit Card
+5587,106,29-04-2025,Ceramic Vase ,Home Decor,1.0,28.0,Credit Card
+6049,49,2025-04-28,String Lights ,Lighting,3.0,18.0,Credit Card
+6093,87,08/08/2025,memory foam pillow,Bedding,3.0,29.0,Debit Card
+5509,92,01/04/2025,Throw Pillow,home decor,2.0,22.0,credit card
+5745,92,2025-04-07,COTTON BEDSHEET SET,BEDDING,1.0,55.0,Debit Card
+5218,53,28-05-2025,Non-Stick Pa n Set,kitchen,1.0,57.0,credit card
+5521,102,27/05/2025,Wa ll Mirror,HOME DECOR,1.0,65.0,PayPal
+5229,93,30-05-2025,String Lights ,Lighting,2.0,21.0,Debit Card 
+5831,9,16/08/2025,non-stick pan set,Kitchen,1.0,60.0,Credit Card
+5971,30,2025-06-19,String Lights,Lighting,1.0,18.0,PayPal
+5284,96,19-06-2025, Cutting Board,Kitchen,1.0,19.0,PayPal
+5157,94,2025-04-06,Cutting Boa rd,Kitchen,1.0,19.0,Debit Card
+6219,26,10/20/2025, Ceramic Mug Set,KITCHEN,1.0,24.0,
+5130,32,04-06-2025, Ceramic Mug Set,Kitchen,2.0,24.0,Debit Card 
+5008,47,12/18/2025,WALL MIRROR,HomeDecor,1.0,65.0,credit card
+5438,41,11/07/2025,Wool Blanket ,Bedding,1.0,70.0,Credit Card
+5904,90,10/02/2025,floor lamp,lighting,2.0,89.0,credit card
+5349,30,15-04-2025,string lights,Lighting,2.0,18.0,PayPal
+5319,1,24/10/2025,String Lights,LIGHTING,1.0,18.0,credit card
+6234,3,11-10-2025,TABLE LAMP,Lighting,2.0,45.0,Credit Card
+5443,47,2025-01-10,Cutting Board ,Kitchen,3.0,16.0,credit card
+5383,27,2025-02-06, String Lights,Lighting,2.0,18.0,credit card
+5000,53,11/11/2025, Memory Foam Pillow,Bedding,3.0,32.0,PAYPAL
+5182,26,02/06/2025, Ceramic Mug Set,kitchen,3.0,21.0,Debit Card
+6164,28,20/04/2025,Wool Blanket ,BEDDING,1.0,70.0,PayPal
+5496,84,17/04/2025,Cutting Board,kitchen,1.0,22.0,Debit Card 
+5576,66,19-08-2025,Ta ble La mp,lighting,,45.0,PAYPAL
+5878,87,08/06/2025,Non-Stick Pa n Set,Kitchen,3.0,57.0,PAYPAL
+5869,86,04/09/2025, Ceramic Vase,HOME DECOR,2.0,31.0,Credit Card
+5819,57,08/24/2025,THROW PILLOW,HOME DECOR,2.0,,Debit Card
+5599,90,2025-12-02,Throw Pillow ,HomeDecor,,25.0,Credit Card
+6053,3,08/10/2025,WOOL BLANKET,Bedding,1.0,70.0,credit card
+6204,73,21-04-2025,String Lights,Lighting,1.0,18.0,credit card
+5854,46,2025-07-13,Cutting Board,Kitchen,1.0,22.0,Debit Card 
+5127,83,04/26/2025, Wool Blanket,bedding,1.0,70.0,PAYPAL
+5051,26,07/27/2025,COTTON BEDSHEET SET,Bedding,1.0,55.0,Credit Card
+5531,16,01/09/2025,Cutting Board ,Kitchen,1.0,19.0,Debit Card 
+5898,45,28/12/2025, Non-Stick Pan Set,KITCHEN,1.0,57.0,Credit Card
+5231,56,07/13/2025,non-stick pan set,KITCHEN,1.0,60.0,Debit Card
+5116,33,2025-07-27, Non-Stick Pan Set,Kitchen,3.0,60.0,PayPal
+5204,105,2025-01-10,ceramic vase,Home Decor,3.0,28.0,PAYPAL
+5295,22,2025-06-01,Cotton Bedsheet Set,bedding,2.0,58.0,PAYPAL
+5837,57,2025-08-07,Ta ble La mp,LIGHTING,2.0,45.0,Debit Card 
+5839,54,23/10/2025,string lights,Lighting,3.0,18.0,Credit Card
+5173,60,21-03-2025,throw pillow,home decor,2.0,19.0,PAYPAL
+5044,48,02/04/2025,Wool Bla nket,Bedding,2.0,70.0,Credit Card
+5464,47,2025-10-19,Cera mic Mug Set,Kitchen,1.0,21.0,Credit Card
+5895,5,2025-10-17,Ta ble La mp,lighting,1.0,42.0,credit card
+5970,58,20/07/2025,Cutting Boa rd,KITCHEN,2.0,22.0,PayPal
+6288,39,24/05/2025,String Lights,Lighting,2.0,18.0,Debit Card 
+6033,10,24-09-2025,Cotton Bedsheet Set ,BEDDING,1.0,52.0,PAYPAL
+5154,76,21/03/2025,Ceramic Mug Set,Kitchen,2.0,27.0,Debit Card 
+6031,36,07/01/2025,Cotton Bedsheet Set,Bedding,1.0,52.0,PayPal
+5415,1,03-09-2025,Ceramic Mug Set,Kitchen,1.0,24.0,PayPal
+6196,78,2025-02-10,Wall Mirror ,Home Decor,2.0,68.0,credit card
+5740,94,07/27/2025, Ceramic Mug Set,KITCHEN,2.0,24.0,credit card
+5556,83,11/21/2025,TABLE LAMP,lighting,3.0,48.0,Debit Card
+5322,5,02/18/2025,Wool Bla nket,Bedding,2.0,73.0,
+5191,16,14-04-2025,FLOOR LAMP,LIGHTING,2.0,89.0,Credit Card
+6006,13,2025-10-17,NON-STICK PAN SET,Kitchen,1.0,60.0,PAYPAL
+5280,87,21/03/2025,Ceramic Mug Set,kitchen,2.0,24.0,Credit Card
+5412,72,2025-02-18, Memory Foam Pillow,Bedding,1.0,35.0,Credit Card
+5785,85,24/07/2025,NON-STICK PAN SET,kitchen,1.0,60.0,PAYPAL
+6114,48,2025-07-30,Cera mic Mug Set,Kitchen,2.0,24.0,
+5170,42,09/17/2025,MEMORY FOAM PILLOW,Bedding,1.0,32.0,PayPal
+5205,82,08/26/2025,Non-Stick Pan Set,kitchen,3.0,60.0,Credit Card
+5365,79,07/13/2025,Cutting Board,Kitchen,1.0,16.0,
+5734,36,02/14/2025,floor lamp,Lighting,2.0,92.0,Credit Card
+5582,91,2025-07-05,String Lights ,Lighting,1.0,,Credit Card
+5721,43,28-02-2025,Ceramic Mug Set,kitchen,1.0,24.0,PayPal
+5707,101,2025-07-10,CERAMIC VASE,Home Decor,1.0,28.0,PAYPAL
+6292,71,2025-03-02, Throw Pillow,HomeDecor,3.0,22.0,Credit Card
+6200,94,05/05/2025,TABLE LAMP,LIGHTING,1.0,48.0,Debit Card
+5274,7,12/24/2025,CERAMIC MUG SET,Kitchen,2.0,27.0,PayPal
+6070,2,09-07-2025,Cotton Bedsheet Set ,bedding,2.0,52.0,credit card
+5439,110,02/23/2025,Wa ll Mirror,home decor,,68.0,Debit Card 
+6173,36,18-04-2025,Cera mic Va se,HomeDecor,-1.0,28.0,PayPal
+5709,13,12/29/2025,Table Lamp ,lighting,-1.0,45.0,
+5929,59,23-01-2025,Cera mic Mug Set,Kitchen,1.0,24.0,Debit Card 
+5214,80,14-12-2025,Floor Lamp,Lighting,3.0,92.0,Debit Card
+5764,48,02/04/2025,Cutting Boa rd,Kitchen,3.0,22.0,Credit Card
+6260,87,23/06/2025,Ceramic Mug Set ,Kitchen,1.0,24.0,PAYPAL
+5830,90,04-09-2025,Ceramic Mug Set,Kitchen,2.0,27.0,credit card
+5040,57,04/06/2025,table lamp,LIGHTING,-1.0,45.0,Debit Card
+5554,74,02-07-2025,wool blanket,BEDDING,3.0,70.0,credit card
+5771,103,27-07-2025, Throw Pillow,home decor,2.0,0.0,PayPal
+5926,33,02/19/2025, Non-Stick Pan Set,Kitchen,,60.0,PAYPAL
+5716,40,2025-04-19,Memory Foam Pillow,BEDDING,1.0,29.0,Debit Card
+5390,19,06/21/2025,STRING LIGHTS,lighting,2.0,15.0,PAYPAL
+5550,57,06/24/2025,MEMORY FOAM PILLOW,Bedding,,32.0,
+5486,74,22/11/2025,Non-Stick Pa n Set,Kitchen,1.0,63.0,credit card
+5334,25,2025-10-02,Floor Lamp,LIGHTING,3.0,89.0,Debit Card
+5001,17,30/08/2025,wall mirror,home decor,,65.0,Debit Card 
+6217,25,02-09-2025,floor lamp,lighting,1.0,89.0,Debit Card
+5594,32,2025-02-21,Throw Pillow,HOME DECOR,1.0,19.0,Debit Card
+5300,85,10/07/2025,NON-STICK PAN SET,Kitchen,1.0,63.0,credit card
+5663,25,2025-10-25, Ceramic Mug Set,Kitchen,1.0,21.0,Debit Card
+5366,7,22-12-2025,Cotton Bedsheet Set ,bedding,3.0,55.0,credit card
+5520,48,09-05-2025,Cutting Board ,Kitchen,1.0,19.0,PayPal
+6158,73,2025-03-21,Ceramic Mug Set,KITCHEN,2.0,24.0,Credit Card
+5535,28,27/05/2025,ceramic vase,home decor,1.0,28.0,PAYPAL
+5913,6,26-03-2025,Cera mic Va se,HomeDecor,2.0,25.0,PayPal
+5458,51,22-06-2025,Memory Foam Pillow ,Bedding,1.0,32.0,Debit Card 
+5728,26,11/12/2025,Wool Bla nket,bedding,3.0,70.0,PAYPAL
+5770,79,06-12-2025,Memory Foa m Pillow,Bedding,2.0,32.0,Credit Card
+5518,62,30/01/2025,Throw Pillow ,HOME DECOR,1.0,19.0,Credit Card
+5823,89,2025-01-11,Cutting Board,kitchen,1.0,19.0,Debit Card
+5624,48,04-02-2025,Cotton Bedsheet Set,bedding,3.0,58.0,Debit Card
+5597,94,2025-06-30,Floor Lamp ,Lighting,2.0,,credit card
+5101,91,10/03/2025,Ceramic Vase ,home decor,3.0,25.0,PayPal
+5679,14,08/04/2025,Wool Bla nket,BEDDING,1.0,70.0,credit card
+5147,71,2025-10-07,Cotton Bedsheet Set,Bedding,2.0,55.0,Credit Card
+5193,104,06/24/2025,Wool Blanket ,bedding,2.0,67.0,PayPal
+5376,20,12/15/2025,Ceramic Vase ,HOME DECOR,-1.0,,PAYPAL
+5881,18,04/17/2025,Memory Foam Pillow,bedding,1.0,32.0,PayPal
+6168,69,14-09-2025, Cutting Board,Kitchen,1.0,19.0,Debit Card
+5099,37,08-07-2025, Ceramic Vase,home decor,2.0,31.0,PAYPAL
+5984,42,2025-07-20,String Lights,LIGHTING,1.0,18.0,PAYPAL
+5353,39,2025-01-13,CERAMIC MUG SET,kitchen,1.0,21.0,PayPal
+5816,103,31-03-2025,Memory Foam Pillow ,bedding,1.0,29.0,credit card
+5759,34,09/07/2025,CERAMIC MUG SET,kitchen,1.0,24.0,credit card
+5387,43,2025-08-24,Cotton Bedsheet Set,Bedding,1.0,55.0,Credit Card
+6296,28,2025-10-31,NON-STICK PAN SET,Kitchen,1.0,60.0,PayPal
+5097,12,20-11-2025,CERAMIC MUG SET,Kitchen,2.0,21.0,Debit Card 
+6189,99,24/11/2025,Floor Lamp,Lighting,1.0,89.0,Debit Card 
+5752,11,2025-05-10,FLOOR LAMP,lighting,1.0,89.0,Credit Card
+5695,77,23-01-2025,Wa ll Mirror,HomeDecor,-1.0,62.0,Debit Card
+5627,16,02/24/2025,Cutting Board,KITCHEN,2.0,22.0,credit card
+5801,23,2025-02-08,Memory Foam Pillow,Bedding,2.0,29.0,Debit Card 
+6103,72,2025-08-04,ceramic vase,Home Decor,2.0,31.0,Debit Card
+6247,58,21/08/2025,NON-STICK PAN SET,Kitchen,1.0,57.0,Debit Card 
+6118,110,04/06/2025,Memory Foam Pillow ,BEDDING,1.0,35.0,credit card
+6225,45,21-05-2025,Throw Pillow,Home Decor,1.0,25.0,Debit Card 
+5744,100,2025-05-30, Wall Mirror,HomeDecor,3.0,65.0,Debit Card 
+6206,47,05/09/2025,Wool Blanket,bedding,2.0,70.0,PayPal
+5315,63,2025-09-05,WOOL BLANKET,Bedding,1.0,67.0,credit card
+5027,72,14-07-2025,Table Lamp,Lighting,1.0,45.0,Debit Card 
+5874,109,2025-04-25,Memory Foam Pillow,BEDDING,1.0,32.0,PAYPAL
+5540,31,21-03-2025, Ceramic Vase,HomeDecor,2.0,28.0,PayPal
+5829,38,03/02/2025, Cutting Board,kitchen,2.0,19.0,PayPal
+5503,13,08/15/2025,Wall Mirror ,home decor,3.0,65.0,Debit Card
+6091,45,11/10/2025,WALL MIRROR,HOME DECOR,3.0,65.0,PayPal
+6121,37,05/28/2025,Wool Blanket,BEDDING,1.0,67.0,Debit Card
+5650,38,11/08/2025,String Lights,LIGHTING,1.0,15.0,PAYPAL
+6191,97,06/25/2025,WOOL BLANKET,Bedding,1.0,70.0,PayPal
+6160,105,11/02/2025,cotton bedsheet set,BEDDING,1.0,52.0,PayPal
+5189,74,06/21/2025,Floor Lamp,lighting,1.0,89.0,credit card
+5973,56,01/14/2025, Table Lamp,lighting,1.0,,PayPal
+5536,26,2025-07-25,Throw Pillow,home decor,3.0,22.0,credit card
+6157,39,02/04/2025,Memory Foam Pillow,bedding,-1.0,35.0,credit card
+5446,98,2025-05-30, Table Lamp,Lighting,2.0,48.0,Debit Card 
+5543,75,29-07-2025,MEMORY FOAM PILLOW,bedding,2.0,32.0,Debit Card 
+5059,93,2025-01-22,Table Lamp,Lighting,3.0,,PAYPAL
+5852,2,20/12/2025,memory foam pillow,Bedding,3.0,32.0,PayPal
+5165,34,08/05/2025,floor lamp,LIGHTING,2.0,0.0,PAYPAL
+6123,86,07/04/2025,Floor Lamp ,Lighting,2.0,89.0,Credit Card
+5457,22,2025-04-01,Cera mic Mug Set,kitchen,2.0,24.0,credit card
+5703,37,21-03-2025,Cotton Bedsheet Set,BEDDING,1.0,55.0,Debit Card
+5122,61,09-01-2025, Wool Blanket,Bedding,2.0,70.0,PayPal
+5617,52,01/07/2025,Throw Pillow,HomeDecor,1.0,22.0,Debit Card 
+5279,82,03/14/2025,Cutting Board ,Kitchen,1.0,16.0,PayPal
+5473,52,05/25/2025,Wall Mirror,HomeDecor,1.0,68.0,PayPal
+6151,2,2025-01-23,wool blanket,BEDDING,2.0,70.0,Debit Card
+5726,79,04-12-2025,Wall Mirror ,HOME DECOR,1.0,68.0,Debit Card 
+5742,45,04/03/2025,Ceramic Mug Set ,KITCHEN,1.0,24.0,Debit Card
+5999,78,2025-07-13,NON-STICK PAN SET,kitchen,3.0,57.0,Credit Card
+5867,82,2025-11-08,FLOOR LAMP,Lighting,1.0,89.0,PayPal
+5657,48,02/27/2025,cotton bedsheet set,bedding,2.0,58.0,credit card
+5861,33,31-07-2025,wool blanket,bedding,3.0,70.0,Debit Card
+5684,81,15/07/2025,Throw Pillow,HomeDecor,,22.0,PAYPAL
+5568,108,08/23/2025, Ceramic Mug Set,kitchen,1.0,27.0,Debit Card 
+6007,44,22/07/2025,String Lights,LIGHTING,2.0,21.0,Debit Card 
+5848,52,23-05-2025,ceramic mug set,KITCHEN,2.0,24.0,credit card
+5471,33,25/11/2025, Throw Pillow,HomeDecor,2.0,22.0,Debit Card 
+5789,44,09/26/2025,THROW PILLOW,home decor,1.0,25.0,Debit Card
+5784,25,20/07/2025,Cotton Bedsheet Set,bedding,1.0,55.0,credit card
+5529,13,02-09-2025,Throw Pillow,HOME DECOR,2.0,22.0,Credit Card
+5662,66,2025-12-06,Wool Bla nket,bedding,1.0,67.0,Credit Card
+5018,83,11-02-2025,cotton bedsheet set,BEDDING,1.0,55.0,credit card
+6251,4,27/02/2025,CERAMIC VASE,HOME DECOR,1.0,28.0,credit card
+5384,83,25/02/2025, Ceramic Vase,HomeDecor,2.0,28.0,PayPal
+5571,21,26/04/2025, Ceramic Vase,home decor,1.0,28.0,PAYPAL
+5905,101,21-03-2025,CUTTING BOARD,KITCHEN,1.0,,PAYPAL
+6267,79,16-10-2025,Non-Stick Pa n Set,KITCHEN,1.0,63.0,Debit Card
+5810,74,2025-07-13,Memory Foam Pillow ,Bedding,1.0,35.0,Debit Card
+5673,100,02/09/2025, Throw Pillow,Home Decor,2.0,22.0,PayPal
+5004,104,10/09/2025, Memory Foam Pillow,Bedding,2.0,32.0,PayPal
+5702,26,2025-09-07,floor lamp,Lighting,3.0,89.0,credit card
+5196,82,11-09-2025,NON-STICK PAN SET,KITCHEN,1.0,60.0,PAYPAL
+6294,14,10/05/2025,Ceramic Mug Set ,Kitchen,,21.0,PayPal
+5298,74,08/07/2025,cotton bedsheet set,bedding,3.0,55.0,PAYPAL
+5202,45,11/09/2025,Throw Pillow ,HOME DECOR,2.0,19.0,Credit Card
+5647,6,16-03-2025,Cutting Board ,KITCHEN,1.0,22.0,Debit Card
+5033,60,09/05/2025, Cotton Bedsheet Set,BEDDING,2.0,55.0,Credit Card
+5766,30,13-04-2025, Cotton Bedsheet Set,bedding,2.0,55.0,Credit Card
+5017,53,29-11-2025,CUTTING BOARD,Kitchen,1.0,16.0,Debit Card 
+5495,96,01/13/2025,TABLE LAMP,Lighting,-2.0,45.0,Debit Card 
+6137,27,29/04/2025,Wa ll Mirror,Home Decor,2.0,65.0,Debit Card 
+5416,15,12-09-2025,Wall Mirror,home decor,2.0,68.0,credit card
+5620,110,06/17/2025,Cotton Bedsheet Set ,Bedding,1.0,55.0,Debit Card 
+6032,29,02/23/2025,cutting board,Kitchen,1.0,16.0,Debit Card 
+5263,98,2025-04-09,Floor Lamp,LIGHTING,3.0,89.0,Debit Card
+5513,47,2025-03-14,Throw Pillow,home decor,3.0,22.0,credit card
+5156,28,08/03/2025,Throw Pillow,HOME DECOR,1.0,22.0,credit card
+5419,2,28/01/2025,THROW PILLOW,HOME DECOR,3.0,,Credit Card
+5015,34,2025-11-04,table lamp,Lighting,-1.0,48.0,Debit Card
+5021,60,16-05-2025, Table Lamp,LIGHTING,1.0,48.0,PayPal
+5208,86,25/08/2025,Non-Stick Pa n Set,Kitchen,1.0,57.0,Debit Card 
+5363,53,18/05/2025,Cutting Board ,Kitchen,2.0,0.0,
+5985,106,12-04-2025,MEMORY FOAM PILLOW,bedding,-2.0,29.0,credit card
+5025,68,2025-08-28,cutting board,kitchen,1.0,19.0,credit card
+5262,23,06/14/2025,Table Lamp,lighting,3.0,42.0,PAYPAL
+5955,71,28/09/2025,cutting board,Kitchen,1.0,22.0,PAYPAL
+5448,64,30-09-2025,Ceramic Vase ,Home Decor,1.0,28.0,PayPal
+5727,62,2025-11-12,cutting board,kitchen,1.0,19.0,Debit Card 
+5710,5,2025-06-16,Non-Stick Pan Set,KITCHEN,2.0,60.0,PayPal
+5761,38,15/07/2025,Ceramic Vase ,HOME DECOR,3.0,28.0,Debit Card
+5158,81,30/12/2025,Wool Blanket,Bedding,2.0,70.0,Credit Card
+5462,16,18/01/2025,Floor La mp,Lighting,1.0,89.0,PAYPAL
+5994,70,07/07/2025,Floor Lamp,lighting,1.0,89.0,Debit Card 
+5718,22,19/09/2025,throw pillow,HOME DECOR,1.0,22.0,PayPal
+6057,44,03/15/2025,Ceramic Mug Set,Kitchen,2.0,24.0,Credit Card
+6223,86,26/01/2025,Ceramic Vase ,HOME DECOR,1.0,28.0,credit card
+5431,85,17-11-2025,Cotton Bedsheet Set,BEDDING,2.0,55.0,Debit Card 
+5095,9,2025-01-24,CUTTING BOARD,Kitchen,2.0,19.0,Debit Card 
+6163,44,09/21/2025, Non-Stick Pan Set,kitchen,2.0,63.0,
+5796,56,29-05-2025,table lamp,Lighting,1.0,48.0,
+5615,62,31/10/2025, Memory Foam Pillow,BEDDING,2.0,32.0,credit card
+6199,17,24-07-2025, Throw Pillow,Home Decor,2.0,19.0,Debit Card 
+5432,87,06/12/2025,string lights,Lighting,1.0,15.0,PAYPAL
+5736,90,26/08/2025,WOOL BLANKET,bedding,2.0,70.0,Debit Card
+6100,11,09/07/2025,Wall Mirror ,home decor,2.0,65.0,PayPal
+6000,82,29/03/2025,THROW PILLOW,HomeDecor,1.0,19.0,Debit Card
+6005,85,2025-04-23,Throw Pillow,Home Decor,2.0,25.0,Debit Card 
+5096,50,05/07/2025,Throw Pillow,Home Decor,1.0,19.0,Debit Card 
+5746,29,11/08/2025,Ceramic Mug Set,KITCHEN,1.0,24.0,Debit Card 
+5374,14,02-07-2025,string lights,Lighting,2.0,15.0,Debit Card
+5750,14,02/03/2025,MEMORY FOAM PILLOW,bedding,3.0,32.0,
+6222,33,05/06/2025,TABLE LAMP,Lighting,2.0,48.0,Debit Card
+6037,28,2025-03-08,Cutting Board ,Kitchen,2.0,19.0,Credit Card
+5873,27,11/01/2025,STRING LIGHTS,Lighting,2.0,18.0,Debit Card 
+5213,18,23/07/2025,Cotton Bedsheet Set,Bedding,3.0,52.0,Debit Card 
+5743,56,04-06-2025,Ceramic Vase ,HOME DECOR,1.0,31.0,Debit Card 
+5501,94,12/10/2025,CERAMIC VASE,home decor,2.0,25.0,credit card
+6214,102,09-09-2025, String Lights,LIGHTING,2.0,15.0,Credit Card
+5373,49,2025-08-08,String Lights,lighting,2.0,18.0,credit card
+5866,54,05/15/2025,non-stick pan set,KITCHEN,2.0,60.0,PayPal
+5966,81,20/08/2025,Throw Pillow,HOME DECOR,1.0,19.0,Debit Card 
+5074,105,10-05-2025,Wool Bla nket,bedding,3.0,73.0,Debit Card 
+6154,77,2025-07-02,string lights,Lighting,1.0,18.0,Debit Card
+6027,61,03/14/2025,ceramic vase,home decor,3.0,31.0,Debit Card
+5828,69,12/25/2025,string lights,Lighting,2.0,15.0,Debit Card
+5035,47,02/10/2025,NON-STICK PAN SET,Kitchen,2.0,60.0,Credit Card
+5491,6,2025-08-28,Wa ll Mirror,Home Decor,2.0,,PayPal
+5255,4,03/21/2025,String Lights,LIGHTING,3.0,18.0,Debit Card
+6064,8,22-11-2025,Floor Lamp,Lighting,1.0,86.0,PayPal
+5747,74,24/03/2025,TABLE LAMP,Lighting,2.0,48.0,Debit Card 
+5991,66,31-01-2025,MEMORY FOAM PILLOW,Bedding,1.0,35.0,Debit Card
+5408,26,24-05-2025,Memory Foam Pillow ,Bedding,2.0,35.0,PayPal
+5559,103,2025-03-30,Ceramic Vase,HOME DECOR,3.0,28.0,PayPal
+5646,89,23/05/2025, Ceramic Mug Set,Kitchen,3.0,24.0,Credit Card
+5547,72,2025-08-12,Table Lamp ,Lighting,2.0,45.0,PayPal
+5344,100,13-05-2025,WALL MIRROR,HOME DECOR,3.0,65.0,PAYPAL
+5925,68,07/11/2025,String Lights ,Lighting,3.0,15.0,PAYPAL
+6112,102,12/02/2025,COTTON BEDSHEET SET,Bedding,1.0,52.0,PAYPAL
+5194,47,21/01/2025,Cotton Bedsheet Set ,BEDDING,1.0,55.0,PayPal
+5215,16,07/01/2025,wool blanket,Bedding,1.0,67.0,Debit Card
+5896,87,01/30/2025, String Lights,lighting,3.0,18.0,Debit Card 
+5277,82,03/12/2025,Floor La mp,Lighting,3.0,89.0,
+6152,96,2025-06-11, Cutting Board,kitchen,2.0,22.0,Debit Card
+5738,13,14-08-2025,table lamp,Lighting,2.0,48.0,Credit Card
+6067,17,2025-10-10, Cotton Bedsheet Set,Bedding,3.0,55.0,Debit Card
+5064,65,2025-12-03,Wool Blanket,bedding,1.0,70.0,Debit Card 
+5354,65,2025-06-30,Cutting Boa rd,Kitchen,1.0,19.0,Credit Card
+6004,24,2025-07-20,Wa ll Mirror,home decor,2.0,65.0,Debit Card 
+5570,92,08/21/2025,cutting board,kitchen,1.0,19.0,PayPal
+6150,104,08/13/2025,CUTTING BOARD,Kitchen,1.0,16.0,Credit Card
+5425,29,2025-06-19,Ceramic Mug Set,Kitchen,1.0,24.0,PAYPAL
+5592,109,06/13/2025,Wa ll Mirror,Home Decor,3.0,68.0,PAYPAL
+5876,6,17/11/2025,floor lamp,lighting,2.0,89.0,Debit Card
+5589,49,02/26/2025,Floor La mp,LIGHTING,1.0,89.0,Debit Card 
+5806,49,2025-06-11, Non-Stick Pan Set,Kitchen,2.0,60.0,credit card
+5577,58,2025-06-11,Cutting Board,kitchen,1.0,19.0,PayPal
+5057,101,14/11/2025, Table Lamp,LIGHTING,2.0,45.0,PAYPAL
+5075,1,01/18/2025,Cutting Board ,Kitchen,1.0,19.0,credit card
+5585,44,15-01-2025,Ta ble La mp,LIGHTING,2.0,45.0,PAYPAL
+6280,37,2025-07-10,throw pillow,HOME DECOR,3.0,22.0,Debit Card
+5489,73,2025-04-25,CUTTING BOARD,Kitchen,1.0,16.0,Credit Card
+6086,56,03-08-2025,cutting board,Kitchen,2.0,22.0,PAYPAL
+5812,82,10/25/2025,cutting board,Kitchen,2.0,19.0,Debit Card 
+5161,103,07/05/2025, Throw Pillow,HomeDecor,3.0,,credit card
+6197,15,04-10-2025,Table Lamp ,Lighting,-1.0,42.0,Debit Card
+6227,20,17-10-2025,Throw Pillow,Home Decor,2.0,22.0,PAYPAL
+5402,55,01/30/2025, Wall Mirror,home decor,,65.0,PayPal
+5844,82,02/05/2025,Table Lamp ,Lighting,1.0,45.0,PAYPAL
+6083,27,14/08/2025,Cera mic Mug Set,Kitchen,2.0,24.0,PayPal
+5835,107,28/05/2025,MEMORY FOAM PILLOW,BEDDING,2.0,35.0,
+6172,84,07/30/2025,Cera mic Mug Set,Kitchen,1.0,24.0,Debit Card
+6203,11,25/09/2025,Cera mic Va se,HomeDecor,-2.0,31.0,PayPal
+5920,71,03/08/2025,cutting board,Kitchen,1.0,16.0,Credit Card
+5516,14,29-06-2025,Table Lamp,LIGHTING,1.0,48.0,Credit Card
+5123,88,2025-07-20,wall mirror,Home Decor,3.0,68.0,Debit Card
+5152,3,2025-10-17,Cotton Bedsheet Set ,Bedding,2.0,58.0,Credit Card
+5950,102,2025-10-29,Cera mic Va se,home decor,2.0,,PayPal
+5181,91,28/11/2025,CUTTING BOARD,kitchen,1.0,16.0,Credit Card
+5079,107,03/23/2025,Memory Foa m Pillow,BEDDING,1.0,32.0,credit card
+5664,41,2025-12-21,non-stick pan set,KITCHEN,2.0,60.0,Credit Card
+5485,46,2025-02-23,COTTON BEDSHEET SET,Bedding,2.0,55.0,credit card
+6268,108,2025-10-27,Memory Foam Pillow,bedding,1.0,32.0,Credit Card
+6108,76,08/26/2025,NON-STICK PAN SET,Kitchen,1.0,60.0,Debit Card 
+5442,91,18/12/2025,Cera mic Mug Set,Kitchen,2.0,21.0,credit card
+5120,42,19/07/2025,ceramic vase,HOME DECOR,1.0,25.0,PayPal
+6041,95,28-05-2025,Throw Pillow ,HomeDecor,3.0,22.0,Debit Card
+5997,61,12/03/2025,Memory Foam Pillow,Bedding,2.0,32.0,PAYPAL
+6021,102,01-08-2025,Throw Pillow,home decor,1.0,19.0,
+6239,39,2025-12-19,Ceramic Mug Set ,Kitchen,1.0,24.0,credit card
+5232,27,2025-01-06,Cotton Bedsheet Set ,Bedding,1.0,55.0,Debit Card
+5775,96,06/10/2025,Throw Pillow,Home Decor,1.0,25.0,Credit Card
+6096,45,27/03/2025,MEMORY FOAM PILLOW,bedding,1.0,32.0,Debit Card
+5207,16,07/27/2025,THROW PILLOW,HOME DECOR,2.0,25.0,PayPal
+5337,52,2025-08-26,Floor Lamp ,lighting,1.0,89.0,Credit Card
+5411,62,18-06-2025,table lamp,Lighting,1.0,42.0,Debit Card 
+5247,80,2025-01-11,Cotton Bedsheet Set ,Bedding,1.0,55.0,credit card
+5249,1,05/06/2025, Memory Foam Pillow,Bedding,2.0,32.0,PayPal
+5699,101,02-12-2025,Cotton Bedsheet Set,Bedding,3.0,55.0,Debit Card
+5233,69,03/10/2025,Floor La mp,Lighting,2.0,92.0,credit card
+5722,52,03/24/2025, Ceramic Vase,home decor,3.0,31.0,credit card
+5912,106,2025-06-27,Floor La mp,Lighting,3.0,92.0,PAYPAL
+5401,101,26/01/2025,Throw Pillow,HomeDecor,1.0,22.0,Debit Card 
+5230,42,13/09/2025,CERAMIC VASE,home decor,2.0,28.0,PayPal
+5238,38,25/06/2025,Cutting Board ,kitchen,3.0,19.0,PAYPAL
+5690,45,2025-03-01,Floor La mp,LIGHTING,2.0,86.0,Credit Card
+6088,106,03-04-2025,string lights,Lighting,2.0,18.0,Debit Card
+5049,21,23-12-2025,Cotton Bedsheet Set,bedding,2.0,,credit card
+6276,99,12/12/2025, Wool Blanket,Bedding,-1.0,73.0,Debit Card
+5469,48,19-11-2025,Throw Pillow ,Home Decor,3.0,19.0,credit card
+5072,69,21-07-2025,ceramic mug set,KITCHEN,1.0,24.0,Debit Card
+5484,44,14/10/2025,Non-Stick Pan Set,KITCHEN,,60.0,PayPal
+5886,28,2025-01-09,wall mirror,HOME DECOR,1.0,65.0,Credit Card
+5826,52,03/06/2025, Throw Pillow,HomeDecor,2.0,19.0,Credit Card
+6040,67,2025-02-28,Cera mic Va se,Home Decor,1.0,28.0,Credit Card
+5031,35,2025-11-12,string lights,lighting,1.0,18.0,Credit Card
+5769,20,2025-05-02, Floor Lamp,Lighting,2.0,86.0,Credit Card
+5311,46,2025-06-17,wool blanket,bedding,1.0,70.0,PayPal
+5688,22,07/07/2025,CUTTING BOARD,Kitchen,3.0,19.0,credit card
+5958,100,07/29/2025,Floor Lamp ,Lighting,1.0,86.0,PayPal
+6284,65,12/09/2025,Ceramic Mug Set ,kitchen,1.0,24.0,Debit Card
+6159,90,2025-11-01,THROW PILLOW,home decor,2.0,22.0,Credit Card
+5011,32,04/25/2025,Throw Pillow,Home Decor,1.0,25.0,Debit Card 
+6153,40,04-08-2025,CERAMIC MUG SET,Kitchen,3.0,21.0,Debit Card
+5132,68,2025-11-21,STRING LIGHTS,Lighting,3.0,15.0,
+5281,47,2025-04-16,memory foam pillow,BEDDING,1.0,32.0,Credit Card
+5689,23,2025-03-09,CERAMIC VASE,HOME DECOR,2.0,28.0,Debit Card 
+5253,52,2025-02-03,Ceramic Mug Set ,KITCHEN,2.0,,credit card
+5409,18,05/19/2025,Memory Foam Pillow,Bedding,2.0,32.0,Credit Card
+5976,100,26/09/2025,cotton bedsheet set,Bedding,3.0,55.0,Debit Card 
+5260,45,2025-12-14,Throw Pillow,HomeDecor,2.0,22.0,Credit Card
+5456,82,2025-10-08,Throw Pillow,Home Decor,2.0,22.0,Debit Card
+5184,104,2025-12-13,Wall Mirror,HOME DECOR,2.0,65.0,PayPal
+5140,54,02/08/2025,Cera mic Mug Set,Kitchen,3.0,24.0,Credit Card
+5488,19,12/09/2025,THROW PILLOW,Home Decor,,22.0,credit card
+5089,28,2025-09-17,THROW PILLOW,HOME DECOR,,22.0,PayPal
+5201,46,06-05-2025,Cutting Board ,Kitchen,3.0,19.0,Debit Card
+5077,7,18-10-2025,Ceramic Vase ,home decor,1.0,25.0,PAYPAL
+5945,2,03-08-2025, Wool Blanket,bedding,3.0,73.0,Debit Card 
+6262,75,12/07/2025, Table Lamp,lighting,1.0,42.0,credit card
+5583,34,17/07/2025,Cutting Board ,kitchen,1.0,,credit card
+5706,66,01-11-2025, Cotton Bedsheet Set,BEDDING,1.0,55.0,credit card
+5381,92,28/07/2025,floor lamp,lighting,3.0,92.0,PayPal
+5427,84,06/28/2025,CUTTING BOARD,kitchen,2.0,19.0,Debit Card 
+5619,80,2025-03-22,Floor La mp,lighting,3.0,89.0,Debit Card 
+5851,104,12-10-2025,Throw Pillow ,home decor,2.0,22.0,Credit Card
+5477,81,01-07-2025,String Lights,LIGHTING,1.0,15.0,Debit Card 
+5555,89,12/13/2025,Ceramic Vase,home decor,2.0,28.0,PAYPAL
+5114,36,2025-02-25, Table Lamp,Lighting,1.0,45.0,Credit Card
+5506,5,06-08-2025,String Lights ,Lighting,1.0,15.0,credit card
+5713,5,09-10-2025,Wool Bla nket,Bedding,1.0,70.0,credit card
+6008,69,2025-11-23,CUTTING BOARD,KITCHEN,1.0,19.0,PAYPAL
+5199,98,10-03-2025,Memory Foam Pillow ,bedding,1.0,32.0,
+6170,54,15-09-2025,COTTON BEDSHEET SET,Bedding,,55.0,Credit Card
+5616,76,03/16/2025,wool blanket,Bedding,1.0,0.0,Credit Card
+5461,94,12/14/2025,Floor La mp,LIGHTING,1.0,89.0,PAYPAL
+6261,21,11-09-2025, Cotton Bedsheet Set,Bedding,2.0,58.0,Debit Card
+5467,29,19-11-2025,Floor Lamp ,LIGHTING,1.0,92.0,PayPal
+5942,40,05-11-2025, Wool Blanket,Bedding,2.0,70.0,credit card
+5893,51,07-08-2025,Wall Mirror ,Home Decor,1.0,65.0,credit card
+5326,45,03/11/2025, Wall Mirror,HomeDecor,1.0,65.0,credit card
+5476,107,19-11-2025,Cera mic Mug Set,KITCHEN,2.0,24.0,PAYPAL
+6110,48,10/28/2025,Wool Blanket,Bedding,1.0,70.0,PayPal
+5163,93,19-03-2025,CERAMIC VASE,HomeDecor,2.0,28.0,credit card
+5644,48,19/01/2025,THROW PILLOW,Home Decor,3.0,22.0,Debit Card 
+5593,59,29/08/2025,String Lights,lighting,3.0,18.0,Debit Card
+6073,3,24-12-2025,Non-Stick Pan Set ,KITCHEN,,63.0,Credit Card
+5882,63,2025-07-05,Cotton Bedsheet Set,Bedding,2.0,55.0,PAYPAL
+5539,5,01-04-2025,Cotton Bedsheet Set ,bedding,2.0,52.0,PayPal
+5081,8,15-10-2025, Ceramic Mug Set,Kitchen,2.0,27.0,PayPal
+6290,7,20/12/2025,Ta ble La mp,lighting,3.0,45.0,credit card
+5342,33,13/10/2025,CERAMIC VASE,HOME DECOR,1.0,28.0,
+5440,46,21/02/2025,Cera mic Mug Set,Kitchen,1.0,24.0,Credit Card
+5177,5,09/07/2025,Wool Blanket ,Bedding,2.0,67.0,Credit Card
+5705,55,19-03-2025,Table Lamp,lighting,2.0,42.0,credit card
+5566,9,03/19/2025, Non-Stick Pan Set,KITCHEN,3.0,60.0,PAYPAL
+6014,44,11/13/2025,Cotton Bedsheet Set,Bedding,2.0,52.0,Debit Card
+5549,106,2025-12-25,THROW PILLOW,home decor,2.0,22.0,Credit Card
+5445,35,2025-04-07,Wa ll Mirror,home decor,2.0,65.0,Debit Card 
+5306,73,02/17/2025,Memory Foam Pillow,Bedding,1.0,35.0,PayPal
+5634,68,2025-12-15,Non-Stick Pan Set ,Kitchen,2.0,63.0,credit card
+5478,46,16/01/2025,Cotton Bedsheet Set,BEDDING,1.0,55.0,Debit Card
+5331,81,2025-05-02, Floor Lamp,Lighting,1.0,86.0,PayPal
+5988,70,2025-09-06,Throw Pillow,Home Decor,3.0,19.0,PayPal
+5802,53,14/02/2025,Wool Blanket,Bedding,1.0,70.0,PayPal
+5843,66,2025-12-05,table lamp,lighting,1.0,42.0,Credit Card
+5290,73,28/12/2025, Ceramic Mug Set,Kitchen,1.0,24.0,credit card
+6024,62,2025-08-28,floor lamp,LIGHTING,1.0,89.0,PAYPAL
+5166,19,08/10/2025,Floor Lamp,Lighting,1.0,92.0,credit card
+5924,50,10-10-2025, Wall Mirror,home decor,2.0,65.0,Credit Card
+5405,38,2025-12-02,TABLE LAMP,LIGHTING,1.0,45.0,credit card
+5600,92,2025-08-08,wall mirror,home decor,1.0,68.0,Credit Card
+6148,106,10/14/2025,Table Lamp ,Lighting,3.0,,Debit Card 
+5622,64,2025-07-06,Floor Lamp ,lighting,1.0,92.0,Debit Card 
+5124,36,2025-07-24, Cotton Bedsheet Set,Bedding,1.0,52.0,Debit Card 
+5499,11,2025-01-23,THROW PILLOW,HomeDecor,3.0,25.0,credit card
+5307,7,2025-01-22,STRING LIGHTS,Lighting,3.0,21.0,Debit Card
+6019,63,12-07-2025,Floor Lamp ,LIGHTING,1.0,89.0,PayPal
+6130,46,13/02/2025, String Lights,Lighting,1.0,18.0,credit card
+5601,29,2025-11-06,Cutting Boa rd,Kitchen,1.0,19.0,PayPal
+6246,46,01/11/2025,Ceramic Mug Set,Kitchen,2.0,27.0,PayPal
+6277,31,11/02/2025,COTTON BEDSHEET SET,Bedding,1.0,58.0,PAYPAL
+5259,57,07/08/2025,Non-Stick Pan Set ,KITCHEN,2.0,63.0,PayPal
+5661,38,2025-05-06,CUTTING BOARD,Kitchen,2.0,16.0,PayPal
+6015,37,30-06-2025, Wall Mirror,Home Decor,1.0,65.0,PayPal
+5773,11,10/11/2025,Throw Pillow,HOME DECOR,2.0,25.0,Debit Card
+5928,98,2025-12-21,floor lamp,LIGHTING,1.0,89.0,credit card
+5400,69,03/16/2025, Wall Mirror,Home Decor,,62.0,
+5614,11,09-04-2025,wall mirror,HOME DECOR,1.0,68.0,credit card
+5907,52,07/22/2025, Memory Foam Pillow,bedding,1.0,29.0,PayPal
+5206,92,24-01-2025, Wall Mirror,home decor,1.0,65.0,Credit Card
+5108,77,2025-11-06,cutting board,KITCHEN,1.0,22.0,credit card
+5296,26,13-02-2025, Memory Foam Pillow,BEDDING,2.0,32.0,credit card
+6025,109,2025-05-26,Non-Stick Pan Set,kitchen,1.0,63.0,Debit Card 
+6101,103,04/29/2025,Ceramic Vase,Home Decor,3.0,28.0,Debit Card 
+5355,54,25/11/2025,String Lights ,LIGHTING,1.0,15.0,PayPal
+5413,5,2025-09-20, Ceramic Vase,home decor,2.0,28.0,Credit Card
+6034,66,31/08/2025,throw pillow,Home Decor,1.0,19.0,Credit Card
+5838,103,2025-02-17,ceramic mug set,Kitchen,3.0,24.0,PayPal
+5423,44,08/25/2025, Throw Pillow,HomeDecor,1.0,22.0,Credit Card
+5007,68,12-07-2025, Table Lamp,lighting,1.0,42.0,PAYPAL
+5071,15,25-01-2025,Wool Blanket ,Bedding,2.0,73.0,Debit Card
+5900,53,2025-09-15, Table Lamp,lighting,2.0,45.0,PayPal
+5546,84,2025-09-20, Cutting Board,kitchen,2.0,19.0,PAYPAL
+6274,70,16-06-2025,Cera mic Va se,HOME DECOR,2.0,28.0,Debit Card 
+6221,37,03/02/2025, Wall Mirror,HOME DECOR,-1.0,65.0,Debit Card 
+6136,96,09/19/2025,Throw Pillow,home decor,1.0,25.0,credit card
+5613,45,02/07/2025,COTTON BEDSHEET SET,BEDDING,1.0,55.0,credit card
+5916,83,16-12-2025,cutting board,Kitchen,1.0,19.0,PayPal
+5362,42,22/01/2025,Cutting Board ,kitchen,-2.0,19.0,Debit Card 
+5433,3,01/09/2025,throw pillow,HomeDecor,2.0,25.0,PayPal
+5288,101,08-06-2025,Cutting Boa rd,kitchen,-2.0,19.0,Debit Card
